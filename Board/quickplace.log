@@ -1,0 +1,47 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : sanT_4ch.brd                                  )
+(    Software Version : 16.5P003                                      )
+(    Date/Time        : Mon Jun 12 01:31:41 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  C1 / CAP NP_STD0603_10UF/25V/0603 / STD0603 at (-45.25 36.85)
+         Placed symbol:  C3 / CAP NP_STD0603_10UF/25V/0603 / STD0603 at (-41.95 36.85)
+         Placed symbol:  C5 / CAP NP_STD0603_10UF/25V/0603 / STD0603 at (-38.65 36.85)
+         Placed symbol:  C7 / CAP NP_STD0603_10UF/25V/0603 / STD0603 at (-35.35 36.85)
+         Placed symbol:  C2 / CAP NP_STD0603_100NF/50V/0603 / STD0603 at (-32.05 36.85)
+         Placed symbol:  C4 / CAP NP_STD0603_100NF/50V/0603 / STD0603 at (-28.75 36.85)
+         Placed symbol:  C6 / CAP NP_STD0603_100NF/50V/0603 / STD0603 at (-25.45 36.85)
+         Placed symbol:  R1 / R_STD0603_10KR/0603/ / STD0603 at (-22.15 36.85)
+         Placed symbol:  R15 / R_STD0603_10KR/0603/ / STD0603 at (-18.85 36.85)
+         Placed symbol:  R2 / R_STD0603_10KR/0603/ / STD0603 at (-15.55 36.85)
+         Placed symbol:  R10 / R_STD0603_1KR/0603/ / STD0603 at (-12.25 36.85)
+         Placed symbol:  R11 / R_STD0603_1KR/0603/ / STD0603 at (-8.95 36.85)
+         Placed symbol:  R13 / R_STD0603_1KR/0603/ / STD0603 at (-5.65 36.85)
+         Placed symbol:  R14 / R_STD0603_1KR/0603/ / STD0603 at (-2.35 36.85)
+         Placed symbol:  R3 / R_STD0603_1KR/0603/ / STD0603 at (0.95 36.85)
+         Placed symbol:  R4 / R_STD0603_1KR/0603/ / STD0603 at (4.25 36.85)
+         Placed symbol:  R5 / R_STD0603_1KR/0603/ / STD0603 at (7.55 36.85)
+         Placed symbol:  R6 / R_STD0603_1KR/0603/ / STD0603 at (10.85 36.85)
+         Placed symbol:  R7 / R_STD0603_1KR/0603/ / STD0603 at (14.15 36.85)
+         Placed symbol:  R8 / R_STD0603_1KR/0603/ / STD0603 at (17.45 36.85)
+         Placed symbol:  R9 / R_STD0603_1KR/0603/ / STD0603 at (20.75 36.85)
+         Placed symbol:  R12 / R_STD0603_10KR/0603 / STD0603 at (24.05 36.85)
+         Placed symbol:  R16 / R_STD0603_10KR/0603 / STD0603 at (27.35 36.85)
+         Placed symbol:  R17 / R_STD0603_10KR/0603 / STD0603 at (30.65 36.85)
+         Placed symbol:  R18 / R_STD0603_10KR/0603 / STD0603 at (33.95 36.85)
+         Placed symbol:  R19 / R_STD0603_10KR/0603 / STD0603 at (37.25 36.85)
+         Placed symbol:  R21 / R_STD0603_10KR/0603 / STD0603 at (40.55 36.85)
+         Placed symbol:  R20 / R_STD0603_1KR/0603 / STD0603 at (43.85 36.85)
+
+
+Placed 28 of 28 applicable (28 total) symbols.
+
+-----------------------------------------------------------------------
+

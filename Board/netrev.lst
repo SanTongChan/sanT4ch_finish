@@ -1,0 +1,91 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : sanT_4ch.brd                                  )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Jun 13 00:17:08 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'E:/mysch/allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'E:/sanT_4ch/Board/sanT_4ch.brd';
+NEW_BOARD_NAME 'E:/sanT_4ch/Board/sanT_4ch.brd';
+
+CmdLine: netrev -$ -i E:/mysch/allegro -y 1 E:/sanT_4ch/Board/#Taaaaaa02432.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/mysch/allegro/pstchip.dat 
+   Finished reading E:/mysch/allegro/pstchip.dat (00:00:00.06)
+Starting to read E:/mysch/allegro/pstxprt.dat 
+   Finished reading E:/mysch/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/mysch/allegro/pstxnet.dat 
+   Finished reading E:/mysch/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           E:/candence/soft/SPB_16.5/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/candence/soft/SPB_16.5/share/local/pcb/symbols 
+           E:/candence/soft/SPB_16.5/share/pcb/pcb_lib/symbols 
+           E:/candence/soft/SPB_16.5/share/pcb/allegrolib/symbols 
+           E:\PCBSymbol 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/candence/soft/SPB_16.5/share/local/pcb/padstacks 
+           E:/candence/soft/SPB_16.5/share/pcb/pcb_lib/symbols 
+           E:/candence/soft/SPB_16.5/share/pcb/allegrolib/symbols 
+           E:\PCBSymbol 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 13 0:17:08 2017
+   DESIGN NAME : 'SANT-4CH'
+   PACKAGING ON Apr 21 2011 10:02:30
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:39
+elapsed time  0:00:00
+
