@@ -3244,4 +3244,141 @@
 \i (01:30:00) trapsize 32
 \i (01:30:03) zoom in 1 
 \i (01:30:03) setwindow pcb
-\i (01:30:03) zo
+\i (01:30:03) zoom in -25.07 9.41
+\i (01:30:03) trapsize 16
+\i (01:30:04) zoom in 1 
+\i (01:30:04) setwindow pcb
+\i (01:30:04) zoom in -25.64 9.38
+\i (01:30:04) trapsize 8
+\i (01:30:04) zoom in 1 
+\i (01:30:04) setwindow pcb
+\i (01:30:04) zoom in -25.59 9.49
+\i (01:30:04) trapsize 4
+\i (01:30:05) zoom in 1 
+\i (01:30:05) setwindow pcb
+\i (01:30:05) zoom in -25.20 9.75
+\i (01:30:05) trapsize 2
+\i (01:30:05) zoom in 1 
+\i (01:30:05) setwindow pcb
+\i (01:30:05) zoom in -25.20 9.75
+\i (01:30:05) trapsize 1
+\i (01:30:06) zoom out 1 
+\i (01:30:06) setwindow pcb
+\i (01:30:06) zoom out -25.07 9.74
+\i (01:30:06) trapsize 2
+\i (01:30:06) zoom out 1 
+\i (01:30:06) setwindow pcb
+\i (01:30:06) zoom out -25.06 9.74
+\i (01:30:06) trapsize 4
+\i (01:30:07) zoom out 1 
+\i (01:30:07) setwindow pcb
+\i (01:30:07) zoom out -25.00 9.66
+\i (01:30:07) trapsize 8
+\i (01:30:07) zoom out 1 
+\i (01:30:07) setwindow pcb
+\i (01:30:07) zoom out -25.01 9.46
+\i (01:30:07) trapsize 16
+\i (01:30:20) pick grid -11.94 12.82
+\t (01:30:20) last pick:  -12.16  12.80
+\t (01:30:20) Ratsnest shown for net RELAY2
+\i (01:30:46) zoom out 1 
+\i (01:30:47) setwindow pcb
+\i (01:30:47) zoom out -19.99 14.11
+\i (01:30:47) trapsize 31
+\i (01:30:47) zoom out 1 
+\i (01:30:47) setwindow pcb
+\i (01:30:47) zoom out -20.00 14.12
+\i (01:30:47) trapsize 63
+\i (01:30:47) zoom in 1 
+\i (01:30:47) setwindow pcb
+\i (01:30:47) zoom in -8.17 7.95
+\i (01:30:47) trapsize 31
+\i (01:30:47) zoom in 1 
+\i (01:30:47) setwindow pcb
+\i (01:30:47) zoom in -8.16 7.95
+\i (01:30:47) trapsize 16
+\i (01:30:48) zoom out 1 
+\i (01:30:48) setwindow pcb
+\i (01:30:48) zoom out -12.06 9.08
+\i (01:30:48) trapsize 31
+\i (01:30:56) zoom in 1 
+\i (01:30:56) setwindow pcb
+\i (01:30:56) zoom in -40.30 14.75
+\i (01:30:56) trapsize 16
+\i (01:30:57) zoom out 1 
+\i (01:30:57) setwindow pcb
+\i (01:30:57) zoom out -40.08 14.66
+\i (01:30:57) trapsize 31
+\i (01:30:58) zoom in 1 
+\i (01:30:58) setwindow pcb
+\i (01:30:58) zoom in -12.65 11.07
+\i (01:30:58) trapsize 16
+\i (01:30:58) zoom in 1 
+\i (01:30:58) setwindow pcb
+\i (01:30:58) zoom in -12.46 11.08
+\i (01:30:58) trapsize 8
+\i (01:30:59) zoom out 1 
+\i (01:30:59) setwindow pcb
+\i (01:30:59) zoom out -12.04 11.05
+\i (01:30:59) trapsize 16
+\i (01:30:59) zoom out 1 
+\i (01:30:59) setwindow pcb
+\i (01:30:59) zoom out -12.01 11.05
+\i (01:30:59) trapsize 31
+\i (01:31:01) zoom out 1 
+\i (01:31:01) setwindow pcb
+\i (01:31:01) zoom out -11.62 10.43
+\i (01:31:01) trapsize 63
+\i (01:31:02) zoom in 1 
+\i (01:31:02) setwindow pcb
+\i (01:31:02) zoom in -12.38 8.04
+\i (01:31:02) trapsize 31
+\i (01:31:02) zoom in 1 
+\i (01:31:02) setwindow pcb
+\i (01:31:02) zoom in -12.38 8.04
+\i (01:31:02) trapsize 16
+\i (01:31:02) zoom in 1 
+\i (01:31:02) setwindow pcb
+\i (01:31:02) zoom in -12.38 8.14
+\i (01:31:02) trapsize 8
+\i (01:31:04) zoom out 1 
+\i (01:31:04) setwindow pcb
+\i (01:31:04) zoom out -11.89 9.40
+\i (01:31:04) trapsize 16
+\i (01:31:06) zoom out 1 
+\i (01:31:06) setwindow pcb
+\i (01:31:06) zoom out -10.71 8.52
+\i (01:31:06) trapsize 31
+\i (01:43:47) zoom out 1 
+\i (01:43:47) setwindow pcb
+\i (01:43:47) zoom out -24.23 16.76
+\i (01:43:47) trapsize 63
+\i (01:43:47) zoom out 1 
+\i (01:43:47) setwindow pcb
+\i (01:43:47) zoom out -24.22 15.26
+\i (01:43:47) trapsize 126
+\i (01:43:47) zoom out 1 
+\i (01:43:47) setwindow pcb
+\i (01:43:47) zoom out 12.35 25.46
+\i (01:43:47) trapsize 126
+\i (01:43:48) zoom in 1 
+\i (01:43:48) setwindow pcb
+\i (01:43:48) zoom in -54.45 28.49
+\i (01:43:48) trapsize 63
+\i (01:43:48) zoom in 1 
+\i (01:43:48) setwindow pcb
+\i (01:43:48) zoom in -54.45 29.00
+\i (01:43:48) trapsize 32
+\i (01:43:49) zoom in 1 
+\i (01:43:49) setwindow pcb
+\i (01:43:49) zoom in -48.33 30.14
+\i (01:43:49) trapsize 16
+\i (01:43:50) pick grid -47.29 30.37
+\t (01:43:50) last pick:  -47.36  30.08
+\i (01:44:08) place manual 
+\i (01:44:10) setwindow form.plc_manual
+\i (01:44:10) FORM plc_manual advanced_settings  
+\i (01:44:11) FORM plc_manual placement_list  
+\i (01:44:12) FORM plc_manual tree  'Components by refdes' 
+\i (01:44:15) FORM plc_manual categories Package symbols 
+\i (01:44:17) FORM plc_manual c

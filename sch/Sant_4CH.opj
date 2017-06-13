@@ -11,6 +11,54 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (5P-1
+      (FullPartName "5P-1.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0"))
+    (2P
+      (FullPartName "2P.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON"
+      (FullPartName "SW PUSHBUTTON.Normal")
+      (LibraryName
+         "E:\CANDENCE\SOFT\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-YM061"
+      (FullPartName "SW KEY-YM061.Normal")
+      (LibraryName
+         "E:\CANDENCE\SOFT\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-SPST"
+      (FullPartName "SW KEY-SPST.Normal")
+      (LibraryName
+         "E:\CANDENCE\SOFT\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (3P
+      (FullPartName "3P.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0"))
+    (SL-5V-RELAY
+      (FullPartName "SL-5V-RELAY.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "E:\CANDENCE\SOFT\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MICRO-USB
+      (FullPartName "MICRO-USB.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0"))
+    (ULN2003
+      (FullPartName "ULN2003.Normal")
+      (LibraryName "E:\PARTLIB\IC.OLB")
+      (DeviceIndex "0"))
+    (74hc595
+      (FullPartName "74hc595.Normal")
+      (LibraryName "E:\PARTLIB\IC.OLB")
+      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName
@@ -44,8 +92,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 222 1146 0 463")
-        (Scroll "-137 0")
-        (Zoom "37")
+        (Scroll "-79 0")
+        (Zoom "44")
         (Occurrence "/"))
       (Path "E:\SANT_4CH\SCH\SANT_4CH.DSN")
       (Schematic "SCHEMATIC1")
