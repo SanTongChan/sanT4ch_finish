@@ -3,19 +3,82 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
-|                                                    Tue Jun 13 23:57:59 2017  |
+|                                                    Wed Jun 14 03:31:04 2017  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| SLOT PROPERTIES added to board drawing                                       |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  KEY3         pins MOVED FROM this net (to net name listed on right)
-                                 U10.15            -4.50   19.40
-                                                                           KEY4
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  KEY4         pins MOVED FROM this net (to net name listed on right)
-                                 U10.5             -8.32   24.12
-                                                                           KEY3
+ C1.2            -17.28    6.40 SECTION        
+ C2.2            -17.28    5.12 SECTION        
+ C3.2            -30.72    5.12 SECTION        
+ C4.2            -32.64    5.12 SECTION        
+ C5.2             -6.40    5.12 SECTION        
+ C6.2            -17.28    3.84 SECTION        
+ C7.2            -17.28    2.56 SECTION        
+ D1.1             22.30   29.50 SECTION        
+ D2.1             14.50   29.50 SECTION        
+ D3.1             -8.90   29.50 SECTION        
+ D4.1              6.70   29.50 SECTION        
+ D5.1             -1.10   29.50 SECTION        
+ D6.1            -16.70   29.50 SECTION        
+ D7.1            -24.49   29.56 SECTION        
+ R1.2             -8.32    5.12 SECTION        
+ R2.2             35.20  -25.60 SECTION        
+ R3.2            -10.24    5.12 SECTION        
+ R4.2             12.80   23.68 SECTION        
+ R5.2             10.88   23.68 SECTION        
+ R6.2              8.96   23.68 SECTION        
+ R7.2              7.04   23.68 SECTION        
+ R8.2              5.12   23.68 SECTION        
+ R9.2              3.20   23.68 SECTION        
+ R10.2           -38.40   12.16 SECTION        
+ R11.2           -38.40   10.24 SECTION        
+ R12.2           -38.40    6.40 SECTION        
+ R13.2           -30.72   25.60 SECTION        
+ R14.2           -38.40    8.32 SECTION        
+ R15.2           -38.40   14.08 SECTION        
+ R16.2           -28.80    5.12 SECTION        
+ R17.2           -17.28   16.00 SECTION        
+ R18.2           -17.28   18.56 SECTION        
+ SW1.2           -46.00   15.00 SECTION        
+ SW2.2           -46.00    5.30 SECTION        
+ SW3.2           -46.00   -4.50 SECTION        
+ SW4.2           -46.00  -14.30 SECTION        
+ SW5.2           -46.00   31.00 SECTION        
+ U1.1            -22.40    4.48 SECTION        
+ U2.2             33.28   10.24 SECTION        
+ U3.2             35.84   30.72 SECTION        
+ U4.2            -37.12  -28.80 SECTION        
+ U5.4            -41.60  -28.80 SECTION        
+ U6.1            -37.40  -31.95 SECTION        
+ U7.16             7.04   17.28 SECTION        
+ U8.3             26.00  -31.90 SECTION        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  2                                              |
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:31:04 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U9.3             11.00  -31.90 SECTION        
+ U10.16           -7.68   21.76 SECTION        
+ U11.8             7.04    8.96 SECTION        
+ U12.3            21.50   -2.10 SECTION        
+ U13.3             3.00   -2.10 SECTION        
+ U14.3           -15.50   -2.10 SECTION        
+ U15.3           -34.00   -2.10 SECTION        
+ U16.2            -4.00  -31.90 SECTION        
+ U17.3           -19.00  -31.90 SECTION        
+ U18.3            36.00  -31.90 SECTION        
+ U19.23           -8.96   12.16 SECTION        
+ U20.5           -35.20    9.60 SECTION        
+ U21.9            -1.28   14.08 SECTION        
+ U22.5           -28.16   33.28 SECTION        
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  59                                             |
 |------------------------------------------------------------------------------|

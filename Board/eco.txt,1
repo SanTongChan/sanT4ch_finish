@@ -3,27 +3,577 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
-|                                                    Tue Jun 13 23:54:54 2017  |
+|                                                    Wed Jun 14 03:26:55 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  KEY1         pins MOVED FROM this net (to net name listed on right)
-                                 U10.15            -4.50   19.40
-                                                                           KEY3
+  433DATA      pins MOVED FROM this net (to net name listed on right)
+                                 U19.5            -17.85   12.03
+                                                                           KEY4
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.2             -20.90    3.06
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  KEY2         pins MOVED FROM this net (to net name listed on right)
-                                 U10.5             -8.32   24.12
+  433LED       pins MOVED FROM this net (to net name listed on right)
+                                 D3.2              -7.63   29.50
+                                                                         N05401
+                                 R8.2               5.12   24.48
+                                                                         N05409
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COM3         pins MOVED FROM this net (to net name listed on right)
+                                 U16.2             -9.00  -31.90
+                                                                              L
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COM4         pins MOVED FROM this net (to net name listed on right)
+                                 U17.2            -24.00  -31.90
+                                                                           COM3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON1         net RENAMED (to net name listed on right)           CON_RELAY1   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON2         net RENAMED (to net name listed on right)           CON_RELAY2   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON3         net RENAMED (to net name listed on right)           CON_RELAY3   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON4         net RENAMED (to net name listed on right)           CON_RELAY4   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_KEY1     pins MOVED FROM this net (to net name listed on right)
+                                 R15.1            -39.20   14.08
+                                                                         VCC3V3
+                                 SW5.2            -46.00   28.75
+                                                                       CON_KEY5
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U21.17            -0.03   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_KEY2     pins MOVED FROM this net (to net name listed on right)
+                                 R10.1            -39.20   12.16
+                                                                           SLED
+                                 SW1.2            -46.00   12.75
+                                                                       CON_KEY1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_KEY3     pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U21.19             1.27   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_KEY4     pins MOVED FROM this net (to net name listed on right)
+                                 R14.1            -39.20    8.32
+                                                                         VCC3V3
+                                 SW3.2            -46.00   -6.75
+                                                                       CON_KEY3
+                                 U19.19           -19.12   -1.18
+                                                                         RELAY2
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U21.20             1.92   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_KEY5     pins ADDED TO this new net
+                                 U21.16            -0.68   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_KEY2/CLK pins ADDED TO this new net
+                                 U21.18             0.62   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_KEY3/CLK pins MOVED FROM this net (to net name listed on right)
+                                 R11.1            -39.20   10.24
+                                                                         VCC3V3
+                                 SW2.2            -46.00    3.05
+                                                                   CON_KEY2/CLK
+                                 U21.3              0.62   17.28
+                                                                           SCK1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_RELAY1   net RENAMED (to net name listed on right)           R1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_RELAY2   net RENAMED (to net name listed on right)           R2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_RELAY3   net RENAMED (to net name listed on right)           R3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CON_RELAY4   net RENAMED (to net name listed on right)           R4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DEBUG        pins MOVED FROM this net (to net name listed on right)
+                                 U22.5            -38.32   33.28
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 U1.1             -20.90    5.60
+                                                                         VCC3V3
+                                 U7.16             11.48   14.92
+                                                                         VCC3V3
+                                 U10.16            -3.24   19.40
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                         VCC3V3
+                                 U19.7            -20.39   12.03
+                                                                           SLED
+                                 U21.5             -0.68   17.28
+                                                                        433DATA
+                                 U22.4            -35.78   33.28
+                                                                     LIMIT1/RST
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U20.4            -27.58    9.60
+                                 U21.7             -1.98   17.28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  KEY1         pins MOVED FROM this net (to net name listed on right)
+                                 R17.2            -16.48   16.00
+                                                                         N03089
+                                 U10.7            -10.86   24.12
                                                                            KEY4
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  KEY3         pins MOVED FROM this net (to net name listed on right)
+  KEY2         pins MOVED FROM this net (to net name listed on right)
+                                 R18.2            -18.08   18.56
+                                                                            GND
                                  U10.6             -9.58   24.12
+                                                                           KEY3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  KEY3         pins MOVED FROM this net (to net name listed on right)
+                                 U10.5             -8.32   24.12
                                                                            KEY2
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   KEY4         pins MOVED FROM this net (to net name listed on right)
-                                 U10.7            -10.86   24.12
+                                 U10.15            -4.50   19.40
                                                                            KEY1
+                                 U20.5            -25.04    9.60
+                                                                          DEBUG
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L            pins MOVED FROM this net (to net name listed on right)
+                                 R2.1              34.63  -26.17
+                                                                         VCC3V3
+                                 U18.2             31.00  -31.90
+                                                                           COM4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED1         net RENAMED (to net name listed on right)           N05393       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED2         net RENAMED (to net name listed on right)           N05397       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED3         pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  4                                              |
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 D4.2               7.97   29.50
+                                                                         N05405
+                                 R6.2               8.96   24.48
+                                                                         N05401
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED4         pins MOVED FROM this net (to net name listed on right)
+                                 D5.2               0.17   29.50
+                                                                         N05409
+                                 R7.2               7.04   24.48
+                                                                         N05405
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LIMIT2       pins ADDED TO this new net
+                                 R2.2              35.77  -25.03
+                                 U21.11            -3.93   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LIMIT1/RST   pins ADDED TO this new net
+                                 U3.2              33.30   30.72
+                                 U21.4             -0.03   17.28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LIMITER0     pins MOVED FROM this net (to net name listed on right)
+                                 R3.2             -10.24    5.92
+                                                                              N
+                                 U19.11           -22.55    7.33
+                                                                         RELAY3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MODELED      net RENAMED (to net name listed on right)           N05413       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MODE_KEY     pins MOVED FROM this net (to net name listed on right)
+                                 R12.1            -39.20    6.40
+                                                                         VCC3V3
+                                 SW4.2            -46.00  -16.55
+                                                                       CON_KEY4
+                                 U19.20           -17.85   -1.18
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00426       pins MOVED FROM this net (to net name listed on right)
+                                 R16.2            -28.80    5.92
+                                                                         N03085
+                                 U20.3            -30.12    9.60
+                                                                             TX
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00502       pins MOVED FROM this net (to net name listed on right)
+                                 R13.2            -31.52   25.60
+                                                                       CON_KEY3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N03085       pins ADDED TO this new net
+                                 U19.24           -12.77   -1.18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03089       pins ADDED TO this new net
+                                 U19.3            -15.31   12.03
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12465       net RENAMED (to net name listed on right)           LED1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12469       net RENAMED (to net name listed on right)           LED2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12473       net RENAMED (to net name listed on right)           LED3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12477       net RENAMED (to net name listed on right)           LED4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12481       net RENAMED (to net name listed on right)           433_LED      
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17728       pins MOVED FROM this net (to net name listed on right)
+                                 D7.1             -23.22   29.56
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N64818       net RENAMED (to net name listed on right)           MODE_LED     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N70353       pins MOVED FROM this net (to net name listed on right)
+                                 U2.1              38.36    2.24
+                                                                              L
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N            pins MOVED FROM this net (to net name listed on right)
+                                 U18.1             36.00  -31.90
+                                                                            NC4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NC3          pins MOVED FROM this net (to net name listed on right)
+                                 U16.1             -4.00  -31.90
+                                                                              N
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NC4          pins MOVED FROM this net (to net name listed on right)
+                                 U17.1            -19.00  -31.90
+                                                                            NC3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NO4          pins MOVED FROM this net (to net name listed on right)
+                                 U17.3            -29.00  -31.90
+                                                                            NO3
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U18.3             26.00  -31.90
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  RCK0         pins MOVED FROM this net (to net name listed on right)
+                                 U7.12              6.40   14.92
+                                                                       RCK0/DAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RCK1         pins ADDED TO this new net
+                                 U21.2              1.27   17.28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RCK0/DAT     pins ADDED TO this new net
+                                 U21.8             -2.63   17.28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RCK1/DAT     pins MOVED FROM this net (to net name listed on right)
+                                 U10.12            -8.32   19.40
+                                                                           RCK1
+                                 U19.8            -21.66   12.03
+                                                                         RELAY4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RELAY1       pins ADDED TO this existing net (pins not previously on any net)
+                                 U21.15            -1.33   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RELAY2       pins MOVED FROM this net (to net name listed on right)
+                                 U19.14           -22.55    3.52
+                                                                           KEY3
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U21.14            -1.98   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RELAY3       pins MOVED FROM this net (to net name listed on right)
+                                 U19.13           -22.55    4.79
+                                                                           KEY2
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U21.13            -2.63   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RELAY4       pins MOVED FROM this net (to net name listed on right)
+                                 U19.12           -22.55    6.06
+                                                                            GND
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U21.12            -3.28   11.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RST/LIMITER1 pins MOVED FROM this net (to net name listed on right)
+                                 C5.1              -6.40    5.92
+                                                                          VCC5V
+                                 R1.2              -8.32    5.92
+                                                                     LIMIT1/RST
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U4.2             -37.12  -26.26
+                                                                         LIMIT2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX           pins MOVED FROM this net (to net name listed on right)
+                                 U22.2            -30.70   33.28
+                                                                   CON_KEY2/CLK
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U19.21           -16.58   -1.18
+                                 U20.2            -32.66    9.60
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK0         pins ADDED TO this existing net (pins not previously on any net)
+                                 U21.6             -1.33   17.28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK1         pins MOVED FROM this net (to net name listed on right)
+                                 U10.14            -5.78   19.40
+                                                                            SI1
+                                 U19.10           -22.55    8.60
+                                                                           KEY1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SI0          pins ADDED TO this existing net (pins not previously on any net)
+                                 U21.10            -3.93   17.28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SI1          pins MOVED FROM this net (to net name listed on right)
+                                 U10.11            -9.58   19.40
+                                                                           SCK1
+                                 U19.6            -19.12   12.03
+                                                                         RELAY1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TX           pins MOVED FROM this net (to net name listed on right)
+                                 U22.3            -33.24   33.28
+                                                                       RCK0/DAT
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U19.22           -15.31   -1.18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC3V3       pins MOVED FROM this net (to net name listed on right)
+                                 C3.1             -30.72    5.92
+                                                                     LIMIT1/RST
+                                 C4.1             -32.64    5.92
+                                                                          VCC5V
+                                 D7.2             -25.76   29.56
+                                                                         N05424
+                                 R3.1             -10.24    4.32
+                                                                              N
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R10.2            -37.60   12.16
+                                                                         N05424
+                                 R11.2            -37.60   10.24
+                                                                       CON_KEY1
+                                 R12.2            -37.60    6.40
+                                                                   CON_KEY2/CLK
+                                 R14.2            -37.60    8.32
+                                                                       CON_KEY4
+                                 R15.2            -37.60   14.08
+                                                                       CON_KEY5
+                                 R18.1            -16.48   18.56
+                                                                         RELAY4
+                                 U3.1              35.84   30.72
+                                                                            GND
+                                 U7.8               2.60   19.64
+                                                                            GND
+                                 U10.8            -12.12   24.12
+                                                                            GND
+                                 U19.9            -22.55    9.87
+                                                                          DEBUG
+                                 U21.1              1.92   17.28
+                                                                            SI1
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U5.4             -43.12  -28.80
+                                 U19.23           -14.04   -1.18
+                                 U20.1            -35.20    9.60
+                                 U21.9             -3.28   17.28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC5V        pins MOVED FROM this net (to net name listed on right)
+                                 C1.1             -18.08    6.40
+                                                                         VCC3V3
+                                 C2.1             -18.08    5.12
+                                                                         VCC3V3
+                                 C6.1             -18.08    3.84
+                                                                         VCC3V3
+                                 C7.1             -18.08    2.56
+                                                                         VCC3V3
+                                 U1.3             -20.90    0.52
+                                                                            GND
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U5.3             -40.08  -27.30
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2P_TERMINAL-2P-5MM_2P
+ 433MODULE_433MODULE_SYN480_433M
+ CAP NP_STD0603_10UF/250V/0603
+ PSFB04_PSF_PSFB04
+ R_STD0603_10K/J/0603
+ R_STD0603_1K/J/0603
+ R_STD0603_R
+ SW PUSHBUTTON_TS-039_SW PUSHBUT
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R19                 R_STD0603_10KR/0603    -17.28   21.12
+ R20                 R_STD0603_10KR/0603    -17.28   12.80
+ R21                 R_STD0603_1KR/0603     -22.40   25.60
+ R22                 R_STD0603_10KR/0603    -17.28    8.32
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_STD0603_10UF/250V/0603  -17.28    6.40 CAP NP_STD0603_10UF/25V/0603
+ C3                  CAP NP_STD0603_10UF/250V/0603  -30.72    5.12 CAP NP_STD0603_10UF/25V/0603
+ C4                  CAP NP_STD0603_10UF/250V/0603  -32.64    5.12 CAP NP_STD0603_100NF/50V/0603
+ C5                  CAP NP_STD0603_100NF/50V/0603   -6.40    5.12 CAP NP_STD0603_10UF/25V/0603
+ C6                  CAP NP_STD0603_10UF/250V/0603  -17.28    3.84 CAP NP_STD0603_100NF/50V/0603
+ C7                  CAP NP_STD0603_100NF/50V/0603  -17.28    2.56 CAP NP_STD0603_10UF/25V/0603
+ R1                  R_STD0603_1K/J/0603     -8.32    5.12 R_STD0603_10KR/0603/
+ R2                  R_STD0603_1K/J/0603     35.20  -25.60 R_R_PTH_S2_R
+ R3                  R_STD0603_R            -10.24    5.12 R_STD0603_10KR/0603/
+ R4                  R_STD0603_1K/J/0603     12.80   23.68 R_STD0603_1KR/0603/
+ R5                  R_STD0603_1K/J/0603     10.88   23.68 R_STD0603_1KR/0603/
+ R6                  R_STD0603_1K/J/0603      8.96   23.68 R_STD0603_1KR/0603/
+ R7                  R_STD0603_1K/J/0603      7.04   23.68 R_STD0603_1KR/0603/
+ R8                  R_STD0603_1K/J/0603      5.12   23.68 R_STD0603_1KR/0603/
+ R9                  R_STD0603_1K/J/0603      3.20   23.68 R_STD0603_1KR/0603/
+ R10                 R_STD0603_1K/J/0603    -38.40   12.16 R_STD0603_1KR/0603/
+ R11                 R_STD0603_1K/J/0603    -38.40   10.24 R_STD0603_1KR/0603/
+ R12                 R_STD0603_1K/J/0603    -38.40    6.40 R_STD0603_1KR/0603/
+ R13                 R_STD0603_1K/J/0603    -30.72   25.60 R_STD0603_10KR/0603
+ R14                 R_STD0603_1K/J/0603    -38.40    8.32 R_STD0603_1KR/0603/
+ R15                 R_STD0603_1K/J/0603    -38.40   14.08 R_STD0603_1KR/0603/
+ R16                 R_STD0603_10K/J/0603   -28.80    5.12 R_STD0603_10KR/0603/
+ R17                 R_STD0603_10K/J/0603   -17.28   16.00 R_STD0603_10KR/0603
+ R18                 R_STD0603_10K/J/0603   -17.28   18.56 R_STD0603_10KR/0603
+ SW1                 SW PUSHBUTTON_TS-039_SW PUSHBUT  -46.00   15.00 SW SPST/SM_TS-039_SW SPST/SM
+ SW2                 SW PUSHBUTTON_TS-039_SW PUSHBUT  -46.00    5.30 SW SPST/SM_TS-039_SW SPST/SM
+ SW3                 SW PUSHBUTTON_TS-039_SW PUSHBUT  -46.00   -4.50 SW SPST/SM_TS-039_SW SPST/SM
+ SW4                 SW PUSHBUTTON_TS-039_SW PUSHBUT  -46.00  -14.30 SW SPST/SM_TS-039_SW SPST/SM
+ SW5                 SW PUSHBUTTON_TS-039_SW PUSHBUT  -46.00   31.00 SW SPST/SM_TS-039_SW SPST/SM
+ U1                  433MODULE_433MODULE_SYN480_433M  -22.40    4.48 AMS1117_SOT89_AM1117_AMS1117
+ U3                  2P_ZCZ254-1X2_2P        35.84   30.72 433MODULE_433MODULE_SYN480_433M
+ U5                  AMS1117_SOT89_AM1117_AMS1117  -41.60  -28.80 2P_ZCZ254-1X2_2P
+ U16                 2P_TERMINAL-2P-5MM_2P   -4.00  -31.90 3P_TERMINAL-3P-5MM_3P
+ U18                 3P_TERMINAL-3P-5MM_3P   36.00  -31.90 2P_TERMINAL-2P-5MM_2P
+ U19                 PSFB04_PSF_PSFB04       -8.96   12.16 N76E003_TSOP65P640X120-20N_N76E
+ U20                 5P-1_ZCZ254-1X5_5P-1   -35.20    9.60 PSFB04_PSF_PSFB04
+ U21                 N76E003_TSOP65P640X120-20N_N76E   -1.28   14.08 5P-1_ZCZ254-1X5_5P-1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
+|                                                    Wed Jun 14 03:26:55 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2            -17.28    6.40 PRIM_FILE      .\pstchip.dat
+ C3.2            -30.72    5.12 PRIM_FILE      .\pstchip.dat
+ C4.2            -32.64    5.12 PRIM_FILE      .\pstchip.dat
+ C5.2             -6.40    5.12 PRIM_FILE      .\pstchip.dat
+ C6.2            -17.28    3.84 PRIM_FILE      .\pstchip.dat
+ C7.2            -17.28    2.56 PRIM_FILE      .\pstchip.dat
+ R1.2             -8.32    5.12 PRIM_FILE      .\pstchip.dat
+ R2.2             35.20  -25.60 PRIM_FILE      .\pstchip.dat
+ R3.2            -10.24    5.12 PRIM_FILE      .\pstchip.dat
+ R4.2             12.80   23.68 PRIM_FILE      .\pstchip.dat
+ R5.2             10.88   23.68 PRIM_FILE      .\pstchip.dat
+ R6.2              8.96   23.68 PRIM_FILE      .\pstchip.dat
+ R7.2              7.04   23.68 PRIM_FILE      .\pstchip.dat
+ R8.2              5.12   23.68 PRIM_FILE      .\pstchip.dat
+ R9.2              3.20   23.68 PRIM_FILE      .\pstchip.dat
+ R10.2           -38.40   12.16 PRIM_FILE      .\pstchip.dat
+ R11.2           -38.40   10.24 PRIM_FILE      .\pstchip.dat
+ R12.2           -38.40    6.40 PRIM_FILE      .\pstchip.dat
+ R13.2           -30.72   25.60 PRIM_FILE      .\pstchip.dat
+ R14.2           -38.40    8.32 PRIM_FILE      .\pstchip.dat
+ R15.2           -38.40   14.08 PRIM_FILE      .\pstchip.dat
+ R16.2           -28.80    5.12 PRIM_FILE      .\pstchip.dat
+ R17.2           -17.28   16.00 PRIM_FILE      .\pstchip.dat
+ R18.2           -17.28   18.56 PRIM_FILE      .\pstchip.dat
+ SW1.2           -46.00   15.00 PRIM_FILE      .\pstchip.dat
+ SW2.2           -46.00    5.30 PRIM_FILE      .\pstchip.dat
+ SW3.2           -46.00   -4.50 PRIM_FILE      .\pstchip.dat
+ SW4.2           -46.00  -14.30 PRIM_FILE      .\pstchip.dat
+ SW5.2           -46.00   31.00 PRIM_FILE      .\pstchip.dat
+ U1.1            -22.40    4.48 PRIM_FILE      .\pstchip.dat
+ U3.2             35.84   30.72 PRIM_FILE      .\pstchip.dat
+ U5.4            -41.60  -28.80 PRIM_FILE      .\pstchip.dat
+ U16.2            -4.00  -31.90 PRIM_FILE      .\pstchip.dat
+ U18.3            36.00  -31.90 PRIM_FILE      .\pstchip.dat
+ U19.23           -8.96   12.16 PRIM_FILE      .\pstchip.dat
+ U20.5           -35.20    9.60 PRIM_FILE      .\pstchip.dat
+ U21.9            -1.28   14.08 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  218                                            |
 |------------------------------------------------------------------------------|

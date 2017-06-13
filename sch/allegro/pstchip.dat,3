@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Jun-14-2017 at 03:25:43}
+{ Using PSTWRITER 16.5.0 p001Jun-14-2017 at 03:21:16}
 primitive 'CAP NP_STD0603_10UF/250V/0603';
   pin
     '1':
@@ -489,7 +489,7 @@ primitive 'N76E003_TSOP65P640X120-20N_N76E';
     VALUE='N76E003';
   end_body;
 end_primitive;
-primitive '2P_ZCZ254-1X2_2P';
+primitive '2P_ZCZ254*1X2_2P';
   pin
     'COM':
       PIN_NUMBER='(1)';
@@ -500,7 +500,7 @@ primitive '2P_ZCZ254-1X2_2P';
   end_pin;
   body
     PART_NAME='2P';
-    JEDEC_TYPE='ZCZ254-1X2';
+    JEDEC_TYPE='ZCZ254*1X2';
     VALUE='2P';
   end_body;
 end_primitive;

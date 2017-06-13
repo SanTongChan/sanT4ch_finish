@@ -4,14 +4,14 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Wed Jun 14 03:13:41 2017                      )
+(    Date/Time        : Wed Jun 14 03:31:04 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 ------ Directives ------
 
-RIPUP_ETCH FALSE;
+RIPUP_ETCH TRUE;
 RIPUP_DELETE_FIRST_SEGMENT FALSE;
 RIPUP_RETAIN_BONDWIRE FALSE;
 RIPUP_SYMBOLS ALWAYS;
@@ -21,7 +21,7 @@ BOARD_DIRECTORY '';
 OLD_BOARD_NAME 'E:/sanT_4ch/Board/sanT_4ch.brd';
 NEW_BOARD_NAME 'E:/sanT_4ch/Board/sanT_4ch.brd';
 
-CmdLine: netrev -$ -i E:/sanT_4ch/sch/allegro -y 1 E:/sanT_4ch/Board/#Taaaaaa06308.tmp
+CmdLine: netrev -$ -i E:/sanT_4ch/sch/allegro -x -u -t -y 1 -z E:/sanT_4ch/Board/#Taaaaaa06308.tmp
 
 ------ Preparing to read pst files ------
 
@@ -35,11 +35,8 @@ Starting to read E:/sanT_4ch/sch/allegro/pstxnet.dat
 ------ Oversights/Warnings/Errors ------
 
 
-#1   ERROR(SPMHNI-176): Device library error detected.
 
-ERROR(SPMHNI-164): Problems with device '2P_ZCZ254*1X2_2P'. JEDEC_TYPE property 'ZCZ254*1X2' is illegal: 'Package name has invalid characters or is too long.'.
-
-ERROR(SPMHNI-170): Device '2P_ZCZ254*1X2_2P' has library errors. Unable to transfer to Allegro.
+Note: SECTION property definition created
 
 ------ Library Paths ------
 MODULEPATH =  . 
@@ -67,9 +64,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-#2   Run stopped because errors were detected
-
-netrev run on Jun 14 3:13:41 2017
+netrev run on Jun 14 3:31:04 2017
    DESIGN NAME : 'SANT_4CH'
    PACKAGING ON Apr 21 2011 10:02:30
 
@@ -90,10 +85,10 @@ netrev run on Jun 14 3:13:41 2017
    SUPPRESS   20
    WARNINGS ON
 
-  2 errors detected
+ No error detected
  No oversight detected
  No warning detected
 
-cpu time      0:00:29
+cpu time      0:00:40
 elapsed time  0:00:00
 
