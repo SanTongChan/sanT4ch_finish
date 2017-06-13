@@ -10,25 +10,43 @@
     (CompileFileAddedOrDeleted "x"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "E:\CANDENCE\SOFT\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (N76E003
+      (FullPartName "N76E003.Normal")
+      (LibraryName "E:\PARTLIB\IC.OLB")
+      (DeviceIndex "0"))
+    (PSFB04
+      (FullPartName "PSFB04.Normal")
+      (LibraryName "E:\PARTLIB\IC.OLB")
+      (DeviceIndex "0"))
+    (433MODULE
+      (FullPartName "433MODULE.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "E:\sanT_4ch\sch\sant_4ch.dsn")
-      (Select "Design Resources" "E:\sanT_4ch\sch\sant_4ch.dsn"))
+      (Path "Design Resources" ".\sant_4ch.dsn")
+      (Path "Design Resources" ".\sant_4ch.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\sant_4ch.dsn" "SCHEMATIC1" "sanT4ch"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 225 0 463"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 225 0 463"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 222 1146 0 463")
-        (Scroll "0 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -30 222 1146 0 463")
+        (Scroll "-137 0")
+        (Zoom "37")
         (Occurrence "/"))
       (Path "E:\SANT_4CH\SCH\SANT_4CH.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "sanT4ch"))))
