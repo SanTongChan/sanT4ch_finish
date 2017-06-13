@@ -992,4 +992,2256 @@
 \i (00:45:25) trapsize 16
 \i (00:45:25) zoom out 1 
 \i (00:45:25) setwindow pcb
-\
+\i (00:45:25) zoom out 3.92 -32.40
+\i (00:45:25) trapsize 32
+\i (00:45:25) zoom out 1 
+\i (00:45:25) setwindow pcb
+\i (00:45:25) zoom out 3.91 -32.41
+\i (00:45:25) trapsize 63
+\i (00:45:26) zoom in 1 
+\i (00:45:26) setwindow pcb
+\i (00:45:26) zoom in -8.95 -31.90
+\i (00:45:26) trapsize 32
+\i (00:45:27) zoom in 1 
+\i (00:45:27) setwindow pcb
+\i (00:45:27) zoom in -8.95 -31.90
+\i (00:45:27) trapsize 16
+\i (00:45:27) zoom out 1 
+\i (00:45:27) setwindow pcb
+\i (00:45:27) zoom out -8.76 -31.90
+\i (00:45:27) trapsize 32
+\i (00:45:28) zoom out 1 
+\i (00:45:28) setwindow pcb
+\i (00:45:28) zoom out 5.17 -32.97
+\i (00:45:28) trapsize 63
+\i (00:45:29) zoom in 1 
+\i (00:45:29) setwindow pcb
+\i (00:45:29) zoom in 16.77 -16.58
+\i (00:45:29) trapsize 32
+\i (00:45:29) zoom in 1 
+\i (00:45:29) setwindow pcb
+\i (00:45:29) zoom in 17.84 -17.27
+\i (00:45:29) trapsize 16
+\i (00:45:30) zoom out 1 
+\i (00:45:30) setwindow pcb
+\i (00:45:30) zoom out 18.06 -17.70
+\i (00:45:30) trapsize 32
+\i (00:45:30) zoom out 1 
+\i (00:45:30) setwindow pcb
+\i (00:45:30) zoom out 18.13 -17.84
+\i (00:45:30) trapsize 63
+\i (00:45:31) zoom in 1 
+\i (00:45:31) setwindow pcb
+\i (00:45:31) zoom in 12.57 -30.82
+\i (00:45:31) trapsize 32
+\i (00:46:47) zoom out 1 
+\i (00:46:47) setwindow pcb
+\i (00:46:47) zoom out 12.95 -23.63
+\i (00:46:47) trapsize 63
+\i (00:46:47) zoom out 1 
+\i (00:46:47) setwindow pcb
+\i (00:46:47) zoom out 12.95 -23.64
+\i (00:46:47) trapsize 126
+\i (00:46:47) zoom in 1 
+\i (00:46:47) setwindow pcb
+\i (00:46:47) zoom in 103.86 -20.42
+\i (00:46:47) trapsize 63
+\i (00:46:49) zoom in 1 
+\i (00:46:49) setwindow pcb
+\i (00:46:49) zoom in 39.45 -29.50
+\i (00:46:49) trapsize 32
+\i (00:46:51) zoom out 1 
+\i (00:46:51) setwindow pcb
+\i (00:46:51) zoom out 43.30 -21.11
+\i (00:46:51) trapsize 63
+\i (00:46:52) zoom in 1 
+\i (00:46:52) setwindow pcb
+\i (00:46:52) zoom in 42.55 6.24
+\i (00:46:52) trapsize 32
+\i (00:46:52) zoom in 1 
+\i (00:46:52) setwindow pcb
+\i (00:46:52) zoom in 42.55 6.18
+\i (00:46:52) trapsize 16
+\i (00:46:52) zoom out 1 
+\i (00:46:52) setwindow pcb
+\i (00:46:52) zoom out 42.62 5.40
+\i (00:46:52) trapsize 32
+\i (00:46:53) zoom out 1 
+\i (00:46:53) setwindow pcb
+\i (00:46:53) zoom out 42.74 3.95
+\i (00:46:53) trapsize 63
+\i (00:46:53) zoom out 1 
+\i (00:46:53) setwindow pcb
+\i (00:46:53) zoom out 42.75 0.67
+\i (00:46:53) trapsize 126
+\i (00:46:53) zoom in 1 
+\i (00:46:53) setwindow pcb
+\i (00:46:53) zoom in 30.50 -28.49
+\i (00:46:53) trapsize 63
+\i (00:46:54) zoom in 1 
+\i (00:46:54) setwindow pcb
+\i (00:46:54) zoom in 29.62 -28.36
+\i (00:46:54) trapsize 32
+\i (00:46:55) zoom in 1 
+\i (00:46:55) setwindow pcb
+\i (00:46:55) zoom in 36.30 -31.76
+\i (00:46:55) trapsize 16
+\i (00:46:55) zoom out 1 
+\i (00:46:55) setwindow pcb
+\i (00:46:55) zoom out 36.34 -31.76
+\i (00:46:55) trapsize 32
+\i (00:46:55) zoom out 1 
+\i (00:46:55) setwindow pcb
+\i (00:46:55) zoom out 36.46 -31.76
+\i (00:46:55) trapsize 63
+\i (01:06:37) zoom out 1 
+\i (01:06:37) setwindow pcb
+\i (01:06:37) zoom out 39.74 3.91
+\i (01:06:37) trapsize 126
+\i (01:06:37) zoom out 1 
+\i (01:06:37) setwindow pcb
+\i (01:06:37) zoom out 63.78 27.48
+\i (01:06:37) trapsize 126
+\i (01:06:37) zoom in 1 
+\i (01:06:37) setwindow pcb
+\i (01:06:37) zoom in 34.79 32.02
+\i (01:06:37) trapsize 63
+\i (01:06:38) zoom in 1 
+\i (01:06:38) setwindow pcb
+\i (01:06:38) zoom in 31.64 32.02
+\i (01:06:38) trapsize 32
+\i (01:06:38) zoom in 1 
+\i (01:06:38) setwindow pcb
+\i (01:06:38) zoom in 31.64 32.02
+\i (01:06:38) trapsize 16
+\i (01:06:40) pick grid 37.09 32.21
+\t (01:06:40) last pick:  37.12  32.00
+\i (01:06:42) zoom out 1 
+\i (01:06:42) setwindow pcb
+\i (01:06:42) zoom out 27.01 28.34
+\i (01:06:42) trapsize 32
+\i (01:06:43) pick grid 22.28 25.12
+\t (01:06:43) last pick:  22.40  24.96
+\i (01:06:43) zoom out 1 
+\i (01:06:43) setwindow pcb
+\i (01:06:43) zoom out 20.51 24.74
+\i (01:06:43) trapsize 63
+\i (01:06:43) zoom out 1 
+\i (01:06:43) setwindow pcb
+\i (01:06:43) zoom out -0.25 23.70
+\i (01:06:43) trapsize 126
+\i (01:06:44) zoom in 1 
+\i (01:06:45) setwindow pcb
+\i (01:06:45) zoom in -14.62 10.84
+\i (01:06:45) trapsize 63
+\i (01:06:45) zoom in 1 
+\i (01:06:45) setwindow pcb
+\i (01:06:45) zoom in -14.49 11.35
+\i (01:06:45) trapsize 32
+\i (01:06:49) hilight 
+\i (01:06:50) pick grid 14.12 21.37
+\t (01:06:50) last pick:  14.08  21.12
+\t (01:06:50) Net "433Data" highlighted.
+\i (01:06:51) zoom in 1 
+\i (01:06:51) setwindow pcb
+\i (01:06:51) zoom in -6.36 11.86
+\i (01:06:51) trapsize 16
+\i (01:06:51) zoom in 1 
+\i (01:06:51) setwindow pcb
+\i (01:06:51) zoom in -6.33 11.86
+\i (01:06:51) trapsize 8
+\i (01:06:51) zoom in 1 
+\i (01:06:51) setwindow pcb
+\i (01:06:51) zoom in -6.31 11.85
+\i (01:06:51) trapsize 4
+\i (01:06:51) zoom in 1 
+\i (01:06:51) setwindow pcb
+\i (01:06:51) zoom in -5.85 11.42
+\i (01:06:51) trapsize 2
+\i (01:06:51) zoom in 1 
+\i (01:06:51) setwindow pcb
+\i (01:06:51) zoom in -5.85 11.42
+\i (01:06:51) trapsize 1
+\i (01:06:52) zoom out 1 
+\i (01:06:52) setwindow pcb
+\i (01:06:52) zoom out -5.82 11.41
+\i (01:06:52) trapsize 2
+\i (01:06:52) zoom out 1 
+\i (01:06:52) setwindow pcb
+\i (01:06:52) zoom out -5.81 11.42
+\i (01:06:52) trapsize 4
+\i (01:06:53) zoom out 1 
+\i (01:06:53) setwindow pcb
+\i (01:06:53) zoom out -5.74 11.42
+\i (01:06:53) trapsize 8
+\i (01:06:55) zoom in 1 
+\i (01:06:55) setwindow pcb
+\i (01:06:55) zoom in -5.70 11.46
+\i (01:06:55) trapsize 4
+\i (01:06:55) zoom in 1 
+\i (01:06:55) setwindow pcb
+\i (01:06:55) zoom in -5.70 11.46
+\i (01:06:55) trapsize 2
+\i (01:06:56) zoom out 1 
+\i (01:06:56) setwindow pcb
+\i (01:06:56) zoom out -5.70 11.46
+\i (01:06:56) trapsize 4
+\i (01:06:56) zoom out 1 
+\i (01:06:56) setwindow pcb
+\i (01:06:56) zoom out -5.70 11.44
+\i (01:06:56) trapsize 8
+\i (01:06:56) zoom out 1 
+\i (01:06:56) setwindow pcb
+\i (01:06:56) zoom out -5.17 11.26
+\i (01:06:56) trapsize 16
+\i (01:06:56) zoom out 1 
+\i (01:06:56) setwindow pcb
+\i (01:06:56) zoom out -5.18 11.26
+\i (01:06:56) trapsize 31
+\i (01:06:58) zoom out 1 
+\i (01:06:58) setwindow pcb
+\i (01:06:58) zoom out 15.20 14.03
+\i (01:06:58) trapsize 63
+\i (01:06:58) zoom out 1 
+\i (01:06:58) setwindow pcb
+\i (01:06:58) zoom out 25.99 16.92
+\i (01:06:58) trapsize 126
+\i (01:06:58) zoom out 1 
+\i (01:06:58) setwindow pcb
+\i (01:06:58) zoom out 141.68 12.35
+\i (01:06:58) trapsize 126
+\i (01:06:59) zoom in 1 
+\i (01:06:59) setwindow pcb
+\i (01:06:59) zoom in 37.81 31.76
+\i (01:06:59) trapsize 63
+\i (01:06:59) zoom in 1 
+\i (01:06:59) setwindow pcb
+\i (01:06:59) zoom in 33.15 31.76
+\i (01:06:59) trapsize 32
+\i (01:07:31) zoom out 1 
+\i (01:07:31) setwindow pcb
+\i (01:07:31) zoom out 13.05 18.65
+\i (01:07:31) trapsize 63
+\i (01:07:31) zoom out 1 
+\i (01:07:31) setwindow pcb
+\i (01:07:31) zoom out 6.43 15.38
+\i (01:07:31) trapsize 126
+\i (01:07:32) zoom in 1 
+\i (01:07:32) setwindow pcb
+\i (01:07:32) zoom in -11.60 10.84
+\i (01:07:32) trapsize 63
+\i (01:07:33) zoom in 1 
+\i (01:07:33) setwindow pcb
+\i (01:07:33) zoom in 0.25 12.35
+\i (01:07:33) trapsize 32
+\i (01:07:33) zoom in 1 
+\i (01:07:33) setwindow pcb
+\i (01:07:33) zoom in 0.32 12.10
+\i (01:07:33) trapsize 16
+\i (01:07:35) zoom out 1 
+\i (01:07:35) setwindow pcb
+\i (01:07:35) zoom out 2.66 12.20
+\i (01:07:35) trapsize 32
+\i (01:07:36) zoom in 1 
+\i (01:07:36) setwindow pcb
+\i (01:07:36) zoom in -5.73 8.61
+\i (01:07:36) trapsize 16
+\i (01:07:36) zoom in 1 
+\i (01:07:36) setwindow pcb
+\i (01:07:36) zoom in -5.25 8.36
+\i (01:07:36) trapsize 8
+\i (01:07:39) zoom in 1 
+\i (01:07:39) setwindow pcb
+\i (01:07:39) zoom in -5.44 9.00
+\i (01:07:39) trapsize 4
+\i (01:07:39) zoom in 1 
+\i (01:07:39) setwindow pcb
+\i (01:07:39) zoom in -5.43 9.00
+\i (01:07:39) trapsize 2
+\i (01:07:40) zoom out 1 
+\i (01:07:40) setwindow pcb
+\i (01:07:40) zoom out -5.52 8.99
+\i (01:07:40) trapsize 4
+\i (01:07:41) zoom out 1 
+\i (01:07:41) setwindow pcb
+\i (01:07:41) zoom out -5.53 8.99
+\i (01:07:41) trapsize 8
+\i (01:07:41) zoom out 1 
+\i (01:07:41) setwindow pcb
+\i (01:07:41) zoom out -5.54 8.99
+\i (01:07:41) trapsize 16
+\i (01:07:41) zoom out 1 
+\i (01:07:41) setwindow pcb
+\i (01:07:41) zoom out -5.16 9.00
+\i (01:07:41) trapsize 32
+\i (01:07:43) zoom in 1 
+\i (01:07:43) setwindow pcb
+\i (01:07:43) zoom in 9.41 13.59
+\i (01:07:43) trapsize 16
+\i (01:07:43) zoom in 1 
+\i (01:07:43) setwindow pcb
+\i (01:07:43) zoom in 9.41 13.60
+\i (01:07:43) trapsize 8
+\i (01:07:44) zoom out 1 
+\i (01:07:44) setwindow pcb
+\i (01:07:44) zoom out 8.83 13.71
+\i (01:07:44) trapsize 16
+\i (01:07:48) zoom in 1 
+\i (01:07:48) setwindow pcb
+\i (01:07:48) zoom in 8.92 15.33
+\i (01:07:48) trapsize 8
+\i (01:07:49) zoom out 1 
+\i (01:07:49) setwindow pcb
+\i (01:07:49) zoom out 9.19 14.93
+\i (01:07:49) trapsize 16
+\i (01:07:49) zoom out 1 
+\i (01:07:49) setwindow pcb
+\i (01:07:49) zoom out 9.21 14.91
+\i (01:07:49) trapsize 32
+\i (01:07:50) zoom in 1 
+\i (01:07:50) setwindow pcb
+\i (01:07:50) zoom in 9.08 17.05
+\i (01:07:50) trapsize 16
+\i (01:07:56) hilight 
+\i (01:07:57) pick grid -2.96 9.98
+\t (01:07:57) last pick:  -3.20  10.24
+\t (01:07:57) Net "Si0" highlighted.
+\i (01:08:39) zoom out 1 
+\i (01:08:39) setwindow pcb
+\i (01:08:39) zoom out -4.54 9.98
+\i (01:08:39) trapsize 32
+\i (01:08:40) zoom in 1 
+\i (01:08:40) setwindow pcb
+\i (01:08:40) zoom in -5.29 10.12
+\i (01:08:40) trapsize 16
+\i (01:08:40) zoom in 1 
+\i (01:08:40) setwindow pcb
+\i (01:08:40) zoom in -5.28 10.12
+\i (01:08:40) trapsize 8
+\i (01:08:44) dehilight 
+\i (01:08:45) pick grid -3.99 9.78
+\t (01:08:45) last pick:  -3.84  9.60
+\t (01:08:45) Net "Si0" dehighlighted.
+\i (01:08:46) pick grid -4.63 12.16
+\t (01:08:46) last pick:  -4.48  12.16
+\t (01:08:46) Net "433Data" dehighlighted.
+\i (01:08:49) hilight 
+\i (01:08:50) pick grid -4.06 10.33
+\t (01:08:50) last pick:  -3.84  10.24
+\t (01:08:50) Net "Rck0" highlighted.
+\i (01:08:51) zoom out 1 
+\i (01:08:51) setwindow pcb
+\i (01:08:51) zoom out 5.08 12.50
+\i (01:08:51) trapsize 16
+\i (01:08:52) zoom in 1 
+\i (01:08:52) setwindow pcb
+\i (01:08:52) zoom in 6.90 14.62
+\i (01:08:52) trapsize 8
+\i (01:08:52) zoom in 1 
+\i (01:08:52) setwindow pcb
+\i (01:08:52) zoom in 6.90 14.62
+\i (01:08:52) trapsize 4
+\i (01:08:52) zoom out 1 
+\i (01:08:52) setwindow pcb
+\i (01:08:52) zoom out 6.91 14.62
+\i (01:08:52) trapsize 8
+\i (01:08:52) zoom out 1 
+\i (01:08:52) setwindow pcb
+\i (01:08:52) zoom out 6.90 14.63
+\i (01:08:52) trapsize 16
+\i (01:08:53) zoom out 1 
+\i (01:08:53) setwindow pcb
+\i (01:08:53) zoom out 6.90 14.38
+\i (01:08:53) trapsize 32
+\i (01:08:53) zoom in 1 
+\i (01:08:53) setwindow pcb
+\i (01:08:53) zoom in 7.79 14.82
+\i (01:08:53) trapsize 16
+\i (01:08:53) zoom in 1 
+\i (01:08:53) setwindow pcb
+\i (01:08:53) zoom in 7.79 14.85
+\i (01:08:53) trapsize 8
+\i (01:08:54) zoom in 1 
+\i (01:08:54) setwindow pcb
+\i (01:08:54) zoom in 7.79 14.90
+\i (01:08:54) trapsize 4
+\i (01:08:54) zoom in 1 
+\i (01:08:54) setwindow pcb
+\i (01:08:54) zoom in 5.90 15.13
+\i (01:08:54) trapsize 2
+\i (01:08:54) zoom in 1 
+\i (01:08:54) setwindow pcb
+\i (01:08:54) zoom in 5.98 15.15
+\i (01:08:54) trapsize 1
+\i (01:08:56) zoom out 1 
+\i (01:08:56) setwindow pcb
+\i (01:08:56) zoom out 6.28 15.03
+\i (01:08:56) trapsize 2
+\i (01:08:56) zoom out 1 
+\i (01:08:56) setwindow pcb
+\i (01:08:56) zoom out 6.28 15.00
+\i (01:08:56) trapsize 4
+\i (01:09:21) zoom out 1 
+\i (01:09:21) setwindow pcb
+\i (01:09:21) zoom out 5.57 13.84
+\i (01:09:21) trapsize 8
+\i (01:09:21) zoom out 1 
+\i (01:09:21) setwindow pcb
+\i (01:09:21) zoom out 5.57 13.83
+\i (01:09:21) trapsize 16
+\i (01:09:22) zoom out 1 
+\i (01:09:22) setwindow pcb
+\i (01:09:22) zoom out 6.16 13.53
+\i (01:09:22) trapsize 31
+\i (01:09:22) zoom out 1 
+\i (01:09:22) setwindow pcb
+\i (01:09:22) zoom out 6.16 13.46
+\i (01:09:22) trapsize 63
+\i (01:09:23) zoom in 1 
+\i (01:09:23) setwindow pcb
+\i (01:09:23) zoom in -3.02 13.21
+\i (01:09:23) trapsize 31
+\i (01:09:23) zoom in 1 
+\i (01:09:23) setwindow pcb
+\i (01:09:23) zoom in -3.02 13.21
+\i (01:09:23) trapsize 16
+\i (01:09:24) zoom out 1 
+\i (01:09:24) setwindow pcb
+\i (01:09:24) zoom out -4.65 13.53
+\i (01:09:24) trapsize 31
+\i (01:09:24) zoom out 1 
+\i (01:09:24) setwindow pcb
+\i (01:09:24) zoom out -4.65 13.52
+\i (01:09:24) trapsize 63
+\i (01:09:25) zoom in 1 
+\i (01:09:25) setwindow pcb
+\i (01:09:25) zoom in -0.88 7.99
+\i (01:09:25) trapsize 31
+\i (01:09:25) zoom in 1 
+\i (01:09:25) setwindow pcb
+\i (01:09:25) zoom in -0.87 7.99
+\i (01:09:25) trapsize 16
+\i (01:09:35) dehilight 
+\i (01:09:36) pick grid -3.57 10.57
+\t (01:09:36) last pick:  -3.84  10.88
+\t (01:09:36) Net "Rck0" dehighlighted.
+\i (01:09:37) zoom in 1 
+\i (01:09:37) setwindow pcb
+\i (01:09:37) zoom in -5.21 11.04
+\i (01:09:37) trapsize 8
+\i (01:09:38) zoom in 1 
+\i (01:09:38) setwindow pcb
+\i (01:09:38) zoom in -5.21 11.04
+\i (01:09:38) trapsize 4
+\i (01:09:42) color192 
+\i (01:09:42) setwindow cvf.dialog
+\i (01:09:42) cvf layer_mode
+\i (01:09:44) cvf cancel
+\i (01:09:46) setwindow pcb
+\i (01:09:46) hilight 
+\i (01:09:50) pick grid -5.61 10.90
+\t (01:09:50) last pick:  -5.76  10.88
+\t (01:09:50) Symbol "U19" highlighted.
+\i (01:09:52) prepopup -4.61 11.60
+\i (01:09:53) oops 
+\i (01:09:53) zoom in 1 
+\i (01:09:53) setwindow pcb
+\i (01:09:53) zoom in -5.86 10.71
+\i (01:09:53) trapsize 2
+\i (01:09:53) zoom in 1 
+\i (01:09:53) setwindow pcb
+\i (01:09:53) zoom in -5.85 10.71
+\i (01:09:53) trapsize 1
+\i (01:09:53) zoom in 1 
+\i (01:09:53) setwindow pcb
+\i (01:09:53) zoom in -5.85 10.71
+\i (01:09:53) trapsize 1
+\i (01:09:54) zoom out 1 
+\i (01:09:54) setwindow pcb
+\i (01:09:54) zoom out -5.77 10.74
+\i (01:09:54) trapsize 1
+\i (01:09:54) zoom out 1 
+\i (01:09:55) setwindow pcb
+\i (01:09:55) zoom out -5.77 10.73
+\i (01:09:55) trapsize 2
+\i (01:09:55) zoom out 1 
+\i (01:09:55) setwindow pcb
+\i (01:09:55) zoom out -5.77 10.66
+\i (01:09:55) trapsize 4
+\i (01:09:55) zoom out 1 
+\i (01:09:55) setwindow pcb
+\i (01:09:55) zoom out -5.71 10.39
+\i (01:09:55) trapsize 8
+\i (01:09:55) zoom out 1 
+\i (01:09:55) setwindow pcb
+\i (01:09:55) zoom out -5.71 10.36
+\i (01:09:55) trapsize 16
+\i (01:09:55) zoom out 1 
+\i (01:09:55) setwindow pcb
+\i (01:09:55) zoom out -5.70 10.29
+\i (01:09:55) trapsize 32
+\i (01:09:55) zoom out 1 
+\i (01:09:55) setwindow pcb
+\i (01:09:55) zoom out -5.71 10.03
+\i (01:09:55) trapsize 64
+\i (01:09:57) zoom in 1 
+\i (01:09:57) setwindow pcb
+\i (01:09:57) zoom in -17.91 7.37
+\i (01:09:57) trapsize 32
+\i (01:09:58) zoom in 1 
+\i (01:09:58) setwindow pcb
+\i (01:09:58) zoom in -17.91 7.43
+\i (01:09:58) trapsize 16
+\i (01:09:59) zoom out 1 
+\i (01:09:59) setwindow pcb
+\i (01:09:59) zoom out -16.86 7.12
+\i (01:09:59) trapsize 32
+\i (01:10:00) zoom in 1 
+\i (01:10:00) setwindow pcb
+\i (01:10:00) zoom in -3.06 9.02
+\i (01:10:00) trapsize 16
+\i (01:10:01) zoom in 1 
+\i (01:10:01) setwindow pcb
+\i (01:10:01) zoom in -4.05 9.02
+\i (01:10:01) trapsize 8
+\i (01:10:05) pick grid -6.27 6.97
+\t (01:10:05) last pick:  -6.40  7.04
+\t (01:10:05) Net "Rst/Limiter1" highlighted.
+\i (01:10:06) zoom out 1 
+\i (01:10:06) setwindow pcb
+\i (01:10:06) zoom out -5.68 7.53
+\i (01:10:06) trapsize 16
+\i (01:10:06) zoom out 1 
+\i (01:10:06) setwindow pcb
+\i (01:10:06) zoom out -5.74 7.24
+\i (01:10:06) trapsize 32
+\i (01:10:07) zoom in 1 
+\i (01:10:07) setwindow pcb
+\i (01:10:07) zoom in -7.21 3.62
+\i (01:10:07) trapsize 16
+\i (01:10:07) zoom in 1 
+\i (01:10:07) setwindow pcb
+\i (01:10:07) zoom in -7.17 3.68
+\i (01:10:07) trapsize 8
+\i (01:10:09) zoom out 1 
+\i (01:10:09) setwindow pcb
+\i (01:10:09) zoom out -6.58 4.75
+\i (01:10:09) trapsize 16
+\i (01:10:09) zoom out 1 
+\i (01:10:09) setwindow pcb
+\i (01:10:09) zoom out -6.68 4.58
+\i (01:10:09) trapsize 32
+\i (01:10:09) zoom out 1 
+\i (01:10:09) setwindow pcb
+\i (01:10:09) zoom out -8.65 2.87
+\i (01:10:09) trapsize 64
+\i (01:10:09) zoom out 1 
+\i (01:10:09) setwindow pcb
+\i (01:10:09) zoom out -8.78 2.86
+\i (01:10:09) trapsize 126
+\i (01:10:10) zoom in 1 
+\i (01:10:10) setwindow pcb
+\i (01:10:10) zoom in -35.80 -30.50
+\i (01:10:10) trapsize 63
+\i (01:10:11) zoom in 1 
+\i (01:10:11) setwindow pcb
+\i (01:10:11) zoom in -35.80 -30.50
+\i (01:10:11) trapsize 32
+\i (01:10:12) zoom out 1 
+\i (01:10:12) setwindow pcb
+\i (01:10:12) zoom out -35.80 -30.43
+\i (01:10:12) trapsize 63
+\i (01:10:12) zoom out 1 
+\i (01:10:12) setwindow pcb
+\i (01:10:12) zoom out -35.80 -30.44
+\i (01:10:12) trapsize 126
+\i (01:10:13) zoom in 1 
+\i (01:10:13) setwindow pcb
+\i (01:10:13) zoom in -3.53 3.28
+\i (01:10:13) trapsize 63
+\i (01:10:13) zoom in 1 
+\i (01:10:13) setwindow pcb
+\i (01:10:13) zoom in -3.52 3.28
+\i (01:10:13) trapsize 32
+\i (01:10:14) zoom out 1 
+\i (01:10:14) setwindow pcb
+\i (01:10:14) zoom out -4.03 2.33
+\i (01:10:14) trapsize 63
+\i (01:10:15) zoom out 1 
+\i (01:10:15) setwindow pcb
+\i (01:10:15) zoom out -4.02 1.33
+\i (01:10:15) trapsize 126
+\i (01:10:16) zoom in 1 
+\i (01:10:16) setwindow pcb
+\i (01:10:16) zoom in -41.35 -26.47
+\i (01:10:16) trapsize 63
+\i (01:10:16) zoom in 1 
+\i (01:10:16) setwindow pcb
+\i (01:10:16) zoom in -41.34 -26.46
+\i (01:10:16) trapsize 32
+\i (01:10:18) zoom out 1 
+\i (01:10:18) setwindow pcb
+\i (01:10:18) zoom out -39.13 -26.39
+\i (01:10:18) trapsize 63
+\i (01:10:18) zoom out 1 
+\i (01:10:18) setwindow pcb
+\i (01:10:18) zoom out -39.13 -26.40
+\i (01:10:18) trapsize 126
+\i (01:10:19) zoom in 1 
+\i (01:10:19) setwindow pcb
+\i (01:10:19) zoom in 2.52 6.30
+\i (01:10:19) trapsize 63
+\i (01:10:19) zoom in 1 
+\i (01:10:19) setwindow pcb
+\i (01:10:19) zoom in 2.40 6.30
+\i (01:10:19) trapsize 32
+\i (01:10:20) zoom out 1 
+\i (01:10:20) setwindow pcb
+\i (01:10:20) zoom out 2.02 6.18
+\i (01:10:20) trapsize 63
+\i (01:10:20) zoom out 1 
+\i (01:10:20) setwindow pcb
+\i (01:10:20) zoom out 2.02 5.80
+\i (01:10:20) trapsize 126
+\i (01:17:19) zoom in 1 
+\i (01:17:19) setwindow pcb
+\i (01:17:19) zoom in 15.12 9.83
+\i (01:17:19) trapsize 63
+\i (01:17:19) zoom in 1 
+\i (01:17:19) setwindow pcb
+\i (01:17:19) zoom in 15.12 9.96
+\i (01:17:19) trapsize 32
+\i (01:17:19) zoom in 1 
+\i (01:17:19) setwindow pcb
+\i (01:17:19) zoom in 15.19 9.96
+\i (01:17:19) trapsize 16
+\i (01:17:19) zoom in 1 
+\i (01:17:19) setwindow pcb
+\i (01:17:19) zoom in 15.19 9.96
+\i (01:17:19) trapsize 8
+\i (01:17:20) zoom out 1 
+\i (01:17:20) setwindow pcb
+\i (01:17:20) zoom out 14.78 9.93
+\i (01:17:20) trapsize 16
+\i (01:17:20) zoom out 1 
+\i (01:17:20) setwindow pcb
+\i (01:17:20) zoom out 14.76 9.90
+\i (01:17:20) trapsize 32
+\i (01:17:20) zoom in 1 
+\i (01:17:20) setwindow pcb
+\i (01:17:20) zoom in 6.63 12.04
+\i (01:17:20) trapsize 16
+\i (01:17:32) zoom out 1 
+\i (01:17:32) setwindow pcb
+\i (01:17:32) zoom out 7.30 9.55
+\i (01:17:33) trapsize 32
+\i (01:17:34) zoom out 1 
+\i (01:17:34) setwindow pcb
+\i (01:17:34) zoom out 7.30 3.68
+\i (01:17:34) trapsize 63
+\i (01:17:35) zoom in 1 
+\i (01:17:35) setwindow pcb
+\i (01:17:35) zoom in -10.09 11.88
+\i (01:17:35) trapsize 32
+\i (01:17:35) zoom in 1 
+\i (01:17:35) setwindow pcb
+\i (01:17:35) zoom in -10.08 11.88
+\i (01:17:35) trapsize 16
+\i (01:17:35) zoom in 1 
+\i (01:17:35) setwindow pcb
+\i (01:17:35) zoom in -10.08 11.89
+\i (01:17:35) trapsize 8
+\i (01:17:36) zoom out 1 
+\i (01:17:36) setwindow pcb
+\i (01:17:36) zoom out -10.00 11.86
+\i (01:17:36) trapsize 16
+\i (01:17:51) hilight 
+\i (01:17:56) pick grid -7.85 15.90
+\t (01:17:56) last pick:  -7.68  16.00
+\t (01:17:56) Net "Si1" highlighted.
+\i (01:18:01) zoom out 1 
+\i (01:18:01) setwindow pcb
+\i (01:18:01) zoom out -5.36 17.00
+\i (01:18:01) trapsize 32
+\i (01:18:01) zoom out 1 
+\i (01:18:01) setwindow pcb
+\i (01:18:01) zoom out -5.36 16.94
+\i (01:18:01) trapsize 63
+\i (01:18:02) zoom in 1 
+\i (01:18:02) setwindow pcb
+\i (01:18:02) zoom in -16.21 16.93
+\i (01:18:02) trapsize 32
+\i (01:18:02) zoom in 1 
+\i (01:18:02) setwindow pcb
+\i (01:18:02) zoom in -16.20 16.94
+\i (01:18:02) trapsize 16
+\i (01:18:05) zoom in 1 
+\i (01:18:05) setwindow pcb
+\i (01:18:05) zoom in -13.02 13.09
+\i (01:18:05) trapsize 8
+\i (01:18:07) zoom out 1 
+\i (01:18:07) setwindow pcb
+\i (01:18:07) zoom out -7.46 11.56
+\i (01:18:07) trapsize 16
+\i (01:18:07) zoom out 1 
+\i (01:18:07) setwindow pcb
+\i (01:18:07) zoom out -11.04 13.08
+\i (01:18:07) trapsize 32
+\i (01:18:10) zoom in 1 
+\i (01:18:10) setwindow pcb
+\i (01:18:10) zoom in -6.87 18.44
+\i (01:18:10) trapsize 16
+\i (01:18:55) zoom out 1 
+\i (01:18:55) setwindow pcb
+\i (01:18:55) zoom out -10.93 18.22
+\i (01:18:55) trapsize 32
+\i (01:18:56) zoom in 1 
+\i (01:18:56) setwindow pcb
+\i (01:18:56) zoom in -11.00 11.47
+\i (01:18:56) trapsize 16
+\i (01:18:57) zoom in 1 
+\i (01:18:57) setwindow pcb
+\i (01:18:57) zoom in -11.15 11.88
+\i (01:18:57) trapsize 8
+\i (01:18:57) zoom in 1 
+\i (01:18:57) setwindow pcb
+\i (01:18:57) zoom in -11.16 11.92
+\i (01:18:57) trapsize 4
+\i (01:18:59) zoom out 1 
+\i (01:18:59) setwindow pcb
+\i (01:18:59) zoom out -9.44 12.00
+\i (01:18:59) trapsize 8
+\i (01:19:00) zoom out 1 
+\i (01:19:00) setwindow pcb
+\i (01:19:00) zoom out -9.60 11.98
+\i (01:19:00) trapsize 16
+\i (01:19:00) zoom out 1 
+\i (01:19:00) setwindow pcb
+\i (01:19:00) zoom out -9.70 11.88
+\i (01:19:00) trapsize 32
+\i (01:19:01) zoom in 1 
+\i (01:19:01) setwindow pcb
+\i (01:19:01) zoom in -6.67 11.50
+\i (01:19:01) trapsize 16
+\i (01:19:01) zoom in 1 
+\i (01:19:01) setwindow pcb
+\i (01:19:01) zoom in -6.85 11.72
+\i (01:19:01) trapsize 8
+\i (01:19:02) zoom in 1 
+\i (01:19:02) setwindow pcb
+\i (01:19:02) zoom in -9.54 12.07
+\i (01:19:02) trapsize 4
+\i (01:19:03) zoom out 1 
+\i (01:19:03) setwindow pcb
+\i (01:19:03) zoom out -9.53 12.08
+\i (01:19:03) trapsize 8
+\i (01:19:03) zoom out 1 
+\i (01:19:03) setwindow pcb
+\i (01:19:03) zoom out -9.54 12.07
+\i (01:19:03) trapsize 16
+\i (01:19:03) zoom out 1 
+\i (01:19:03) setwindow pcb
+\i (01:19:03) zoom out -9.60 12.04
+\i (01:19:03) trapsize 32
+\i (01:19:06) zoom in 1 
+\i (01:19:06) setwindow pcb
+\i (01:19:06) zoom in -4.17 11.79
+\i (01:19:06) trapsize 16
+\i (01:19:06) zoom in 1 
+\i (01:19:06) setwindow pcb
+\i (01:19:06) zoom in -4.17 11.80
+\i (01:19:06) trapsize 8
+\i (01:19:07) zoom in 1 
+\i (01:19:07) setwindow pcb
+\i (01:19:07) zoom in -5.05 12.53
+\i (01:19:07) trapsize 4
+\i (01:19:07) zoom in 1 
+\i (01:19:07) setwindow pcb
+\i (01:19:07) zoom in -5.05 12.61
+\i (01:19:07) trapsize 2
+\i (01:19:08) zoom out 1 
+\i (01:19:08) setwindow pcb
+\i (01:19:08) zoom out -5.16 12.62
+\i (01:19:08) trapsize 4
+\i (01:19:08) zoom out 1 
+\i (01:19:08) setwindow pcb
+\i (01:19:08) zoom out -5.23 12.56
+\i (01:19:08) trapsize 8
+\i (01:19:11) zoom out 1 
+\i (01:19:11) setwindow pcb
+\i (01:19:11) zoom out -6.01 14.64
+\i (01:19:11) trapsize 16
+\i (01:19:12) zoom out 1 
+\i (01:19:12) setwindow pcb
+\i (01:19:12) zoom out -6.08 14.73
+\i (01:19:12) trapsize 32
+\i (01:21:20) zoom out 1 
+\i (01:21:20) setwindow pcb
+\i (01:21:20) zoom out -30.86 1.62
+\i (01:21:20) trapsize 63
+\i (01:21:20) zoom out 1 
+\i (01:21:20) setwindow pcb
+\i (01:21:20) zoom out -30.86 1.61
+\i (01:21:20) trapsize 126
+\i (01:21:20) zoom in 1 
+\i (01:21:20) setwindow pcb
+\i (01:21:20) zoom in -39.58 -34.03
+\i (01:21:20) trapsize 63
+\i (01:21:21) zoom in 1 
+\i (01:21:21) setwindow pcb
+\i (01:21:21) zoom in -39.83 -32.77
+\i (01:21:21) trapsize 32
+\i (01:21:21) zoom in 1 
+\i (01:21:21) setwindow pcb
+\i (01:21:21) zoom in -39.96 -32.52
+\i (01:21:21) trapsize 16
+\i (01:21:26) hilight 
+\i (01:21:27) zoom out 1 
+\i (01:21:27) setwindow pcb
+\i (01:21:27) zoom out -33.71 -29.36
+\i (01:21:27) trapsize 32
+\i (01:21:27) zoom out 1 
+\i (01:21:27) setwindow pcb
+\i (01:21:27) zoom out -33.72 -29.36
+\i (01:21:27) trapsize 63
+\i (01:21:27) zoom out 1 
+\i (01:21:27) setwindow pcb
+\i (01:21:27) zoom out -33.71 -29.37
+\i (01:21:27) trapsize 126
+\i (01:21:28) zoom in 1 
+\i (01:21:28) setwindow pcb
+\i (01:21:28) zoom in -17.90 6.30
+\i (01:21:28) trapsize 63
+\i (01:21:28) zoom in 1 
+\i (01:21:28) setwindow pcb
+\i (01:21:28) zoom in -17.90 6.30
+\i (01:21:28) trapsize 32
+\i (01:21:28) zoom in 1 
+\i (01:21:28) setwindow pcb
+\i (01:21:28) zoom in -17.89 6.31
+\i (01:21:28) trapsize 16
+\i (01:21:29) zoom out 1 
+\i (01:21:29) setwindow pcb
+\i (01:21:29) zoom out -16.03 5.80
+\i (01:21:29) trapsize 32
+\i (01:21:29) zoom out 1 
+\i (01:21:29) setwindow pcb
+\i (01:21:29) zoom out -16.53 5.49
+\i (01:21:29) trapsize 63
+\i (01:21:29) zoom out 1 
+\i (01:21:29) setwindow pcb
+\i (01:21:29) zoom out -19.81 4.86
+\i (01:21:29) trapsize 126
+\i (01:21:31) pick grid -37.31 -25.21
+\t (01:21:31) last pick:  -37.12  -24.96
+\t (01:21:31) Symbol "U4" highlighted.
+\i (01:21:34) zoom in 1 
+\i (01:21:34) setwindow pcb
+\i (01:21:34) zoom in -13.36 -0.25
+\i (01:21:34) trapsize 63
+\i (01:21:34) zoom in 1 
+\i (01:21:34) setwindow pcb
+\i (01:21:34) zoom in -12.23 0.51
+\i (01:21:34) trapsize 32
+\i (01:21:37) zoom out 1 
+\i (01:21:37) setwindow pcb
+\i (01:21:37) zoom out -7.75 3.60
+\i (01:21:37) trapsize 63
+\i (01:21:37) zoom out 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom out -8.12 3.10
+\i (01:21:38) trapsize 126
+\i (01:21:38) zoom out 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom out 5.80 11.85
+\i (01:21:38) trapsize 126
+\i (01:21:38) zoom in 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom in -45.38 -25.71
+\i (01:21:38) trapsize 63
+\i (01:21:38) zoom in 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom in -45.38 -25.58
+\i (01:21:38) trapsize 32
+\i (01:21:39) zoom in 1 
+\i (01:21:39) setwindow pcb
+\i (01:21:39) zoom in -45.31 -25.39
+\i (01:21:39) trapsize 16
+\i (01:21:42) pick grid -37.37 -28.67
+\t (01:21:42) last pick:  -37.12  -28.80
+\t (01:21:42) Symbol "U4" highlighted.
+\i (01:21:44) pick grid -36.55 -25.42
+\t (01:21:44) last pick:  -36.48  -25.60
+\t (01:21:44) Symbol "U4" highlighted.
+\i (01:21:44) zoom out 1 
+\i (01:21:44) setwindow pcb
+\i (01:21:44) zoom out -34.69 -25.39
+\i (01:21:44) trapsize 32
+\i (01:21:44) zoom out 1 
+\i (01:21:44) setwindow pcb
+\i (01:21:44) zoom out -34.69 -25.39
+\i (01:21:44) trapsize 63
+\i (01:21:47) zoom in 1 
+\i (01:21:47) setwindow pcb
+\i (01:21:47) zoom in -8.32 4.74
+\i (01:21:47) trapsize 32
+\i (01:21:47) zoom in 1 
+\i (01:21:47) setwindow pcb
+\i (01:21:47) zoom in -8.32 4.75
+\i (01:21:47) trapsize 16
+\i (01:21:48) zoom in 1 
+\i (01:21:48) setwindow pcb
+\i (01:21:48) zoom in -7.47 3.59
+\i (01:21:48) trapsize 8
+\i (01:21:49) zoom out 1 
+\i (01:21:49) setwindow pcb
+\i (01:21:49) zoom out -7.47 3.57
+\i (01:21:49) trapsize 16
+\i (01:21:49) zoom out 1 
+\i (01:21:49) setwindow pcb
+\i (01:21:49) zoom out -7.46 3.58
+\i (01:21:49) trapsize 32
+\i (01:21:49) zoom out 1 
+\i (01:21:49) setwindow pcb
+\i (01:21:49) zoom out -7.39 3.38
+\i (01:21:49) trapsize 63
+\i (01:21:49) zoom out 1 
+\i (01:21:49) setwindow pcb
+\i (01:21:49) zoom out -4.79 3.39
+\i (01:21:49) trapsize 126
+\i (01:21:51) zoom in 1 
+\i (01:21:51) setwindow pcb
+\i (01:21:51) zoom in 0.50 11.09
+\i (01:21:51) trapsize 63
+\i (01:21:51) zoom in 1 
+\i (01:21:51) setwindow pcb
+\i (01:21:51) zoom in 0.50 11.35
+\i (01:21:51) trapsize 32
+\i (01:21:53) zoom in 1 
+\i (01:21:53) setwindow pcb
+\i (01:21:53) zoom in -5.61 10.28
+\i (01:21:53) trapsize 16
+\i (01:21:53) zoom in 1 
+\i (01:21:53) setwindow pcb
+\i (01:21:53) zoom in -5.57 10.32
+\i (01:21:53) trapsize 8
+\i (01:21:54) zoom out 1 
+\i (01:21:54) setwindow pcb
+\i (01:21:54) zoom out -5.41 8.37
+\i (01:21:54) trapsize 16
+\i (01:21:54) zoom out 1 
+\i (01:21:54) setwindow pcb
+\i (01:21:54) zoom out -5.47 8.30
+\i (01:21:54) trapsize 32
+\i (01:21:56) zoom in 1 
+\i (01:21:56) setwindow pcb
+\i (01:21:56) zoom in -5.41 11.84
+\i (01:21:56) trapsize 16
+\i (01:21:56) zoom in 1 
+\i (01:21:56) setwindow pcb
+\i (01:21:56) zoom in -5.41 11.84
+\i (01:21:56) trapsize 8
+\i (01:22:04) zoom out 1 
+\i (01:22:04) setwindow pcb
+\i (01:22:04) zoom out -3.96 10.55
+\i (01:22:04) trapsize 16
+\i (01:22:04) zoom out 1 
+\i (01:22:04) setwindow pcb
+\i (01:22:04) zoom out -3.95 10.51
+\i (01:22:04) trapsize 32
+\i (01:22:04) zoom out 1 
+\i (01:22:04) setwindow pcb
+\i (01:22:04) zoom out -3.95 10.14
+\i (01:22:04) trapsize 63
+\i (01:22:04) zoom out 1 
+\i (01:22:04) setwindow pcb
+\i (01:22:04) zoom out -3.95 8.88
+\i (01:22:04) trapsize 126
+\i (01:22:06) zoom in 1 
+\i (01:22:06) setwindow pcb
+\i (01:22:06) zoom in -45.13 -25.97
+\i (01:22:06) trapsize 63
+\i (01:22:06) zoom in 1 
+\i (01:22:06) setwindow pcb
+\i (01:22:06) zoom in -45.12 -25.96
+\i (01:22:06) trapsize 32
+\i (01:22:06) pick grid -41.78 -25.96
+\t (01:22:06) last pick:  -41.60  -26.24
+\t (01:22:06) Symbol "U5" highlighted.
+\i (01:22:07) pick grid -39.07 -23.13
+\t (01:22:07) last pick:  -39.04  -23.04
+\t (01:22:07) Net "Limiter0" highlighted.
+\i (01:22:08) pick grid -38.69 -23.25
+\t (01:22:08) last pick:  -38.40  -23.04
+\t (01:22:08) Net "Limiter0" highlighted.
+\i (01:22:09) zoom out 1 
+\i (01:22:09) setwindow pcb
+\i (01:22:09) zoom out -33.97 -22.37
+\i (01:22:09) trapsize 63
+\i (01:22:09) zoom out 1 
+\i (01:22:09) setwindow pcb
+\i (01:22:09) zoom out -33.96 -22.37
+\i (01:22:09) trapsize 126
+\i (01:22:10) zoom in 1 
+\i (01:22:10) setwindow pcb
+\i (01:22:10) zoom in -8.07 7.31
+\i (01:22:10) trapsize 63
+\i (01:22:10) zoom in 1 
+\i (01:22:10) setwindow pcb
+\i (01:22:10) zoom in -8.06 7.32
+\i (01:22:10) trapsize 32
+\i (01:22:10) zoom in 1 
+\i (01:22:10) setwindow pcb
+\i (01:22:10) zoom in -7.55 6.88
+\i (01:22:10) trapsize 16
+\i (01:22:12) zoom in 1 
+\i (01:22:12) setwindow pcb
+\i (01:22:12) zoom in -11.30 12.40
+\i (01:22:12) trapsize 8
+\i (01:22:13) zoom in 1 
+\i (01:22:13) setwindow pcb
+\i (01:22:13) zoom in -11.09 12.20
+\i (01:22:13) trapsize 4
+\i (01:22:14) zoom out 1 
+\i (01:22:14) setwindow pcb
+\i (01:22:14) zoom out -11.19 12.10
+\i (01:22:14) trapsize 8
+\i (01:22:14) zoom out 1 
+\i (01:22:14) setwindow pcb
+\i (01:22:14) zoom out -11.20 12.09
+\i (01:22:14) trapsize 16
+\i (01:22:17) zoom in 1 
+\i (01:22:17) setwindow pcb
+\i (01:22:17) zoom in -11.45 12.44
+\i (01:22:17) trapsize 8
+\i (01:22:19) zoom in 1 
+\i (01:22:19) setwindow pcb
+\i (01:22:19) zoom in -11.15 12.63
+\i (01:22:19) trapsize 4
+\i (01:22:20) zoom out 1 
+\i (01:22:20) setwindow pcb
+\i (01:22:20) zoom out -11.06 12.46
+\i (01:22:20) trapsize 8
+\i (01:22:20) zoom out 1 
+\i (01:22:20) setwindow pcb
+\i (01:22:20) zoom out -11.06 12.47
+\i (01:22:20) trapsize 16
+\i (01:22:23) zoom out 1 
+\i (01:22:23) setwindow pcb
+\i (01:22:23) zoom out -11.86 14.27
+\i (01:22:23) trapsize 32
+\i (01:22:23) zoom out 1 
+\i (01:22:23) setwindow pcb
+\i (01:22:23) zoom out -11.85 14.26
+\i (01:22:23) trapsize 63
+\i (01:22:24) zoom out 1 
+\i (01:22:24) setwindow pcb
+\i (01:22:24) zoom out -10.59 14.64
+\i (01:22:24) trapsize 126
+\i (01:22:27) zoom in 1 
+\i (01:22:27) setwindow pcb
+\i (01:22:27) zoom in -11.35 19.92
+\i (01:22:27) trapsize 63
+\i (01:22:27) zoom in 1 
+\i (01:22:27) setwindow pcb
+\i (01:22:27) zoom in -11.34 20.05
+\i (01:22:27) trapsize 32
+\i (01:22:28) zoom in 1 
+\i (01:22:28) setwindow pcb
+\i (01:22:28) zoom in -11.34 20.18
+\i (01:22:28) trapsize 16
+\i (01:22:30) zoom out 1 
+\i (01:22:30) setwindow pcb
+\i (01:22:30) zoom out -7.56 14.17
+\i (01:22:30) trapsize 32
+\i (01:22:31) zoom in 1 
+\i (01:22:31) setwindow pcb
+\i (01:22:31) zoom in -12.03 14.73
+\i (01:22:31) trapsize 16
+\i (01:22:31) zoom in 1 
+\i (01:22:31) setwindow pcb
+\i (01:22:31) zoom in -12.02 14.76
+\i (01:22:31) trapsize 8
+\i (01:22:32) zoom out 1 
+\i (01:22:32) setwindow pcb
+\i (01:22:32) zoom out -11.46 14.43
+\i (01:22:32) trapsize 16
+\i (01:22:32) zoom out 1 
+\i (01:22:32) setwindow pcb
+\i (01:22:32) zoom out -11.39 14.33
+\i (01:22:32) trapsize 32
+\i (01:22:33) zoom out 1 
+\i (01:22:33) setwindow pcb
+\i (01:22:33) zoom out -11.07 13.71
+\i (01:22:33) trapsize 63
+\i (01:22:34) zoom out 1 
+\i (01:22:34) setwindow pcb
+\i (01:22:34) zoom out -8.80 3.53
+\i (01:22:34) trapsize 126
+\i (01:22:34) zoom out 1 
+\i (01:22:34) setwindow pcb
+\i (01:22:34) zoom out 16.13 -52.94
+\i (01:22:34) trapsize 126
+\i (01:22:35) zoom in 1 
+\i (01:22:35) setwindow pcb
+\i (01:22:35) zoom in -8.07 14.87
+\i (01:22:35) trapsize 63
+\i (01:22:36) zoom in 1 
+\i (01:22:36) setwindow pcb
+\i (01:22:36) zoom in -8.06 14.88
+\i (01:22:36) trapsize 32
+\i (01:22:48) zoom out 1 
+\i (01:22:48) setwindow pcb
+\i (01:22:48) zoom out -3.14 2.46
+\i (01:22:48) trapsize 63
+\i (01:22:48) zoom out 1 
+\i (01:22:48) setwindow pcb
+\i (01:22:48) zoom out -3.27 2.09
+\i (01:22:48) trapsize 126
+\i (01:22:48) zoom out 1 
+\i (01:22:48) setwindow pcb
+\i (01:22:48) zoom out 11.34 -35.55
+\i (01:22:48) trapsize 126
+\i (01:22:48) zoom out 1 
+\i (01:22:48) setwindow pcb
+\i (01:22:48) zoom out 11.34 -35.55
+\i (01:22:48) trapsize 126
+\i (01:23:25) zoom in 1 
+\i (01:23:25) setwindow pcb
+\i (01:23:25) zoom in -1.77 12.35
+\i (01:23:25) trapsize 63
+\i (01:23:25) zoom in 1 
+\i (01:23:25) setwindow pcb
+\i (01:23:25) zoom in -1.76 12.48
+\i (01:23:25) trapsize 32
+\i (01:23:26) zoom in 1 
+\i (01:23:26) setwindow pcb
+\i (01:23:26) zoom in -14.11 12.29
+\i (01:23:26) trapsize 16
+\i (01:23:26) zoom in 1 
+\i (01:23:26) setwindow pcb
+\i (01:23:26) zoom in -14.08 12.45
+\i (01:23:26) trapsize 8
+\i (01:23:29) pick grid -13.31 12.61
+\t (01:23:29) last pick:  -13.44  12.80
+\t (01:23:29) Net "Relay4" highlighted.
+\i (01:23:30) zoom out 1 
+\i (01:23:30) setwindow pcb
+\i (01:23:30) zoom out -13.65 12.21
+\i (01:23:30) trapsize 16
+\i (01:23:31) zoom out 1 
+\i (01:23:31) setwindow pcb
+\i (01:23:31) zoom out -15.23 10.29
+\i (01:23:31) trapsize 32
+\i (01:23:32) zoom out 1 
+\i (01:23:32) setwindow pcb
+\i (01:23:32) zoom out -20.65 8.22
+\i (01:23:32) trapsize 63
+\i (01:23:33) zoom out 1 
+\i (01:23:33) setwindow pcb
+\i (01:23:33) zoom out -24.08 8.09
+\i (01:23:33) trapsize 126
+\i (01:23:34) zoom in 1 
+\i (01:23:34) setwindow pcb
+\i (01:23:34) zoom in -44.37 6.81
+\i (01:23:34) trapsize 63
+\i (01:23:34) zoom in 1 
+\i (01:23:34) setwindow pcb
+\i (01:23:34) zoom in -44.36 6.31
+\i (01:23:34) trapsize 32
+\i (01:23:36) zoom in 1 
+\i (01:23:36) setwindow pcb
+\i (01:23:36) zoom in -18.71 8.45
+\i (01:23:36) trapsize 16
+\i (01:23:41) zoom out 1 
+\i (01:23:41) setwindow pcb
+\i (01:23:41) zoom out -22.14 6.63
+\i (01:23:41) trapsize 32
+\i (01:23:47) zoom in 1 
+\i (01:23:47) setwindow pcb
+\i (01:23:47) zoom in -22.65 9.90
+\i (01:23:47) trapsize 16
+\i (01:23:47) zoom in 1 
+\i (01:23:47) setwindow pcb
+\i (01:23:47) zoom in -22.58 9.94
+\i (01:23:47) trapsize 8
+\i (01:23:48) zoom out 1 
+\i (01:23:48) setwindow pcb
+\i (01:23:48) zoom out -22.58 9.94
+\i (01:23:48) trapsize 16
+\i (01:23:48) zoom out 1 
+\i (01:23:48) setwindow pcb
+\i (01:23:48) zoom out -22.57 9.94
+\i (01:23:48) trapsize 32
+\i (01:23:57) zoom in 1 
+\i (01:23:57) setwindow pcb
+\i (01:23:57) zoom in -11.74 14.54
+\i (01:23:57) trapsize 16
+\i (01:23:57) zoom in 1 
+\i (01:23:57) setwindow pcb
+\i (01:23:57) zoom in -11.70 14.54
+\i (01:23:57) trapsize 8
+\i (01:23:58) zoom in 1 
+\i (01:23:58) setwindow pcb
+\i (01:23:58) zoom in -11.55 14.52
+\i (01:23:58) trapsize 4
+\i (01:24:01) zoom out 1 
+\i (01:24:01) setwindow pcb
+\i (01:24:01) zoom out -11.36 13.96
+\i (01:24:01) trapsize 8
+\i (01:24:01) zoom out 1 
+\i (01:24:01) setwindow pcb
+\i (01:24:01) zoom out -11.33 13.92
+\i (01:24:01) trapsize 16
+\i (01:24:02) zoom out 1 
+\i (01:24:02) setwindow pcb
+\i (01:24:02) zoom out -11.14 8.84
+\i (01:24:02) trapsize 32
+\i (01:24:03) zoom out 1 
+\i (01:24:03) setwindow pcb
+\i (01:24:03) zoom out -10.00 6.45
+\i (01:24:03) trapsize 63
+\i (01:24:03) zoom out 1 
+\i (01:24:03) setwindow pcb
+\i (01:24:03) zoom out -1.33 6.58
+\i (01:24:03) trapsize 126
+\i (01:24:03) zoom out 1 
+\i (01:24:03) setwindow pcb
+\i (01:24:03) zoom out 87.22 -37.31
+\i (01:24:03) trapsize 126
+\i (01:24:04) zoom in 1 
+\i (01:24:04) setwindow pcb
+\i (01:24:04) zoom in 26.47 -7.06
+\i (01:24:04) trapsize 63
+\i (01:24:04) zoom in 1 
+\i (01:24:04) setwindow pcb
+\i (01:24:04) zoom in 25.97 -6.05
+\i (01:24:04) trapsize 32
+\i (01:24:05) zoom out 1 
+\i (01:24:05) setwindow pcb
+\i (01:24:05) zoom out 25.28 -4.22
+\i (01:24:05) trapsize 63
+\i (01:24:05) zoom out 1 
+\i (01:24:05) setwindow pcb
+\i (01:24:05) zoom out 25.16 -4.10
+\i (01:24:05) trapsize 126
+\i (01:24:05) zoom out 1 
+\i (01:24:05) setwindow pcb
+\i (01:24:05) zoom out 22.44 2.52
+\i (01:24:05) trapsize 126
+\i (01:24:06) zoom in 1 
+\i (01:24:06) setwindow pcb
+\i (01:24:06) zoom in -9.08 20.42
+\i (01:24:06) trapsize 63
+\i (01:24:06) zoom in 1 
+\i (01:24:06) setwindow pcb
+\i (01:24:06) zoom in -9.08 20.42
+\i (01:24:06) trapsize 32
+\i (01:24:09) zoom out 1 
+\i (01:24:09) setwindow pcb
+\i (01:24:09) zoom out -4.10 15.64
+\i (01:24:09) trapsize 63
+\i (01:24:11) zoom in 1 
+\i (01:24:11) setwindow pcb
+\i (01:24:11) zoom in -13.17 13.61
+\i (01:24:11) trapsize 32
+\i (01:24:11) zoom in 1 
+\i (01:24:11) setwindow pcb
+\i (01:24:11) zoom in -13.17 13.68
+\i (01:24:11) trapsize 16
+\i (01:24:13) zoom out 1 
+\i (01:24:13) setwindow pcb
+\i (01:24:13) zoom out -10.26 12.83
+\i (01:24:13) trapsize 32
+\i (01:24:14) zoom in 1 
+\i (01:24:14) setwindow pcb
+\i (01:24:14) zoom in -13.29 12.65
+\i (01:24:14) trapsize 16
+\i (01:24:15) zoom in 1 
+\i (01:24:15) setwindow pcb
+\i (01:24:15) zoom in -11.40 14.16
+\i (01:24:15) trapsize 8
+\i (01:24:15) zoom in 1 
+\i (01:24:15) setwindow pcb
+\i (01:24:15) zoom in -11.38 14.18
+\i (01:24:15) trapsize 4
+\i (01:24:17) zoom in 1 
+\i (01:24:17) setwindow pcb
+\i (01:24:17) zoom in -11.55 14.32
+\i (01:24:17) trapsize 2
+\i (01:24:17) zoom in 1 
+\i (01:24:17) setwindow pcb
+\i (01:24:17) zoom in -11.55 14.32
+\i (01:24:17) trapsize 1
+\i (01:24:18) zoom out 1 
+\i (01:24:18) setwindow pcb
+\i (01:24:18) zoom out -11.50 14.29
+\i (01:24:18) trapsize 2
+\i (01:24:18) zoom out 1 
+\i (01:24:18) setwindow pcb
+\i (01:24:18) zoom out -11.50 14.27
+\i (01:24:18) trapsize 4
+\i (01:24:18) zoom out 1 
+\i (01:24:18) setwindow pcb
+\i (01:24:18) zoom out -11.51 14.26
+\i (01:24:18) trapsize 8
+\i (01:24:18) zoom out 1 
+\i (01:24:18) setwindow pcb
+\i (01:24:18) zoom out -11.44 14.20
+\i (01:24:18) trapsize 16
+\i (01:24:19) zoom out 1 
+\i (01:24:19) setwindow pcb
+\i (01:24:19) zoom out -11.31 13.85
+\i (01:24:19) trapsize 31
+\i (01:24:22) zoom in 1 
+\i (01:24:22) setwindow pcb
+\i (01:24:22) zoom in -11.26 13.73
+\i (01:24:22) trapsize 16
+\i (01:25:03) zoom out 1 
+\i (01:25:03) setwindow pcb
+\i (01:25:03) zoom out -10.22 14.07
+\i (01:25:03) trapsize 31
+\i (01:25:03) zoom out 1 
+\i (01:25:03) setwindow pcb
+\i (01:25:03) zoom out -10.21 14.08
+\i (01:25:03) trapsize 63
+\i (01:25:07) zoom in 1 
+\i (01:25:07) setwindow pcb
+\i (01:25:07) zoom in -23.42 11.94
+\i (01:25:07) trapsize 31
+\i (01:25:07) zoom in 1 
+\i (01:25:07) setwindow pcb
+\i (01:25:07) zoom in -23.41 11.94
+\i (01:25:07) trapsize 16
+\i (01:25:09) zoom in 1 
+\i (01:25:09) setwindow pcb
+\i (01:25:09) zoom in -21.68 14.20
+\i (01:25:09) trapsize 8
+\i (01:25:09) zoom in 1 
+\i (01:25:09) setwindow pcb
+\i (01:25:09) zoom in -21.66 14.20
+\i (01:25:09) trapsize 4
+\i (01:25:09) zoom in 1 
+\i (01:25:09) setwindow pcb
+\i (01:25:09) zoom in -21.61 14.20
+\i (01:25:09) trapsize 2
+\i (01:25:09) zoom out 1 
+\i (01:25:09) setwindow pcb
+\i (01:25:09) zoom out -21.57 14.16
+\i (01:25:09) trapsize 4
+\i (01:25:09) zoom out 1 
+\i (01:25:09) setwindow pcb
+\i (01:25:09) zoom out -21.57 14.15
+\i (01:25:09) trapsize 8
+\i (01:25:10) zoom out 1 
+\i (01:25:10) setwindow pcb
+\i (01:25:10) zoom out -21.39 14.38
+\i (01:25:10) trapsize 16
+\i (01:25:10) zoom out 1 
+\i (01:25:10) setwindow pcb
+\i (01:25:10) zoom out -21.36 14.38
+\i (01:25:10) trapsize 31
+\i (01:25:10) zoom in 1 
+\i (01:25:10) setwindow pcb
+\i (01:25:10) zoom in -21.23 19.59
+\i (01:25:10) trapsize 16
+\i (01:25:10) zoom in 1 
+\i (01:25:10) setwindow pcb
+\i (01:25:10) zoom in -21.22 19.60
+\i (01:25:10) trapsize 8
+\i (01:25:12) zoom out 1 
+\i (01:25:12) setwindow pcb
+\i (01:25:12) zoom out -21.31 19.76
+\i (01:25:12) trapsize 16
+\i (01:25:13) zoom out 1 
+\i (01:25:13) setwindow pcb
+\i (01:25:13) zoom out -21.29 21.02
+\i (01:25:13) trapsize 31
+\i (01:25:15) zoom out 1 
+\i (01:25:15) setwindow pcb
+\i (01:25:15) zoom out -22.11 23.34
+\i (01:25:15) trapsize 63
+\i (01:25:16) zoom in 1 
+\i (01:25:16) setwindow pcb
+\i (01:25:16) zoom in -22.23 23.85
+\i (01:25:16) trapsize 31
+\i (01:25:16) zoom in 1 
+\i (01:25:16) setwindow pcb
+\i (01:25:16) zoom in -22.23 22.72
+\i (01:25:16) trapsize 16
+\i (01:25:17) zoom in 1 
+\i (01:25:17) setwindow pcb
+\i (01:25:17) zoom in -21.51 19.92
+\i (01:25:17) trapsize 8
+\i (01:25:20) pick grid -21.44 19.70
+\t (01:25:20) last pick:  -21.12  19.84
+\t (01:25:20) Symbol "U20" highlighted.
+\i (01:25:22) zoom out 1 
+\i (01:25:22) setwindow pcb
+\i (01:25:22) zoom out -20.23 18.25
+\i (01:25:22) trapsize 16
+\i (01:25:22) zoom out 1 
+\i (01:25:22) setwindow pcb
+\i (01:25:22) zoom out -20.24 18.26
+\i (01:25:22) trapsize 31
+\i (01:25:22) zoom out 1 
+\i (01:25:22) setwindow pcb
+\i (01:25:22) zoom out -20.24 18.26
+\i (01:25:22) trapsize 63
+\i (01:25:23) zoom in 1 
+\i (01:25:23) setwindow pcb
+\i (01:25:23) zoom in -23.26 21.27
+\i (01:25:23) trapsize 31
+\i (01:25:23) zoom in 1 
+\i (01:25:23) setwindow pcb
+\i (01:25:23) zoom in -23.26 21.28
+\i (01:25:23) trapsize 16
+\i (01:25:23) zoom in 1 
+\i (01:25:23) setwindow pcb
+\i (01:25:23) zoom in -23.16 21.31
+\i (01:25:23) trapsize 8
+\i (01:25:24) zoom out 1 
+\i (01:25:24) setwindow pcb
+\i (01:25:24) zoom out -22.13 20.53
+\i (01:25:24) trapsize 16
+\i (01:25:25) pick grid -19.80 24.18
+\t (01:25:25) last pick:  -19.84  24.32
+\i (01:25:25) zoom in 1 
+\i (01:25:25) setwindow pcb
+\i (01:25:25) zoom in -20.80 18.20
+\i (01:25:25) trapsize 8
+\i (01:25:25) zoom in 1 
+\i (01:25:25) setwindow pcb
+\i (01:25:25) zoom in -20.80 18.21
+\i (01:25:25) trapsize 4
+\i (01:25:25) zoom in 1 
+\i (01:25:25) setwindow pcb
+\i (01:25:25) zoom in -20.82 18.21
+\i (01:25:25) trapsize 2
+\i (01:25:25) zoom in 1 
+\i (01:25:25) setwindow pcb
+\i (01:25:25) zoom in -20.82 18.21
+\i (01:25:25) trapsize 1
+\i (01:25:26) zoom out 1 
+\i (01:25:26) setwindow pcb
+\i (01:25:26) zoom out -20.95 18.24
+\i (01:25:26) trapsize 2
+\i (01:25:26) zoom out 1 
+\i (01:25:26) setwindow pcb
+\i (01:25:26) zoom out -20.96 18.25
+\i (01:25:26) trapsize 4
+\i (01:25:26) zoom out 1 
+\i (01:25:26) setwindow pcb
+\i (01:25:26) zoom out -20.95 18.25
+\i (01:25:26) trapsize 8
+\i (01:25:26) zoom out 1 
+\i (01:25:27) setwindow pcb
+\i (01:25:27) zoom out -20.96 18.24
+\i (01:25:27) trapsize 16
+\i (01:25:27) pick grid -21.18 18.31
+\t (01:25:27) last pick:  -21.12  18.56
+\t (01:25:27) Symbol "U20" highlighted.
+\i (01:25:28) pick grid -17.72 18.18
+\t (01:25:28) last pick:  -17.92  17.92
+\t (01:25:28) Symbol "R18" highlighted.
+\i (01:25:29) pick grid -21.34 19.63
+\t (01:25:29) last pick:  -21.12  19.84
+\t (01:25:29) Symbol "U20" highlighted.
+\i (01:25:33) dehilight 
+\i (01:25:34) pick grid -21.43 19.50
+\t (01:25:34) last pick:  -21.12  19.20
+\t (01:25:34) Symbol "U20" dehighlighted.
+\i (01:25:37) zoom out 1 
+\i (01:25:37) setwindow pcb
+\i (01:25:37) zoom out -21.53 17.24
+\i (01:25:37) trapsize 31
+\i (01:25:37) zoom out 1 
+\i (01:25:37) setwindow pcb
+\i (01:25:37) zoom out -21.46 16.93
+\i (01:25:37) trapsize 63
+\i (01:25:38) zoom in 1 
+\i (01:25:38) setwindow pcb
+\i (01:25:38) zoom in -30.14 5.03
+\i (01:25:38) trapsize 31
+\i (01:25:38) zoom in 1 
+\i (01:25:38) setwindow pcb
+\i (01:25:38) zoom in -30.14 5.03
+\i (01:25:38) trapsize 16
+\i (01:25:38) zoom in 1 
+\i (01:25:38) setwindow pcb
+\i (01:25:38) zoom in -30.45 4.85
+\i (01:25:38) trapsize 8
+\i (01:25:38) zoom in 1 
+\i (01:25:38) setwindow pcb
+\i (01:25:38) zoom in -30.48 4.82
+\i (01:25:38) trapsize 4
+\i (01:25:40) zoom out 1 
+\i (01:25:40) setwindow pcb
+\i (01:25:40) zoom out -30.60 4.88
+\i (01:25:40) trapsize 8
+\i (01:25:40) zoom out 1 
+\i (01:25:40) setwindow pcb
+\i (01:25:40) zoom out -30.60 4.88
+\i (01:25:40) trapsize 16
+\i (01:25:40) zoom in 1 
+\i (01:25:40) setwindow pcb
+\i (01:25:40) zoom in -31.55 9.34
+\i (01:25:40) trapsize 8
+\i (01:25:40) zoom in 1 
+\i (01:25:40) setwindow pcb
+\i (01:25:40) zoom in -31.55 9.36
+\i (01:25:40) trapsize 4
+\i (01:25:42) zoom out 1 
+\i (01:25:42) setwindow pcb
+\i (01:25:42) zoom out -31.36 9.42
+\i (01:25:42) trapsize 8
+\i (01:25:42) zoom out 1 
+\i (01:25:42) setwindow pcb
+\i (01:25:42) zoom out -31.35 9.42
+\i (01:25:42) trapsize 16
+\i (01:25:42) zoom out 1 
+\i (01:25:42) setwindow pcb
+\i (01:25:42) zoom out -31.36 9.41
+\i (01:25:42) trapsize 31
+\i (01:25:42) zoom out 1 
+\i (01:25:42) setwindow pcb
+\i (01:25:42) zoom out -31.37 9.42
+\i (01:25:42) trapsize 63
+\i (01:25:43) zoom in 1 
+\i (01:25:43) setwindow pcb
+\i (01:25:43) zoom in -26.34 9.29
+\i (01:25:43) trapsize 31
+\i (01:25:43) zoom in 1 
+\i (01:25:43) setwindow pcb
+\i (01:25:43) zoom in -26.27 9.42
+\i (01:25:43) trapsize 16
+\i (01:25:43) zoom in 1 
+\i (01:25:43) setwindow pcb
+\i (01:25:43) zoom in -26.27 9.42
+\i (01:25:43) trapsize 8
+\i (01:25:44) zoom in 1 
+\i (01:25:44) setwindow pcb
+\i (01:25:44) zoom in -26.27 9.42
+\i (01:25:44) trapsize 4
+\i (01:25:45) zoom out 1 
+\i (01:25:45) setwindow pcb
+\i (01:25:45) zoom out -26.27 9.39
+\i (01:25:45) trapsize 8
+\i (01:25:45) zoom out 1 
+\i (01:25:45) setwindow pcb
+\i (01:25:45) zoom out -26.26 9.40
+\i (01:25:45) trapsize 16
+\i (01:25:45) zoom out 1 
+\i (01:25:45) setwindow pcb
+\i (01:25:45) zoom out -26.27 9.34
+\i (01:25:45) trapsize 31
+\i (01:25:46) zoom in 1 
+\i (01:25:46) setwindow pcb
+\i (01:25:46) zoom in -28.90 23.67
+\i (01:25:46) trapsize 16
+\i (01:25:46) zoom in 1 
+\i (01:25:46) setwindow pcb
+\i (01:25:46) zoom in -28.90 23.68
+\i (01:25:46) trapsize 8
+\i (01:25:46) zoom in 1 
+\i (01:25:47) setwindow pcb
+\i (01:25:47) zoom in -28.90 23.57
+\i (01:25:47) trapsize 4
+\i (01:25:47) zoom out 1 
+\i (01:25:47) setwindow pcb
+\i (01:25:47) zoom out -28.90 23.49
+\i (01:25:47) trapsize 8
+\i (01:25:47) zoom out 1 
+\i (01:25:47) setwindow pcb
+\i (01:25:47) zoom out -28.89 23.41
+\i (01:25:47) trapsize 16
+\i (01:25:47) zoom out 1 
+\i (01:25:47) setwindow pcb
+\i (01:25:47) zoom out -28.90 23.22
+\i (01:25:47) trapsize 31
+\i (01:25:48) zoom in 1 
+\i (01:25:48) setwindow pcb
+\i (01:25:48) zoom in -19.96 13.92
+\i (01:25:48) trapsize 16
+\i (01:25:49) zoom in 1 
+\i (01:25:49) setwindow pcb
+\i (01:25:49) zoom in -19.99 13.95
+\i (01:25:49) trapsize 8
+\i (01:25:50) zoom out 1 
+\i (01:25:50) setwindow pcb
+\i (01:25:50) zoom out -20.06 13.95
+\i (01:25:50) trapsize 16
+\i (01:26:00) zoom in 1 
+\i (01:26:00) setwindow pcb
+\i (01:26:00) zoom in -21.38 15.82
+\i (01:26:00) trapsize 8
+\i (01:26:00) zoom in 1 
+\i (01:26:00) setwindow pcb
+\i (01:26:00) zoom in -21.38 15.82
+\i (01:26:00) trapsize 4
+\i (01:26:02) zoom out 1 
+\i (01:26:02) setwindow pcb
+\i (01:26:02) zoom out -21.29 15.62
+\i (01:26:02) trapsize 8
+\i (01:26:02) zoom out 1 
+\i (01:26:02) setwindow pcb
+\i (01:26:02) zoom out -21.29 15.63
+\i (01:26:02) trapsize 16
+\i (01:26:04) zoom in 1 
+\i (01:26:04) setwindow pcb
+\i (01:26:04) zoom in -21.74 15.69
+\i (01:26:04) trapsize 8
+\i (01:26:04) pick grid -21.12 15.64
+\t (01:26:04) last pick:  -21.12  15.36
+\i (01:26:06) zoom in 1 
+\i (01:26:06) setwindow pcb
+\i (01:26:06) zoom in -21.57 15.80
+\i (01:26:06) trapsize 4
+\i (01:26:06) zoom in 1 
+\i (01:26:06) setwindow pcb
+\i (01:26:06) zoom in -21.56 15.81
+\i (01:26:06) trapsize 2
+\i (01:26:06) zoom out 1 
+\i (01:26:06) setwindow pcb
+\i (01:26:06) zoom out -21.56 15.80
+\i (01:26:06) trapsize 4
+\i (01:26:06) zoom out 1 
+\i (01:26:06) setwindow pcb
+\i (01:26:06) zoom out -21.55 15.78
+\i (01:26:06) trapsize 8
+\i (01:26:06) zoom out 1 
+\i (01:26:06) setwindow pcb
+\i (01:26:06) zoom out -21.53 15.74
+\i (01:26:06) trapsize 16
+\i (01:26:06) zoom out 1 
+\i (01:26:06) setwindow pcb
+\i (01:26:06) zoom out -21.53 15.69
+\i (01:26:06) trapsize 31
+\i (01:26:07) zoom in 1 
+\i (01:26:07) setwindow pcb
+\i (01:26:07) zoom in -18.83 10.91
+\i (01:26:07) trapsize 16
+\i (01:26:07) zoom in 1 
+\i (01:26:07) setwindow pcb
+\i (01:26:07) zoom in -18.86 10.91
+\i (01:26:07) trapsize 8
+\i (01:26:19) zoom out 1 
+\i (01:26:19) setwindow pcb
+\i (01:26:19) zoom out -21.08 13.16
+\i (01:26:19) trapsize 16
+\i (01:26:19) zoom out 1 
+\i (01:26:19) setwindow pcb
+\i (01:26:19) zoom out -21.08 13.16
+\i (01:26:19) trapsize 31
+\i (01:26:20) zoom out 1 
+\i (01:26:20) setwindow pcb
+\i (01:26:20) zoom out -20.82 12.27
+\i (01:26:20) trapsize 63
+\i (01:26:21) zoom in 1 
+\i (01:26:21) setwindow pcb
+\i (01:26:21) zoom in -25.48 21.71
+\i (01:26:21) trapsize 31
+\i (01:26:21) zoom in 1 
+\i (01:26:21) setwindow pcb
+\i (01:26:21) zoom in -25.48 21.58
+\i (01:26:21) trapsize 16
+\i (01:26:21) zoom in 1 
+\i (01:26:22) setwindow pcb
+\i (01:26:22) zoom in -26.04 23.66
+\i (01:26:22) trapsize 8
+\i (01:26:22) zoom in 1 
+\i (01:26:22) setwindow pcb
+\i (01:26:22) zoom in -26.04 23.68
+\i (01:26:22) trapsize 4
+\i (01:26:22) zoom in 1 
+\i (01:26:22) setwindow pcb
+\i (01:26:22) zoom in -26.06 23.68
+\i (01:26:22) trapsize 2
+\i (01:26:23) zoom out 1 
+\i (01:26:23) setwindow pcb
+\i (01:26:23) zoom out -26.18 23.40
+\i (01:26:23) trapsize 4
+\i (01:26:24) pick grid -25.63 21.88
+\t (01:26:24) last pick:  -25.60  21.76
+\i (01:26:25) pick grid -25.58 21.88
+\t (01:26:25) last pick:  -25.60  21.76
+\i (01:26:27) hilight 
+\i (01:26:28) pick grid -25.24 21.22
+\t (01:26:28) last pick:  -24.96  21.12
+\t (01:26:28) Symbol "U20" highlighted.
+\i (01:26:29) pick grid -25.19 21.30
+\t (01:26:29) last pick:  -24.96  21.12
+\t (01:26:29) Symbol "U20" highlighted.
+\i (01:26:30) zoom out 1 
+\i (01:26:30) setwindow pcb
+\i (01:26:30) zoom out -25.20 21.38
+\i (01:26:30) trapsize 8
+\i (01:26:30) zoom out 1 
+\i (01:26:30) setwindow pcb
+\i (01:26:30) zoom out -25.21 21.38
+\i (01:26:30) trapsize 16
+\i (01:26:31) pick grid -27.76 22.60
+\t (01:26:31) last pick:  -27.52  22.40
+\t (01:26:31) Symbol "U20" highlighted.
+\i (01:26:33) dehilight 
+\i (01:26:34) pick grid -27.88 22.44
+\t (01:26:34) last pick:  -28.16  22.40
+\t (01:26:34) Symbol "U20" dehighlighted.
+\i (01:26:37) hilight 
+\i (01:26:37) zoom in 1 
+\i (01:26:37) setwindow pcb
+\i (01:26:37) zoom in -29.05 21.28
+\i (01:26:37) trapsize 8
+\i (01:26:37) zoom in 1 
+\i (01:26:37) setwindow pcb
+\i (01:26:37) zoom in -29.04 21.28
+\i (01:26:37) trapsize 4
+\i (01:26:38) zoom in 1 
+\i (01:26:38) setwindow pcb
+\i (01:26:38) zoom in -28.95 21.22
+\i (01:26:38) trapsize 2
+\i (01:26:45) zoom out 1 
+\i (01:26:45) setwindow pcb
+\i (01:26:45) zoom out -28.93 21.28
+\i (01:26:45) trapsize 4
+\i (01:26:47) pick grid -28.95 21.31
+\t (01:26:47) last pick:  -28.80  21.12
+\t (01:26:47) Symbol "U20" highlighted.
+\i (01:26:48) zoom out 1 
+\i (01:26:48) setwindow pcb
+\i (01:26:48) zoom out -27.02 21.05
+\i (01:26:48) trapsize 8
+\i (01:26:48) zoom out 1 
+\i (01:26:48) setwindow pcb
+\i (01:26:48) zoom out -27.01 21.04
+\i (01:26:48) trapsize 16
+\i (01:26:48) zoom out 1 
+\i (01:26:48) setwindow pcb
+\i (01:26:48) zoom out -27.02 21.04
+\i (01:26:48) trapsize 31
+\i (01:26:49) zoom out 1 
+\i (01:26:49) setwindow pcb
+\i (01:26:49) zoom out -23.37 17.21
+\i (01:26:49) trapsize 63
+\i (01:26:49) zoom out 1 
+\i (01:26:49) setwindow pcb
+\i (01:26:49) zoom out -4.71 5.28
+\i (01:26:49) trapsize 126
+\i (01:26:50) zoom in 1 
+\i (01:26:50) setwindow pcb
+\i (01:26:50) zoom in 1.26 4.79
+\i (01:26:50) trapsize 63
+\i (01:26:51) zoom in 1 
+\i (01:26:51) setwindow pcb
+\i (01:26:51) zoom in -0.88 3.54
+\i (01:26:51) trapsize 32
+\i (01:26:53) zoom in 1 
+\i (01:26:53) setwindow pcb
+\i (01:26:53) zoom in -12.09 14.50
+\i (01:26:53) trapsize 16
+\i (01:26:54) zoom out 1 
+\i (01:26:54) setwindow pcb
+\i (01:26:54) zoom out -12.21 13.12
+\i (01:26:54) trapsize 32
+\i (01:26:55) zoom out 1 
+\i (01:26:55) setwindow pcb
+\i (01:26:55) zoom out -12.22 13.00
+\i (01:26:55) trapsize 63
+\i (01:26:55) zoom out 1 
+\i (01:26:55) setwindow pcb
+\i (01:26:55) zoom out -12.21 12.74
+\i (01:26:55) trapsize 126
+\i (01:26:57) zoom in 1 
+\i (01:26:57) setwindow pcb
+\i (01:26:57) zoom in -28.49 19.66
+\i (01:26:57) trapsize 63
+\i (01:26:57) zoom in 1 
+\i (01:26:57) setwindow pcb
+\i (01:26:57) zoom in -27.60 19.54
+\i (01:26:57) trapsize 32
+\i (01:26:58) zoom in 1 
+\i (01:26:58) setwindow pcb
+\i (01:26:58) zoom in -18.46 18.35
+\i (01:26:58) trapsize 16
+\i (01:26:59) zoom in 1 
+\i (01:26:59) setwindow pcb
+\i (01:26:59) zoom in -18.43 18.35
+\i (01:26:59) trapsize 8
+\i (01:27:00) zoom in 1 
+\i (01:27:00) setwindow pcb
+\i (01:27:00) zoom in -18.41 18.32
+\i (01:27:00) trapsize 4
+\i (01:27:01) zoom out 1 
+\i (01:27:01) setwindow pcb
+\i (01:27:01) zoom out -18.40 18.33
+\i (01:27:01) trapsize 8
+\i (01:27:01) zoom out 1 
+\i (01:27:01) setwindow pcb
+\i (01:27:01) zoom out -17.37 17.25
+\i (01:27:01) trapsize 16
+\i (01:27:01) zoom out 1 
+\i (01:27:01) setwindow pcb
+\i (01:27:01) zoom out -17.30 17.16
+\i (01:27:01) trapsize 32
+\i (01:27:01) zoom out 1 
+\i (01:27:01) setwindow pcb
+\i (01:27:01) zoom out -17.25 17.04
+\i (01:27:01) trapsize 63
+\i (01:27:02) zoom in 1 
+\i (01:27:02) setwindow pcb
+\i (01:27:02) zoom in -10.56 12.87
+\i (01:27:02) trapsize 32
+\i (01:27:02) zoom in 1 
+\i (01:27:02) setwindow pcb
+\i (01:27:02) zoom in -10.62 13.00
+\i (01:27:02) trapsize 16
+\i (01:27:03) zoom in 1 
+\i (01:27:03) setwindow pcb
+\i (01:27:03) zoom in -10.61 13.03
+\i (01:27:03) trapsize 8
+\i (01:27:03) zoom in 1 
+\i (01:27:03) setwindow pcb
+\i (01:27:03) zoom in -10.61 13.03
+\i (01:27:03) trapsize 4
+\i (01:27:06) zoom out 1 
+\i (01:27:06) setwindow pcb
+\i (01:27:06) zoom out -12.08 13.25
+\i (01:27:06) trapsize 8
+\i (01:27:06) zoom out 1 
+\i (01:27:06) setwindow pcb
+\i (01:27:06) zoom out -12.07 13.25
+\i (01:27:06) trapsize 16
+\i (01:27:07) zoom out 1 
+\i (01:27:07) setwindow pcb
+\i (01:27:07) zoom out -11.83 13.24
+\i (01:27:07) trapsize 32
+\i (01:27:15) unrats all 
+\i (01:27:16) generaledit 
+\i (01:27:17) zoom in 1 
+\i (01:27:17) setwindow pcb
+\i (01:27:17) zoom in -22.04 14.83
+\i (01:27:17) trapsize 16
+\i (01:27:17) zoom in 1 
+\i (01:27:17) setwindow pcb
+\i (01:27:17) zoom in -22.04 14.83
+\i (01:27:17) trapsize 8
+\i (01:27:17) zoom in 1 
+\i (01:27:17) setwindow pcb
+\i (01:27:17) zoom in -21.99 14.83
+\i (01:27:17) trapsize 4
+\i (01:27:18) zoom in 1 
+\i (01:27:18) setwindow pcb
+\i (01:27:18) zoom in -21.99 14.84
+\i (01:27:18) trapsize 2
+\i (01:27:19) zoom out 1 
+\i (01:27:19) setwindow pcb
+\i (01:27:19) zoom out -21.96 14.88
+\i (01:27:19) trapsize 4
+\i (01:27:19) zoom out 1 
+\i (01:27:19) setwindow pcb
+\i (01:27:19) zoom out -21.97 14.89
+\i (01:27:19) trapsize 8
+\i (01:27:19) zoom out 1 
+\i (01:27:19) setwindow pcb
+\i (01:27:19) zoom out -21.95 14.89
+\i (01:27:19) trapsize 16
+\i (01:27:19) zoom out 1 
+\i (01:27:19) setwindow pcb
+\i (01:27:19) zoom out -21.96 14.89
+\i (01:27:19) trapsize 32
+\i (01:27:21) dehilight 
+\i (01:27:22) pick grid -22.02 16.91
+\t (01:27:22) last pick:  -21.76  16.64
+\t (01:27:22) Symbol "U20" dehighlighted.
+\i (01:27:23) pick grid -10.80 14.20
+\t (01:27:23) last pick:  -10.88  14.08
+\i (01:27:23) pick grid -11.74 10.29
+\t (01:27:23) last pick:  -11.52  10.24
+\i (01:27:25) dehilight 
+\i (01:27:26) pick grid -12.00 14.39
+\t (01:27:26) last pick:  -12.16  14.08
+\i (01:27:27) pick grid -11.55 15.08
+\t (01:27:27) last pick:  -11.52  15.36
+\i (01:27:27) pick grid -21.71 17.35
+\t (01:27:27) last pick:  -21.76  17.28
+\i (01:27:28) zoom in 1 
+\i (01:27:28) setwindow pcb
+\i (01:27:28) zoom in -20.45 16.60
+\i (01:27:28) trapsize 16
+\i (01:27:28) zoom in 1 
+\i (01:27:28) setwindow pcb
+\i (01:27:28) zoom in -20.44 16.60
+\i (01:27:28) trapsize 8
+\i (01:27:29) zoom in 1 
+\i (01:27:29) setwindow pcb
+\i (01:27:29) zoom in -21.17 16.59
+\i (01:27:29) trapsize 4
+\i (01:27:29) zoom out 1 
+\i (01:27:29) setwindow pcb
+\i (01:27:29) zoom out -21.18 16.59
+\i (01:27:29) trapsize 8
+\i (01:27:29) zoom out 1 
+\i (01:27:29) setwindow pcb
+\i (01:27:29) zoom out -21.18 16.60
+\i (01:27:29) trapsize 16
+\i (01:27:29) zoom out 1 
+\i (01:27:29) setwindow pcb
+\i (01:27:29) zoom out -21.19 16.60
+\i (01:27:29) trapsize 32
+\i (01:27:36) zoom in 1 
+\i (01:27:36) setwindow pcb
+\i (01:27:36) zoom in -19.61 17.04
+\i (01:27:36) trapsize 16
+\i (01:27:36) zoom in 1 
+\i (01:27:36) setwindow pcb
+\i (01:27:36) zoom in -19.64 17.01
+\i (01:27:36) trapsize 8
+\i (01:27:38) pick grid -21.41 15.78
+\t (01:27:38) last pick:  -21.12  16.00
+\i (01:27:41) add connect 
+\t (01:27:42) Pick first element.
+\i (01:27:43) pick grid -21.44 15.64
+\t (01:27:43) last pick:  -21.12  15.36
+\t (01:27:43) last pick:  -21.61  15.70
+\t (01:27:43) Target Symbol Pin is defined on TOP.
+\t (01:27:43) last pick:  -21.61  15.70
+\i (01:27:45) zoom out 1 
+\i (01:27:45) setwindow pcb
+\i (01:27:45) zoom out -18.18 16.45
+\i (01:27:45) trapsize 16
+\i (01:27:45) zoom out 1 
+\i (01:27:45) setwindow pcb
+\i (01:27:45) zoom out -18.30 16.45
+\i (01:27:45) trapsize 32
+\i (01:27:47) prepopup -19.57 15.43
+\i (01:27:48) oops 
+\t (01:27:48) last pick:  -21.61  15.70
+\t (01:27:48) Pick first element.
+\i (01:27:48) zoom in 1 
+\i (01:27:48) setwindow pcb
+\i (01:27:48) zoom in -21.90 14.99
+\i (01:27:48) trapsize 16
+\i (01:27:49) pick grid -21.59 14.36
+\t (01:27:49) last pick:  -21.76  14.08
+\t (01:27:49) last pick:  -21.61  13.16
+\t (01:27:49) Target Symbol Pin is defined on TOP.
+\t (01:27:49) last pick:  -21.61  13.16
+\i (01:27:52) prepopup -23.29 14.58
+\i (01:27:54) cancel 
+\i (01:27:54) generaledit 
+\i (01:27:55) hilight 
+\i (01:27:59) rats net 
+\i (01:28:08) pick grid -21.81 15.75
+\t (01:28:08) last pick:  -21.76  16.00
+\t (01:28:08) Ratsnest shown for net GND
+\i (01:28:10) zoom out 1 
+\i (01:28:10) setwindow pcb
+\i (01:28:10) zoom out -2.82 13.89
+\i (01:28:10) trapsize 32
+\i (01:28:10) zoom out 1 
+\i (01:28:10) setwindow pcb
+\i (01:28:10) zoom out -2.83 13.88
+\i (01:28:10) trapsize 63
+\i (01:28:12) zoom in 1 
+\i (01:28:12) setwindow pcb
+\i (01:28:12) zoom in -5.11 12.24
+\i (01:28:12) trapsize 32
+\i (01:28:13) zoom in 1 
+\i (01:28:13) setwindow pcb
+\i (01:28:13) zoom in -4.98 12.18
+\i (01:28:13) trapsize 16
+\i (01:28:13) zoom in 1 
+\i (01:28:13) setwindow pcb
+\i (01:28:13) zoom in -4.97 12.18
+\i (01:28:13) trapsize 8
+\i (01:28:14) zoom in 1 
+\i (01:28:14) setwindow pcb
+\i (01:28:14) zoom in -5.71 12.76
+\i (01:28:14) trapsize 4
+\i (01:28:14) zoom in 1 
+\i (01:28:14) setwindow pcb
+\i (01:28:14) zoom in -5.71 12.76
+\i (01:28:14) trapsize 2
+\i (01:28:15) zoom out 1 
+\i (01:28:15) setwindow pcb
+\i (01:28:15) zoom out -5.72 12.78
+\i (01:28:15) trapsize 4
+\i (01:28:15) zoom out 1 
+\i (01:28:15) setwindow pcb
+\i (01:28:15) zoom out -5.73 12.76
+\i (01:28:15) trapsize 8
+\i (01:28:21) zoom out 1 
+\i (01:28:21) setwindow pcb
+\i (01:28:21) zoom out -4.80 12.02
+\i (01:28:21) trapsize 16
+\i (01:28:21) zoom out 1 
+\i (01:28:21) setwindow pcb
+\i (01:28:21) zoom out -5.03 12.01
+\i (01:28:21) trapsize 32
+\i (01:28:21) zoom out 1 
+\i (01:28:21) setwindow pcb
+\i (01:28:21) zoom out -5.73 11.76
+\i (01:28:21) trapsize 63
+\i (01:28:23) zoom in 1 
+\i (01:28:23) setwindow pcb
+\i (01:28:23) zoom in -7.62 10.13
+\i (01:28:23) trapsize 32
+\i (01:28:23) zoom in 1 
+\i (01:28:23) setwindow pcb
+\i (01:28:23) zoom in -7.24 10.26
+\i (01:28:23) trapsize 16
+\i (01:28:24) zoom in 1 
+\i (01:28:24) setwindow pcb
+\i (01:28:24) zoom in -5.47 12.31
+\i (01:28:24) trapsize 8
+\i (01:28:25) zoom out 1 
+\i (01:28:25) setwindow pcb
+\i (01:28:25) zoom out -5.47 12.34
+\i (01:28:25) trapsize 16
+\i (01:28:34) zoom out 1 
+\i (01:28:34) setwindow pcb
+\i (01:28:34) zoom out -8.37 11.69
+\i (01:28:34) trapsize 32
+\i (01:28:38) zoom in 1 
+\i (01:28:38) setwindow pcb
+\i (01:28:38) zoom in -16.88 11.12
+\i (01:28:38) trapsize 16
+\i (01:28:41) zoom out 1 
+\i (01:28:41) setwindow pcb
+\i (01:28:41) zoom out -15.17 8.82
+\i (01:28:41) trapsize 32
+\i (01:28:50) zoom in 1 
+\i (01:28:50) setwindow pcb
+\i (01:28:50) zoom in -26.59 23.08
+\i (01:28:50) trapsize 16
+\i (01:28:50) zoom in 1 
+\i (01:28:50) setwindow pcb
+\i (01:28:50) zoom in -26.56 23.08
+\i (01:28:50) trapsize 8
+\i (01:28:50) zoom in 1 
+\i (01:28:50) setwindow pcb
+\i (01:28:50) zoom in -26.56 23.08
+\i (01:28:50) trapsize 4
+\i (01:28:50) zoom in 1 
+\i (01:28:50) setwindow pcb
+\i (01:28:50) zoom in -26.53 23.09
+\i (01:28:50) trapsize 2
+\i (01:28:51) zoom out 1 
+\i (01:28:51) setwindow pcb
+\i (01:28:51) zoom out -26.43 23.06
+\i (01:28:51) trapsize 4
+\i (01:28:51) zoom out 1 
+\i (01:28:51) setwindow pcb
+\i (01:28:51) zoom out -26.35 22.95
+\i (01:28:51) trapsize 8
+\i (01:28:51) zoom out 1 
+\i (01:28:51) setwindow pcb
+\i (01:28:51) zoom out -26.30 22.88
+\i (01:28:51) trapsize 16
+\i (01:28:52) zoom in 1 
+\i (01:28:52) setwindow pcb
+\i (01:28:52) zoom in -26.08 22.47
+\i (01:28:52) trapsize 8
+\i (01:28:52) zoom in 1 
+\i (01:28:52) setwindow pcb
+\i (01:28:52) zoom in -26.08 22.47
+\i (01:28:52) trapsize 4
+\i (01:28:53) zoom out 1 
+\i (01:28:53) setwindow pcb
+\i (01:28:53) zoom out -26.08 22.48
+\i (01:28:53) trapsize 8
+\i (01:28:53) zoom out 1 
+\i (01:28:53) setwindow pcb
+\i (01:28:53) zoom out -26.08 22.48
+\i (01:28:53) trapsize 16
+\i (01:28:59) zoom out 1 
+\i (01:28:59) setwindow pcb
+\i (01:28:59) zoom out -12.17 19.14
+\i (01:28:59) trapsize 32
+\i (01:28:59) zoom out 1 
+\i (01:28:59) setwindow pcb
+\i (01:28:59) zoom out -12.24 19.14
+\i (01:28:59) trapsize 63
+\i (01:28:59) zoom out 1 
+\i (01:28:59) setwindow pcb
+\i (01:28:59) zoom out 17.22 19.01
+\i (01:28:59) trapsize 126
+\i (01:29:00) zoom in 1 
+\i (01:29:00) setwindow pcb
+\i (01:29:00) zoom in 12.60 12.35
+\i (01:29:00) trapsize 63
+\i (01:29:00) zoom in 1 
+\i (01:29:00) setwindow pcb
+\i (01:29:00) zoom in 12.60 12.48
+\i (01:29:00) trapsize 32
+\i (01:29:02) zoom in 1 
+\i (01:29:02) setwindow pcb
+\i (01:29:02) zoom in 2.08 10.28
+\i (01:29:02) trapsize 16
+\i (01:29:02) zoom in 1 
+\i (01:29:02) setwindow pcb
+\i (01:29:02) zoom in 2.08 10.28
+\i (01:29:02) trapsize 8
+\i (01:29:05) zoom out 1 
+\i (01:29:05) setwindow pcb
+\i (01:29:05) zoom out 5.80 7.34
+\i (01:29:05) trapsize 16
+\i (01:29:05) zoom out 1 
+\i (01:29:05) setwindow pcb
+\i (01:29:05) zoom out 5.77 7.40
+\i (01:29:05) trapsize 32
+\i (01:29:07) zoom in 1 
+\i (01:29:07) setwindow pcb
+\i (01:29:07) zoom in -6.33 12.64
+\i (01:29:07) trapsize 16
+\i (01:29:07) zoom in 1 
+\i (01:29:07) setwindow pcb
+\i (01:29:07) zoom in -6.33 12.67
+\i (01:29:07) trapsize 8
+\i (01:29:07) zoom in 1 
+\i (01:29:07) setwindow pcb
+\i (01:29:07) zoom in -6.30 12.71
+\i (01:29:07) trapsize 4
+\i (01:29:08) zoom out 1 
+\i (01:29:08) setwindow pcb
+\i (01:29:08) zoom out -6.23 12.71
+\i (01:29:08) trapsize 8
+\i (01:29:08) zoom out 1 
+\i (01:29:08) setwindow pcb
+\i (01:29:08) zoom out -6.20 12.69
+\i (01:29:08) trapsize 16
+\i (01:29:08) zoom out 1 
+\i (01:29:08) setwindow pcb
+\i (01:29:08) zoom out -6.18 12.65
+\i (01:29:08) trapsize 32
+\i (01:29:08) zoom out 1 
+\i (01:29:08) setwindow pcb
+\i (01:29:08) zoom out -6.17 12.65
+\i (01:29:08) trapsize 63
+\i (01:29:21) zoom in 1 
+\i (01:29:21) setwindow pcb
+\i (01:29:21) zoom in -7.69 20.10
+\i (01:29:21) trapsize 32
+\i (01:29:23) zoom in 1 
+\i (01:29:23) setwindow pcb
+\i (01:29:23) zoom in -6.49 12.66
+\i (01:29:23) trapsize 16
+\i (01:29:24) zoom in 1 
+\i (01:29:24) setwindow pcb
+\i (01:29:24) zoom in -6.45 12.66
+\i (01:29:24) trapsize 8
+\i (01:29:25) zoom out 1 
+\i (01:29:25) setwindow pcb
+\i (01:29:25) zoom out -3.56 11.90
+\i (01:29:25) trapsize 16
+\i (01:29:25) zoom out 1 
+\i (01:29:25) setwindow pcb
+\i (01:29:25) zoom out -3.57 11.91
+\i (01:29:25) trapsize 32
+\i (01:29:28) zoom in 1 
+\i (01:29:28) setwindow pcb
+\i (01:29:28) zoom in -20.92 15.12
+\i (01:29:28) trapsize 16
+\i (01:29:28) zoom in 1 
+\i (01:29:28) setwindow pcb
+\i (01:29:28) zoom in -20.91 15.13
+\i (01:29:28) trapsize 8
+\i (01:29:29) zoom out 1 
+\i (01:29:29) setwindow pcb
+\i (01:29:29) zoom out -20.91 15.13
+\i (01:29:29) trapsize 16
+\i (01:29:29) zoom out 1 
+\i (01:29:29) setwindow pcb
+\i (01:29:29) zoom out -20.91 15.13
+\i (01:29:29) trapsize 32
+\i (01:29:29) zoom out 1 
+\i (01:29:29) setwindow pcb
+\i (01:29:29) zoom out -20.92 15.12
+\i (01:29:29) trapsize 63
+\i (01:29:33) dehilight 
+\i (01:29:33) pick grid -23.82 19.64
+\t (01:29:33) last pick:  -23.68  19.84
+\i (01:29:38) unrats all 
+\i (01:29:39) generaledit 
+\i (01:29:40) zoom in 1 
+\i (01:29:40) setwindow pcb
+\i (01:29:40) zoom in -12.59 10.93
+\i (01:29:40) trapsize 32
+\i (01:29:41) zoom in 1 
+\i (01:29:41) setwindow pcb
+\i (01:29:41) zoom in -12.59 10.94
+\i (01:29:41) trapsize 16
+\i (01:29:41) zoom in 1 
+\i (01:29:41) setwindow pcb
+\i (01:29:41) zoom in -12.61 10.94
+\i (01:29:41) trapsize 8
+\i (01:29:42) zoom out 1 
+\i (01:29:42) setwindow pcb
+\i (01:29:42) zoom out -11.61 10.44
+\i (01:29:42) trapsize 16
+\i (01:29:42) zoom out 1 
+\i (01:29:42) setwindow pcb
+\i (01:29:42) zoom out -11.61 10.43
+\i (01:29:42) trapsize 32
+\i (01:29:43) zoom out 1 
+\i (01:29:43) setwindow pcb
+\i (01:29:43) zoom out -12.93 9.05
+\i (01:29:43) trapsize 63
+\i (01:29:44) zoom in 1 
+\i (01:29:44) setwindow pcb
+\i (01:29:44) zoom in -40.17 11.94
+\i (01:29:44) trapsize 32
+\i (01:29:45) zoom in 1 
+\i (01:29:45) setwindow pcb
+\i (01:29:45) zoom in -40.17 11.94
+\i (01:29:45) trapsize 16
+\i (01:29:45) zoom out 1 
+\i (01:29:45) setwindow pcb
+\i (01:29:45) zoom out -26.04 10.46
+\i (01:29:45) trapsize 32
+\i (01:29:45) zoom out 1 
+\i (01:29:45) setwindow pcb
+\i (01:29:45) zoom out -26.05 10.47
+\i (01:29:45) trapsize 63
+\i (01:29:47) zoom in 1 
+\i (01:29:47) setwindow pcb
+\i (01:29:47) zoom in -9.40 13.33
+\i (01:29:47) trapsize 32
+\i (01:29:47) zoom in 1 
+\i (01:29:47) setwindow pcb
+\i (01:29:47) zoom in -9.27 13.46
+\i (01:29:47) trapsize 16
+\i (01:29:50) pick grid -12.10 12.17
+\t (01:29:50) last pick:  -12.16  12.16
+\i (01:29:51) pick grid -14.44 13.50
+\t (01:29:51) last pick:  -14.72  13.44
+\i (01:29:51) prepopup -13.62 16.27
+\i (01:29:53) pick grid -13.81 15.99
+\t (01:29:53) last pick:  -14.08  16.00
+\i (01:29:56) rats net 
+\i (01:29:57) pick grid -12.26 12.14
+\t (01:29:57) last pick:  -12.16  12.16
+\t (01:29:57) Ratsnest shown for net RELAY1
+\i (01:29:58) zoom out 1 
+\i (01:29:58) setwindow pcb
+\i (01:29:58) zoom out -15.86 12.30
+\i (01:29:58) trapsize 32
+\i (01:29:59) zoom in 1 
+\i (01:29:59) setwindow pcb
+\i (01:29:59) zoom in -25.50 9.59
+\i (01:29:59) trapsize 16
+\i (01:29:59) zoom in 1 
+\i (01:29:59) setwindow pcb
+\i (01:29:59) zoom in -25.50 9.59
+\i (01:29:59) trapsize 8
+\i (01:30:00) zoom out 1 
+\i (01:30:00) setwindow pcb
+\i (01:30:00) zoom out -25.50 9.59
+\i (01:30:00) trapsize 16
+\i (01:30:00) zoom out 1 
+\i (01:30:00) setwindow pcb
+\i (01:30:00) zoom out -25.51 9.59
+\i (01:30:00) trapsize 32
+\i (01:30:03) zoom in 1 
+\i (01:30:03) setwindow pcb
+\i (01:30:03) zo
