@@ -3381,4 +3381,108 @@
 \i (01:44:11) FORM plc_manual placement_list  
 \i (01:44:12) FORM plc_manual tree  'Components by refdes' 
 \i (01:44:15) FORM plc_manual categories Package symbols 
-\i (01:44:17) FORM plc_manual c
+\i (01:44:17) FORM plc_manual categories Mechanical symbols 
+\i (01:44:17) FORM plc_manual categories Format symbols 
+\i (01:44:18) FORM plc_manual categories Mechanical symbols 
+\i (01:44:18) FORM plc_manual categories Package symbols 
+\i (01:44:32) FORM plc_manual tree  433MODULE_SYN480 'Package symbols' 
+\i (01:44:46) setwindow pcb
+\i (01:44:46) trapsize 23
+\i (01:46:57) setwindow form.plc_manual
+\i (01:46:57) FORM plc_manual tree  STD0603 'Package symbols' 
+\i (01:47:47) FORM plc_manual categories Components by refdes 
+\i (01:47:49) FORM plc_manual categories Format symbols 
+\i (01:47:51) FORM plc_manual categories Package symbols 
+\i (01:50:08) FORM plc_manual tree  'Package symbols' 
+\i (01:50:09) FORM plc_manual tree 'MULTISEL YES' HOLE5_0 'Package symbols' 
+\i (01:50:09) FORM plc_manual tree  HOLE5_0 'Package symbols' 
+\i (01:50:12) FORM plc_manual tree 'MULTISEL NO' HOLE5_0 'Package symbols' 
+\i (01:50:38) FORM plc_manual tree  ZCZ254-1X5 'Package symbols' 
+\i (01:54:59) setwindow pcb
+\i (01:54:59) zoom in 1 
+\i (01:54:59) setwindow pcb
+\i (01:54:59) zoom in -41.88 24.73
+\i (01:54:59) trapsize 11
+\i (01:55:00) zoom out 1 
+\i (01:55:00) setwindow pcb
+\i (01:55:00) zoom out -41.85 24.80
+\i (01:55:00) trapsize 23
+\i (02:02:55) setwindow form.plc_manual
+\i (02:02:55) FORM plc_manual cancel  
+\i (02:02:56) setwindow pcb
+\i (02:02:56) generaledit 
+\i (02:02:57) trapsize 16
+\i (02:02:58) zoom out 1 
+\i (02:02:58) setwindow pcb
+\i (02:02:58) zoom out -36.56 28.31
+\i (02:02:58) trapsize 32
+\i (02:02:58) zoom out 1 
+\i (02:02:58) setwindow pcb
+\i (02:02:58) zoom out -36.44 27.99
+\i (02:02:58) trapsize 63
+\i (02:02:58) zoom out 1 
+\i (02:02:58) setwindow pcb
+\i (02:02:58) zoom out -12.22 26.99
+\i (02:02:58) trapsize 126
+\i (02:03:02) netin 
+\i (02:03:05) setwindow form.niparams
+\i (02:03:05) FORM niparams browse  
+\i (02:03:10) fillin "E:/sanT_4ch/sch/allegro"
+\i (02:03:11) FORM niparams import  
+\t (02:03:11) Starting Cadence Logic Import...
+\e (02:03:14) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (02:03:20) setwindow pcb
+\i (02:03:20) zoom in 1 
+\i (02:03:20) setwindow pcb
+\i (02:03:20) zoom in 30.25 -22.44
+\i (02:03:20) trapsize 63
+\i (02:03:20) zoom in 1 
+\i (02:03:20) setwindow pcb
+\i (02:03:20) zoom in 29.37 -22.44
+\i (02:03:20) trapsize 32
+\i (02:03:20) zoom out 1 
+\i (02:03:20) setwindow pcb
+\i (02:03:20) zoom out 29.37 -22.44
+\i (02:03:20) trapsize 63
+\i (02:03:21) zoom out 1 
+\i (02:03:21) setwindow pcb
+\i (02:03:21) zoom out 29.37 -22.44
+\i (02:03:21) trapsize 126
+\i (02:03:42) setwindow text
+\i (02:03:42) close 
+\i (02:03:43) setwindow form.niparams
+\i (02:03:43) FORM niparams import  
+\t (02:03:43) Starting Cadence Logic Import...
+\e (02:03:43) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (02:04:08) setwindow text
+\i (02:04:08) close 
+\i (02:04:13) setwindow form.niparams
+\i (02:04:13) FORM niparams other  
+\i (02:04:14) FORM niparams cadence  
+\i (02:04:16) FORM niparams import  
+\t (02:04:16) Starting Cadence Logic Import...
+\e (02:04:17) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (02:04:20) setwindow text
+\i (02:04:20) close 
+\i (02:04:21) setwindow form.niparams
+\i (02:04:21) FORM niparams place_never YES 
+\i (02:04:22) FORM niparams import  
+\t (02:04:22) Starting Cadence Logic Import...
+\e (02:04:22) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (02:04:26) setwindow text
+\i (02:04:26) close 
+\i (02:04:27) setwindow form.niparams
+\i (02:04:27) FORM niparams place_always YES 
+\i (02:04:28) FORM niparams import  
+\t (02:04:28) Starting Cadence Logic Import...
+\e (02:04:29) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (02:05:01) setwindow text
+\i (02:05:01) close 
+\i (02:05:03) setwindow form.niparams
+\i (02:05:03) FORM niparams import  
+\t (02:05:03) Starting Cadence Logic Import...
+\e (02:05:04) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (02:05:44) setwindow text
+\i (02:05:44) close 
+\i (02:12:47) setwindow form.niparams
+\i (02:12:47) FORM nip
