@@ -3,33 +3,27 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
-|                                                    Tue Jun 13 00:13:28 2017  |
+|                                                    Tue Jun 13 23:54:54 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  RCK1         pins MOVED FROM this net (to net name listed on right)
-                                 U19.2            -10.89    8.32
-                                                                           RCK0
+  KEY1         pins MOVED FROM this net (to net name listed on right)
+                                 U10.15            -4.50   19.40
+                                                                           KEY3
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RCK0/DAT     net RENAMED (to net name listed on right)           RCK1/DAT     
+  KEY2         pins MOVED FROM this net (to net name listed on right)
+                                 U10.5             -8.32   24.12
+                                                                           KEY4
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SCK0         pins MOVED FROM this net (to net name listed on right)
-                                 U19.10           -16.09    8.32
-                                                                           SCK1
+  KEY3         pins MOVED FROM this net (to net name listed on right)
+                                 U10.6             -9.58   24.12
+                                                                           KEY2
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SCK1         pins MOVED FROM this net (to net name listed on right)
-                                 U19.3            -11.54    8.32
-                                                                           SCK0
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SI0          pins MOVED FROM this net (to net name listed on right)
-                                 U19.6            -13.49    8.32
-                                                                            SI1
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SI1          pins MOVED FROM this net (to net name listed on right)
-                                 U19.1            -10.24    8.32
-                                                                            SI0
+  KEY4         pins MOVED FROM this net (to net name listed on right)
+                                 U10.7            -10.86   24.12
+                                                                           KEY1
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  6                                              |
+|   total ECO changes reported  4                                              |
 |------------------------------------------------------------------------------|

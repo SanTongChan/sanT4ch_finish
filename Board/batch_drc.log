@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P003                                      )
-(    Date/Time        : Mon Jun 12 01:45:07 2017                      )
+(    Date/Time        : Tue Jun 13 21:38:30 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  5
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
