@@ -5334,4 +5334,1006 @@
 \t (04:20:50) Pick new location for the element(s).
 \i (04:20:57) pick 22.3 29.5 
 \t (04:20:57) last pick:  22.30  29.50
-\i (04:20:57
+\i (04:20:57) generaledit 
+\i (04:20:58) prepopup 40.07 44.41
+\i (04:21:00) prepopup 7.50 10.46
+\i (04:21:01) pick grid 76.78 22.11
+\t (04:21:01) last pick:  76.80  22.40
+\i (04:21:01) zoom in 1 
+\i (04:21:01) setwindow pcb
+\i (04:21:01) zoom in -2.17 28.62
+\i (04:21:01) trapsize 49
+\i (04:21:02) zoom in 1 
+\i (04:21:02) setwindow pcb
+\i (04:21:02) zoom in -2.17 28.72
+\i (04:21:02) trapsize 25
+\i (04:21:02) zoom out 1 
+\i (04:21:02) setwindow pcb
+\i (04:21:02) zoom out -2.16 28.73
+\i (04:21:02) trapsize 49
+\i (04:21:06) show measure 
+\i (04:21:07) pick grid 23.10 29.41
+\t (04:21:07) last pick:  23.04  29.44
+\i (04:21:09) pick grid 46.79 29.21
+\t (04:21:09) last pick:  46.72  29.44
+\i (04:21:37) pick grid -24.96 28.82
+\t (04:21:37) last pick:  -24.96  28.80
+\i (04:21:37) zoom out 1 
+\i (04:21:37) setwindow pcb
+\i (04:21:37) zoom out -27.62 25.46
+\i (04:21:37) trapsize 99
+\i (04:21:38) pick grid -25.26 30.59
+\t (04:21:38) last pick:  -24.96  30.72
+\i (04:21:39) zoom in 1 
+\i (04:21:39) setwindow pcb
+\i (04:21:39) zoom in -22.89 26.64
+\i (04:21:39) trapsize 49
+\i (04:21:39) zoom in 1 
+\i (04:21:39) setwindow pcb
+\i (04:21:39) zoom in -22.79 26.44
+\i (04:21:39) trapsize 25
+\i (04:21:40) pick grid -24.07 28.22
+\t (04:21:40) last pick:  -24.32  28.16
+\i (04:21:40) zoom out 1 
+\i (04:21:40) setwindow pcb
+\i (04:21:40) zoom out -25.00 26.99
+\i (04:21:41) trapsize 49
+\i (04:21:42) pick grid -25.20 29.65
+\t (04:21:42) last pick:  -24.96  29.44
+\i (04:21:43) pick grid -24.22 29.45
+\t (04:21:43) last pick:  -24.32  29.44
+\i (04:21:44) pick grid -47.41 30.44
+\t (04:21:44) last pick:  -47.36  30.72
+\i (04:21:52) pick grid -25.11 29.75
+\t (04:21:52) last pick:  -24.96  29.44
+\i (04:21:53) zoom in 1 
+\i (04:21:53) setwindow pcb
+\i (04:21:53) zoom in -25.11 29.45
+\i (04:21:53) trapsize 25
+\i (04:21:53) zoom in 1 
+\i (04:21:53) setwindow pcb
+\i (04:21:53) zoom in -25.05 29.45
+\i (04:21:53) trapsize 12
+\i (04:21:53) zoom in 1 
+\i (04:21:53) setwindow pcb
+\i (04:21:53) zoom in -24.90 29.43
+\i (04:21:53) trapsize 6
+\i (04:21:54) zoom out 1 
+\i (04:21:54) setwindow pcb
+\i (04:21:54) zoom out -24.81 29.36
+\i (04:21:54) trapsize 12
+\i (04:21:54) zoom out 1 
+\i (04:21:54) setwindow pcb
+\i (04:21:54) zoom out -24.81 29.36
+\i (04:21:54) trapsize 25
+\i (04:22:07) prepopup -28.95 18.80
+\i (04:22:08) done 
+\i (04:22:08) generaledit 
+\i (04:22:09) pick grid -19.87 22.10
+\t (04:22:09) last pick:  -19.84  22.40
+\i (04:22:09) zoom out 1 
+\i (04:22:09) setwindow pcb
+\i (04:22:09) zoom out -19.87 22.10
+\i (04:22:09) trapsize 49
+\i (04:22:09) zoom out 1 
+\i (04:22:09) setwindow pcb
+\i (04:22:09) zoom out -19.37 22.10
+\i (04:22:09) trapsize 99
+\i (04:22:09) zoom out 1 
+\i (04:22:09) setwindow pcb
+\i (04:22:09) zoom out -7.89 3.16
+\i (04:22:09) trapsize 99
+\i (04:22:09) zoom out 1 
+\i (04:22:09) setwindow pcb
+\i (04:22:09) zoom out -7.89 3.16
+\i (04:22:09) trapsize 99
+\i (04:22:09) zoom out 1 
+\i (04:22:09) setwindow pcb
+\i (04:22:09) zoom out -7.89 3.16
+\i (04:22:09) trapsize 99
+\i (04:22:14) save 
+\i (04:22:15) fillin yes 
+\i (04:22:15) generaledit 
+\i (04:23:21) place manual 
+\i (04:23:25) setwindow form.plc_manual
+\i (04:23:25) FORM plc_manual tree 'MULTISEL YES' U16 'Components by refdes' 
+\w (04:23:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:23:25) Placing U16 / N76E003_TSOP65P640X120-20N_N76E / TSOP65P640X120-20N on Top.
+\i (04:23:25) FORM plc_manual tree  U16 'Components by refdes' 
+\i (04:23:26) setwindow pcb
+\i (04:23:26) prepopup 3.95 11.45
+\i (04:23:28) rotate 
+\t (04:23:28) Spin the element(s).
+\i (04:23:28) zoom in 1 
+\i (04:23:28) setwindow pcb
+\i (04:23:28) zoom in 2.76 24.08
+\i (04:23:28) trapsize 49
+\i (04:23:28) zoom in 1 
+\i (04:23:28) setwindow pcb
+\i (04:23:28) zoom in 3.06 23.19
+\i (04:23:28) trapsize 25
+\i (04:23:28) zoom in 1 
+\i (04:23:28) setwindow pcb
+\i (04:23:28) zoom in 3.80 21.91
+\i (04:23:28) trapsize 12
+\i (04:23:29) zoom out 1 
+\i (04:23:29) setwindow pcb
+\i (04:23:29) zoom out 5.31 20.76
+\i (04:23:29) trapsize 25
+\i (04:23:32) iangle 90.000
+\t (04:23:33) last angle:  +90.000 Degrees
+\i (04:23:33) zoom out 1 
+\i (04:23:33) setwindow pcb
+\i (04:23:33) zoom out 7.32 14.54
+\i (04:23:33) trapsize 49
+\i (04:23:33) zoom out 1 
+\i (04:23:33) setwindow pcb
+\i (04:23:33) zoom out 7.33 14.53
+\i (04:23:33) trapsize 99
+\i (04:23:35) zoom in 1 
+\i (04:23:35) setwindow pcb
+\i (04:23:35) zoom in 10.07 10.66
+\i (04:23:35) trapsize 49
+\i (04:23:41) zoom out 1 
+\i (04:23:41) setwindow pcb
+\i (04:23:41) zoom out -4.04 11.65
+\i (04:23:41) trapsize 99
+\i (04:23:48) pick grid -1.38 17.76
+\t (04:23:48) last pick:  -2.54  17.78
+\i (04:23:48) prepopup -13.03 12.63
+\i (04:23:49) done 
+\i (04:23:49) generaledit 
+\i (04:23:50) pick grid -8.29 5.72
+\t (04:23:50) last pick:  -8.32  5.76
+\i (04:23:58) place manual 
+\i (04:24:01) setwindow form.plc_manual
+\i (04:24:01) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\w (04:24:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:24:01) Placing U1 / AC-DC5V_AC_DC5V_RPD_AC-DC5V / AC_DC5V_RPD on Top.
+\i (04:24:02) FORM plc_manual tree  U1 'Components by refdes' 
+\i (04:24:11) setwindow pcb
+\i (04:24:11) pick grid 31.78 7.30
+\t (04:24:11) last pick:  33.02  7.62
+\i (04:24:12) zoom in 1 
+\i (04:24:12) setwindow pcb
+\i (04:24:12) zoom in 37.11 8.09
+\i (04:24:12) trapsize 49
+\i (04:24:12) zoom in 1 
+\i (04:24:12) setwindow pcb
+\i (04:24:12) zoom in 29.80 8.10
+\i (04:24:12) trapsize 25
+\i (04:24:18) show measure 
+\i (04:24:19) pick grid 45.40 10.32
+\t (04:24:19) last pick:  45.44  10.24
+\i (04:24:21) pick grid 20.73 9.49
+\t (04:24:21) last pick:  20.48  9.60
+\i (04:24:25) setwindow text
+\i (04:24:25) close 
+\i (04:24:25) setwindow pcb
+\i (04:24:25) zoom out 1 
+\i (04:24:25) setwindow pcb
+\i (04:24:25) zoom out 32.08 9.73
+\i (04:24:25) trapsize 49
+\i (04:24:25) zoom out 1 
+\i (04:24:25) setwindow pcb
+\i (04:24:25) zoom out 32.08 9.74
+\i (04:24:25) trapsize 99
+\i (04:24:26) zoom out 1 
+\i (04:24:26) setwindow pcb
+\i (04:24:26) zoom out 46.18 14.61
+\i (04:24:26) trapsize 99
+\i (04:24:27) prepopup 2.57 9.87
+\i (04:24:27) done 
+\i (04:24:27) generaledit 
+\i (04:24:29) pick grid 36.32 7.30
+\t (04:24:29) last pick:  36.48  7.04
+\i (04:24:30) move 
+\t (04:24:30) last pick:  33.02  7.62
+\t (04:24:30) Moving U1 / AC-DC5V_AC_DC5V_RPD_AC-DC5V / AC_DC5V_RPD.
+\t (04:24:30) Pick new location for the element(s).
+\i (04:24:42) pick grid 32.76 7.70
+\t (04:24:42) last pick:  32.64  7.68
+\i (04:24:42) generaledit 
+\i (04:24:43) zoom in 1 
+\i (04:24:43) setwindow pcb
+\i (04:24:43) zoom in 33.36 7.11
+\i (04:24:43) trapsize 49
+\i (04:24:43) zoom in 1 
+\i (04:24:43) setwindow pcb
+\i (04:24:43) zoom in 30.10 7.11
+\i (04:24:43) trapsize 25
+\i (04:24:44) zoom out 1 
+\i (04:24:44) setwindow pcb
+\i (04:24:44) zoom out 31.39 6.67
+\i (04:24:44) trapsize 49
+\i (04:24:44) zoom out 1 
+\i (04:24:44) setwindow pcb
+\i (04:24:44) zoom out 31.39 6.68
+\i (04:24:44) trapsize 99
+\i (04:24:44) zoom in 1 
+\i (04:24:44) setwindow pcb
+\i (04:24:44) zoom in 37.89 8.68
+\i (04:24:44) trapsize 49
+\i (04:24:44) zoom in 1 
+\i (04:24:44) setwindow pcb
+\i (04:24:44) zoom in 30.39 8.68
+\i (04:24:44) trapsize 25
+\i (04:24:45) pick grid 34.10 8.63
+\t (04:24:45) last pick:  33.92  8.32
+\i (04:24:46) move 
+\t (04:24:46) last pick:  32.64  7.68
+\t (04:24:46) Moving U1 / AC-DC5V_AC_DC5V_RPD_AC-DC5V / AC_DC5V_RPD.
+\t (04:24:46) Pick new location for the element(s).
+\i (04:24:54) pick grid 33.55 8.63
+\t (04:24:54) last pick:  33.28  8.32
+\i (04:24:54) generaledit 
+\i (04:24:55) zoom out 1 
+\i (04:24:55) setwindow pcb
+\i (04:24:55) zoom out 33.41 8.39
+\i (04:24:55) trapsize 49
+\i (04:24:55) zoom out 1 
+\i (04:24:55) setwindow pcb
+\i (04:24:55) zoom out 33.30 8.38
+\i (04:24:55) trapsize 99
+\i (04:24:56) prepopup -0.79 8.29
+\i (04:24:58) pick grid 88.42 7.89
+\t (04:24:58) last pick:  88.32  7.68
+\i (04:24:59) zoom in 1 
+\i (04:24:59) setwindow pcb
+\i (04:24:59) zoom in 24.47 14.41
+\i (04:24:59) trapsize 49
+\i (04:24:59) zoom in 1 
+\i (04:25:00) setwindow pcb
+\i (04:25:00) zoom in 23.49 14.41
+\i (04:25:00) trapsize 25
+\i (04:25:00) zoom out 1 
+\i (04:25:00) setwindow pcb
+\i (04:25:00) zoom out 25.96 13.87
+\i (04:25:00) trapsize 49
+\i (04:25:00) zoom out 1 
+\i (04:25:00) setwindow pcb
+\i (04:25:00) zoom out 26.55 13.58
+\i (04:25:00) trapsize 99
+\i (04:25:00) zoom out 1 
+\i (04:25:00) setwindow pcb
+\i (04:25:00) zoom out 36.12 11.25
+\i (04:25:00) trapsize 99
+\i (04:25:16) place manual 
+\i (04:25:20) setwindow form.plc_manual
+\i (04:25:20) FORM plc_manual tree 'MULTISEL YES' R17 'Components by refdes' 
+\w (04:25:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:25:20) Placing R17 / R_STD0603_1K/J/0603 / STD0603 on Top.
+\i (04:25:20) FORM plc_manual tree  R17 'Components by refdes' 
+\i (04:25:21) setwindow pcb
+\i (04:25:21) prepopup 92.57 0.20
+\i (04:25:23) oops 
+\i (04:25:24) setwindow form.plc_manual
+\i (04:25:24) FORM plc_manual tree  R21 'Components by refdes' 
+\i (04:25:26) FORM plc_manual tree 'MULTISEL YES' U17 'Components by refdes' 
+\w (04:25:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:25:26) Placing U17 / PSFB04_PSF_PSFB04 / PSF on Top.
+\i (04:25:26) FORM plc_manual tree  U17 'Components by refdes' 
+\i (04:25:38) setwindow pcb
+\i (04:25:38) pick grid -33.16 1.58
+\t (04:25:38) last pick:  -33.02  2.54
+\i (04:25:39) prepopup -8.09 1.58
+\i (04:25:40) done 
+\i (04:25:40) generaledit 
+\i (04:25:40) zoom in 1 
+\i (04:25:40) setwindow pcb
+\i (04:25:40) zoom in -6.91 16.58
+\i (04:25:40) trapsize 49
+\i (04:25:40) zoom in 1 
+\i (04:25:40) setwindow pcb
+\i (04:25:40) zoom in -6.81 16.58
+\i (04:25:40) trapsize 25
+\i (04:25:40) zoom in 1 
+\i (04:25:40) setwindow pcb
+\i (04:25:40) zoom in -2.17 15.90
+\i (04:25:40) trapsize 12
+\i (04:25:41) zoom out 1 
+\i (04:25:41) setwindow pcb
+\i (04:25:41) zoom out -1.90 15.50
+\i (04:25:41) trapsize 25
+\i (04:25:43) zoom in 1 
+\i (04:25:43) setwindow pcb
+\i (04:25:43) zoom in -4.31 18.22
+\i (04:25:43) trapsize 12
+\i (04:25:43) zoom out 1 
+\i (04:25:43) setwindow pcb
+\i (04:25:43) zoom out -4.31 17.80
+\i (04:25:43) trapsize 25
+\i (04:25:44) zoom out 1 
+\i (04:25:44) setwindow pcb
+\i (04:25:44) zoom out -8.30 15.33
+\i (04:25:44) trapsize 49
+\i (04:25:45) zoom in 1 
+\i (04:25:45) setwindow pcb
+\i (04:25:45) zoom in -20.64 15.34
+\i (04:25:45) trapsize 25
+\i (04:25:46) zoom out 1 
+\i (04:25:46) setwindow pcb
+\i (04:25:46) zoom out -7.86 15.89
+\i (04:25:46) trapsize 49
+\i (04:25:48) zoom in 1 
+\i (04:25:48) setwindow pcb
+\i (04:25:48) zoom in -7.95 20.03
+\i (04:25:48) trapsize 25
+\i (04:25:48) zoom in 1 
+\i (04:25:48) setwindow pcb
+\i (04:25:48) zoom in -7.70 19.39
+\i (04:25:48) trapsize 12
+\i (04:25:48) zoom out 1 
+\i (04:25:49) setwindow pcb
+\i (04:25:49) zoom out -7.50 18.97
+\i (04:25:49) trapsize 25
+\i (04:25:49) zoom out 1 
+\i (04:25:49) setwindow pcb
+\i (04:25:49) zoom out -7.51 18.98
+\i (04:25:49) trapsize 49
+\i (04:25:49) zoom in 1 
+\i (04:25:49) setwindow pcb
+\i (04:25:49) zoom in -7.99 10.59
+\i (04:25:49) trapsize 25
+\i (04:25:50) zoom in 1 
+\i (04:25:50) setwindow pcb
+\i (04:25:50) zoom in -7.94 10.59
+\i (04:25:50) trapsize 12
+\i (04:25:54) zoom out 1 
+\i (04:25:54) setwindow pcb
+\i (04:25:54) zoom out -7.89 10.33
+\i (04:25:54) trapsize 25
+\i (04:25:57) zoom in 1 
+\i (04:25:58) setwindow pcb
+\i (04:25:58) zoom in -6.91 10.03
+\i (04:25:58) trapsize 12
+\i (04:25:58) zoom out 1 
+\i (04:25:58) setwindow pcb
+\i (04:25:58) zoom out -6.91 10.03
+\i (04:25:58) trapsize 25
+\i (04:25:58) zoom out 1 
+\i (04:25:58) setwindow pcb
+\i (04:25:58) zoom out -6.91 10.03
+\i (04:25:58) trapsize 49
+\i (04:26:03) place manual 
+\i (04:26:16) setwindow form.plc_manual
+\i (04:26:16) FORM plc_manual tree 'MULTISEL YES' U12 'Components by refdes' 
+\w (04:26:17) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:26:17) Placing U12 / ULN2003_SOIC127P600X175-16_ULN2 / SOIC127P600X175-16 on Top.
+\i (04:26:17) FORM plc_manual tree  U12 'Components by refdes' 
+\i (04:26:26) setwindow pcb
+\i (04:26:26) prepopup 5.14 9.23
+\i (04:26:27) rotate 
+\t (04:26:27) Spin the element(s).
+\i (04:26:27) zoom in 1 
+\i (04:26:28) setwindow pcb
+\i (04:26:28) zoom in 6.72 14.96
+\i (04:26:28) trapsize 25
+\i (04:26:28) zoom in 1 
+\i (04:26:28) setwindow pcb
+\i (04:26:28) zoom in 7.12 13.98
+\i (04:26:28) trapsize 12
+\i (04:26:28) zoom out 1 
+\i (04:26:28) setwindow pcb
+\i (04:26:28) zoom out 7.64 12.60
+\i (04:26:28) trapsize 25
+\i (04:26:30) zoom in 1 
+\i (04:26:30) setwindow pcb
+\i (04:26:30) zoom in 3.45 9.68
+\i (04:26:30) trapsize 12
+\i (04:26:31) zoom in 1 
+\i (04:26:31) setwindow pcb
+\i (04:26:31) zoom in 3.48 9.68
+\i (04:26:31) trapsize 6
+\i (04:26:31) zoom out 1 
+\i (04:26:31) setwindow pcb
+\i (04:26:31) zoom out 3.48 9.69
+\i (04:26:31) trapsize 12
+\i (04:26:32) zoom in 1 
+\i (04:26:32) setwindow pcb
+\i (04:26:32) zoom in 11.14 12.02
+\i (04:26:32) trapsize 6
+\i (04:26:33) zoom out 1 
+\i (04:26:33) setwindow pcb
+\i (04:26:33) zoom out 10.74 11.82
+\i (04:26:33) trapsize 12
+\i (04:26:38) iangle 0.000
+\t (04:26:38) last angle:  +0.000 Degrees
+\i (04:26:39) zoom out 1 
+\i (04:26:39) setwindow pcb
+\i (04:26:39) zoom out 2.26 9.45
+\i (04:26:39) trapsize 25
+\i (04:26:39) zoom out 1 
+\i (04:26:39) setwindow pcb
+\i (04:26:39) zoom out 2.31 9.34
+\i (04:26:39) trapsize 49
+\i (04:26:39) zoom out 1 
+\i (04:26:39) setwindow pcb
+\i (04:26:39) zoom out 3.40 8.95
+\i (04:26:39) trapsize 99
+\i (04:26:46) pick grid 9.08 11.84
+\t (04:26:46) last pick:  10.16  12.70
+\i (04:26:47) zoom in 1 
+\i (04:26:47) setwindow pcb
+\i (04:26:47) zoom in 9.28 10.26
+\i (04:26:47) trapsize 49
+\i (04:26:48) zoom in 1 
+\i (04:26:48) setwindow pcb
+\i (04:26:48) zoom in 9.28 10.26
+\i (04:26:48) trapsize 25
+\i (04:26:50) zoom out 1 
+\i (04:26:50) setwindow pcb
+\i (04:26:50) zoom out 9.28 10.27
+\i (04:26:50) trapsize 49
+\i (04:26:50) zoom out 1 
+\i (04:26:50) setwindow pcb
+\i (04:26:50) zoom out 9.28 10.26
+\i (04:26:50) trapsize 99
+\i (04:26:51) zoom in 1 
+\i (04:26:51) setwindow pcb
+\i (04:26:51) zoom in -4.14 15.99
+\i (04:26:51) trapsize 49
+\i (04:26:52) zoom in 1 
+\i (04:26:52) setwindow pcb
+\i (04:26:52) zoom in -4.14 15.99
+\i (04:26:52) trapsize 25
+\i (04:26:53) zoom in 1 
+\i (04:26:53) setwindow pcb
+\i (04:26:53) zoom in 9.88 14.07
+\i (04:26:53) trapsize 12
+\i (04:26:53) zoom in 1 
+\i (04:26:53) setwindow pcb
+\i (04:26:53) zoom in 9.88 14.08
+\i (04:26:53) trapsize 6
+\i (04:26:54) zoom out 1 
+\i (04:26:54) setwindow pcb
+\i (04:26:54) zoom out 9.89 14.03
+\i (04:26:54) trapsize 12
+\i (04:26:56) zoom out 1 
+\i (04:26:56) setwindow pcb
+\i (04:26:56) zoom out 9.80 13.90
+\i (04:26:56) trapsize 25
+\i (04:26:56) zoom out 1 
+\i (04:26:56) setwindow pcb
+\i (04:26:56) zoom out 9.79 13.86
+\i (04:26:56) trapsize 49
+\i (04:26:56) pick grid 10.39 13.27
+\t (04:26:57) last pick:  10.16  12.70
+\t (04:26:57) Moving U12 / ULN2003_SOIC127P600X175-16_ULN2 / SOIC127P600X175-16.
+\t (04:26:57) last pick:  10.16  12.70
+\i (04:27:00) pick grid 7.52 1.33
+\t (04:27:00) last pick:  7.62  2.54
+\i (04:27:03) setwindow form.plc_manual
+\i (04:27:03) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\t (04:27:03) Placing U2 / 74HC595_SOIC127P600X175-16_74HC / SOIC127P600X175-16 on Top.
+\i (04:27:03) FORM plc_manual tree  U2 'Components by refdes' 
+\i (04:27:06) setwindow pcb
+\i (04:27:06) prepopup 10.88 15.04
+\i (04:27:08) rotate 
+\t (04:27:08) Spin the element(s).
+\i (04:27:09) iangle 180.000
+\t (04:27:09) last angle:  +180.000 Degrees
+\i (04:27:11) zoom in 1 
+\i (04:27:11) setwindow pcb
+\i (04:27:11) zoom in 8.02 12.97
+\i (04:27:11) trapsize 25
+\i (04:27:11) zoom in 1 
+\i (04:27:11) setwindow pcb
+\i (04:27:11) zoom in 8.02 12.98
+\i (04:27:11) trapsize 12
+\i (04:27:13) zoom out 1 
+\i (04:27:13) setwindow pcb
+\i (04:27:13) zoom out 9.58 11.42
+\i (04:27:13) trapsize 25
+\i (04:27:14) zoom in 1 
+\i (04:27:14) setwindow pcb
+\i (04:27:14) zoom in 7.65 11.48
+\i (04:27:14) trapsize 12
+\i (04:27:19) zoom in 1 
+\i (04:27:19) setwindow pcb
+\i (04:27:19) zoom in 7.68 11.60
+\i (04:27:19) trapsize 6
+\i (04:27:20) zoom out 1 
+\i (04:27:20) setwindow pcb
+\i (04:27:20) zoom out 7.68 11.60
+\i (04:27:20) trapsize 12
+\i (04:27:35) prepopup 7.48 11.53
+\i (04:27:36) rotate 
+\t (04:27:36) Spin the element(s).
+\i (04:27:38) iangle -360.000
+\t (04:27:38) last angle:  +0.000 Degrees
+\i (04:27:39) zoom out 1 
+\i (04:27:39) setwindow pcb
+\i (04:27:39) zoom out 9.53 12.51
+\i (04:27:39) trapsize 25
+\i (04:27:41) zoom in 1 
+\i (04:27:41) setwindow pcb
+\i (04:27:41) zoom in 6.37 12.42
+\i (04:27:41) trapsize 12
+\i (04:27:44) pick grid 6.37 12.43
+\t (04:27:44) last pick:  7.62  12.70
+\i (04:27:45) zoom out 1 
+\i (04:27:45) setwindow pcb
+\i (04:27:45) zoom out 9.95 10.45
+\i (04:27:45) trapsize 25
+\i (04:27:46) pick grid 10.29 3.40
+\t (04:27:46) last pick:  10.16  2.54
+\t (04:27:46) Moving U12 / ULN2003_SOIC127P600X175-16_ULN2 / SOIC127P600X175-16.
+\t (04:27:46) last pick:  7.62  2.54
+\i (04:27:47) prepopup 7.68 3.54
+\i (04:27:48) rotate 
+\t (04:27:48) Spin the element(s).
+\i (04:27:49) iangle -180.000
+\t (04:27:49) last angle:  +180.000 Degrees
+\i (04:27:50) zoom out 1 
+\i (04:27:50) setwindow pcb
+\i (04:27:50) zoom out 8.46 2.11
+\i (04:27:50) trapsize 49
+\i (04:27:50) zoom out 1 
+\i (04:27:50) setwindow pcb
+\i (04:27:50) zoom out 6.79 2.31
+\i (04:27:50) trapsize 99
+\i (04:27:51) zoom in 1 
+\i (04:27:51) setwindow pcb
+\i (04:27:51) zoom in 19.34 -6.51
+\i (04:27:51) trapsize 49
+\i (04:27:54) zoom in 1 
+\i (04:27:54) setwindow pcb
+\i (04:27:54) zoom in 4.44 -0.49
+\i (04:27:54) trapsize 25
+\i (04:27:54) zoom in 1 
+\i (04:27:54) setwindow pcb
+\i (04:27:54) zoom in 4.45 -0.49
+\i (04:27:54) trapsize 12
+\i (04:27:55) zoom out 1 
+\i (04:27:55) setwindow pcb
+\i (04:27:55) zoom out 4.50 -0.66
+\i (04:27:55) trapsize 25
+\i (04:28:00) pick grid 6.33 0.57
+\t (04:28:00) last pick:  5.08  0.00
+\i (04:28:00) zoom out 1 
+\i (04:28:00) setwindow pcb
+\i (04:28:00) zoom out 8.06 0.97
+\i (04:28:00) trapsize 49
+\i (04:28:01) pick grid 8.94 12.51
+\t (04:28:01) last pick:  10.16  12.70
+\t (04:28:01) Moving U2 / 74HC595_SOIC127P600X175-16_74HC / SOIC127P600X175-16.
+\t (04:28:01) last pick:  7.62  12.70
+\i (04:28:05) pick grid 8.75 10.14
+\t (04:28:05) last pick:  7.62  10.16
+\i (04:28:05) pick grid -1.52 16.26
+\t (04:28:05) last pick:  -2.54  15.24
+\t (04:28:05) Moving U16 / N76E003_TSOP65P640X120-20N_N76E / TSOP65P640X120-20N.
+\t (04:28:05) last pick:  -2.54  17.78
+\i (04:28:07) pick grid -6.45 19.42
+\t (04:28:07) last pick:  -7.62  20.32
+\i (04:28:07) zoom in 1 
+\i (04:28:07) setwindow pcb
+\i (04:28:07) zoom in -1.71 15.37
+\i (04:28:07) trapsize 25
+\i (04:28:08) zoom in 1 
+\i (04:28:08) setwindow pcb
+\i (04:28:08) zoom in 2.93 14.83
+\i (04:28:08) trapsize 12
+\i (04:28:09) zoom in 1 
+\i (04:28:09) setwindow pcb
+\i (04:28:09) zoom in 2.94 14.83
+\i (04:28:09) trapsize 6
+\i (04:28:09) zoom out 1 
+\i (04:28:09) setwindow pcb
+\i (04:28:09) zoom out 3.08 14.35
+\i (04:28:09) trapsize 12
+\i (04:28:10) zoom in 1 
+\i (04:28:10) setwindow pcb
+\i (04:28:10) zoom in -4.89 17.02
+\i (04:28:10) trapsize 6
+\i (04:28:13) zoom out 1 
+\i (04:28:13) setwindow pcb
+\i (04:28:13) zoom out -4.16 15.69
+\i (04:28:13) trapsize 12
+\i (04:28:14) zoom out 1 
+\i (04:28:14) setwindow pcb
+\i (04:28:14) zoom out 4.11 13.72
+\i (04:28:14) trapsize 25
+\i (04:28:14) zoom out 1 
+\i (04:28:14) setwindow pcb
+\i (04:28:14) zoom out 4.11 13.72
+\i (04:28:14) trapsize 49
+\i (04:28:15) zoom out 1 
+\i (04:28:15) setwindow pcb
+\i (04:28:15) zoom out 14.96 12.63
+\i (04:28:15) trapsize 99
+\i (04:28:16) zoom in 1 
+\i (04:28:16) setwindow pcb
+\i (04:28:16) zoom in 9.08 8.88
+\i (04:28:16) trapsize 49
+\i (04:28:17) zoom in 1 
+\i (04:28:17) setwindow pcb
+\i (04:28:17) zoom in 9.08 8.88
+\i (04:28:17) trapsize 25
+\i (04:28:17) zoom out 1 
+\i (04:28:17) setwindow pcb
+\i (04:28:17) zoom out 8.93 8.88
+\i (04:28:17) trapsize 49
+\i (04:28:17) zoom out 1 
+\i (04:28:17) setwindow pcb
+\i (04:28:17) zoom out 8.94 8.88
+\i (04:28:17) trapsize 99
+\i (04:28:18) zoom in 1 
+\i (04:28:18) setwindow pcb
+\i (04:28:18) zoom in -26.45 15.79
+\i (04:28:18) trapsize 49
+\i (04:28:18) zoom in 1 
+\i (04:28:18) setwindow pcb
+\i (04:28:18) zoom in -26.44 15.79
+\i (04:28:18) trapsize 25
+\i (04:28:19) zoom out 1 
+\i (04:28:19) setwindow pcb
+\i (04:28:19) zoom out -26.24 15.45
+\i (04:28:19) trapsize 49
+\i (04:28:21) pick grid 9.87 10.42
+\t (04:28:21) last pick:  10.16  10.16
+\t (04:28:21) Moving U2 / 74HC595_SOIC127P600X175-16_74HC / SOIC127P600X175-16.
+\t (04:28:21) last pick:  7.62  10.16
+\i (04:28:22) pick grid 6.22 10.82
+\t (04:28:22) last pick:  5.08  10.16
+\i (04:28:29) setwindow form.plc_manual
+\i (04:28:29) FORM plc_manual tree 'MULTISEL YES' U11 'Components by refdes' 
+\w (04:28:30) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:28:30) Placing U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP on Top.
+\i (04:28:30) FORM plc_manual tree  U11 'Components by refdes' 
+\i (04:28:33) setwindow pcb
+\i (04:28:33) prepopup 5.04 20.69
+\i (04:28:34) rotate 
+\t (04:28:34) Spin the element(s).
+\i (04:28:35) zoom in 1 
+\i (04:28:35) setwindow pcb
+\i (04:28:35) zoom in 4.94 25.72
+\i (04:28:35) trapsize 25
+\i (04:28:35) zoom in 1 
+\i (04:28:35) setwindow pcb
+\i (04:28:35) zoom in 6.91 23.95
+\i (04:28:35) trapsize 12
+\i (04:28:35) zoom in 1 
+\i (04:28:35) setwindow pcb
+\i (04:28:35) zoom in 6.92 23.95
+\i (04:28:35) trapsize 6
+\i (04:28:36) zoom out 1 
+\i (04:28:36) setwindow pcb
+\i (04:28:36) zoom out 6.97 23.88
+\i (04:28:36) trapsize 12
+\i (04:28:36) zoom out 1 
+\i (04:28:36) setwindow pcb
+\i (04:28:36) zoom out 6.98 23.87
+\i (04:28:36) trapsize 25
+\i (04:28:36) zoom out 1 
+\i (04:28:36) setwindow pcb
+\i (04:28:36) zoom out 6.97 23.87
+\i (04:28:36) trapsize 49
+\i (04:28:37) zoom out 1 
+\i (04:28:37) setwindow pcb
+\i (04:28:37) zoom out 4.21 18.94
+\i (04:28:37) trapsize 99
+\i (04:28:41) iangle -180.000
+\t (04:28:41) last angle:  +180.000 Degrees
+\i (04:28:41) zoom in 1 
+\i (04:28:41) setwindow pcb
+\i (04:28:41) zoom in 5.53 18.36
+\i (04:28:41) trapsize 49
+\i (04:28:41) zoom in 1 
+\i (04:28:41) setwindow pcb
+\i (04:28:41) zoom in 5.53 18.36
+\i (04:28:41) trapsize 25
+\i (04:28:42) zoom out 1 
+\i (04:28:42) setwindow pcb
+\i (04:28:42) zoom out 5.53 18.46
+\i (04:28:42) trapsize 49
+\i (04:28:43) zoom out 1 
+\i (04:28:43) setwindow pcb
+\i (04:28:43) zoom out -23.38 -10.66
+\i (04:28:43) trapsize 99
+\i (04:28:43) zoom out 1 
+\i (04:28:43) setwindow pcb
+\i (04:28:43) zoom out -52.30 -39.47
+\i (04:28:43) trapsize 99
+\i (04:28:44) zoom in 1 
+\i (04:28:44) setwindow pcb
+\i (04:28:44) zoom in -38.88 -31.78
+\i (04:28:44) trapsize 49
+\i (04:29:01) zoom in 1 
+\i (04:29:01) setwindow pcb
+\i (04:29:01) zoom in -37.40 -34.54
+\i (04:29:01) trapsize 25
+\i (04:29:03) pick grid -37.40 -34.24
+\t (04:29:03) last pick:  -38.10  -33.02
+\i (04:29:05) pick grid -35.13 -32.02
+\t (04:29:05) last pick:  -35.56  -33.02
+\t (04:29:05) Moving U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP.
+\t (04:29:05) last pick:  -38.10  -33.02
+\i (04:29:27) pick -44 -31.9 
+\t (04:29:27) last pick:  -44.00  -31.90
+\i (04:29:30) move 
+\t (04:29:30) Select element(s) to move.
+\i (04:29:31) pick grid -42.14 -30.83
+\t (04:29:31) last pick:  -42.24  -30.72
+\t (04:29:31) last pick:  -44.00  -31.90
+\t (04:29:31) Moving U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP.
+\t (04:29:31) Pick new location for the element(s).
+\i (04:29:41) pick -40 -31.9 
+\t (04:29:41) last pick:  -40.00  -31.90
+\i (04:29:49) move 
+\t (04:29:49) Select element(s) to move.
+\i (04:29:50) pick grid -39.47 -29.85
+\t (04:29:50) last pick:  -39.68  -30.08
+\t (04:29:50) last pick:  -40.00  -31.90
+\t (04:29:50) Moving U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP.
+\t (04:29:50) Pick new location for the element(s).
+\i (04:30:01) pick -38 -34.9 
+\t (04:30:01) last pick:  -38.00  -34.90
+\i (04:30:05) move 
+\t (04:30:05) Select element(s) to move.
+\i (04:30:05) pick grid -36.96 -31.97
+\t (04:30:05) last pick:  -37.12  -32.00
+\t (04:30:05) last pick:  -38.00  -34.90
+\t (04:30:05) Moving U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP.
+\t (04:30:05) Pick new location for the element(s).
+\i (04:30:10) pick -36 -32.9 
+\t (04:30:10) last pick:  -36.00  -32.90
+\i (04:30:14) move 
+\t (04:30:14) Select element(s) to move.
+\i (04:30:14) pick grid -37.45 -29.55
+\t (04:30:14) last pick:  -37.76  -29.44
+\t (04:30:14) last pick:  -36.00  -32.90
+\t (04:30:14) Moving U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP.
+\t (04:30:15) Pick new location for the element(s).
+\i (04:30:23) pick -37 -33.5 
+\t (04:30:23) last pick:  -37.00  -33.50
+\i (04:30:57) move 
+\t (04:30:57) Select element(s) to move.
+\i (04:30:58) pick grid -39.92 -32.86
+\t (04:30:58) last pick:  -39.68  -32.64
+\t (04:30:58) last pick:  -37.00  -33.50
+\t (04:30:58) Moving U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP.
+\t (04:30:58) Pick new location for the element(s).
+\i (04:31:06) pick -37.5 33.7 
+\t (04:31:06) last pick:  -37.50  33.70
+\i (04:31:09) move 
+\t (04:31:09) Select element(s) to move.
+\i (04:31:10) zoom in 1 
+\i (04:31:10) setwindow pcb
+\i (04:31:10) zoom in -37.70 -28.17
+\i (04:31:10) trapsize 12
+\i (04:31:10) zoom in 1 
+\i (04:31:10) setwindow pcb
+\i (04:31:10) zoom in -37.70 -26.32
+\i (04:31:10) trapsize 6
+\i (04:31:10) zoom out 1 
+\i (04:31:10) setwindow pcb
+\i (04:31:10) zoom out -37.85 -25.16
+\i (04:31:10) trapsize 12
+\i (04:31:10) zoom out 1 
+\i (04:31:10) setwindow pcb
+\i (04:31:10) zoom out -37.86 -25.25
+\i (04:31:10) trapsize 25
+\i (04:31:10) zoom out 1 
+\i (04:31:10) setwindow pcb
+\i (04:31:10) zoom out -37.91 -26.04
+\i (04:31:10) trapsize 49
+\i (04:31:10) zoom out 1 
+\i (04:31:10) setwindow pcb
+\i (04:31:10) zoom out -37.90 -22.10
+\i (04:31:10) trapsize 99
+\i (04:31:12) zoom in 1 
+\i (04:31:12) setwindow pcb
+\i (04:31:12) zoom in -38.09 40.46
+\i (04:31:12) trapsize 49
+\i (04:31:12) zoom in 1 
+\i (04:31:12) setwindow pcb
+\i (04:31:12) zoom in -37.89 38.88
+\i (04:31:12) trapsize 25
+\i (04:31:13) pick grid -37.59 36.52
+\t (04:31:13) last pick:  -37.76  36.48
+\t (04:31:13) last pick:  -37.50  33.70
+\t (04:31:13) Moving U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP.
+\t (04:31:13) Pick new location for the element(s).
+\i (04:31:13) zoom out 1 
+\i (04:31:13) setwindow pcb
+\i (04:31:13) zoom out -37.19 29.07
+\i (04:31:13) trapsize 49
+\i (04:31:13) zoom out 1 
+\i (04:31:13) setwindow pcb
+\i (04:31:13) zoom out -36.70 22.30
+\i (04:31:13) trapsize 99
+\i (04:31:18) pick -37.5 -33.7 
+\t (04:31:18) last pick:  -37.50  -33.70
+\i (04:31:19) zoom in 1 
+\i (04:31:19) setwindow pcb
+\i (04:31:19) zoom in -36.32 -31.18
+\i (04:31:19) trapsize 49
+\i (04:31:19) zoom in 1 
+\i (04:31:19) setwindow pcb
+\i (04:31:19) zoom in -37.70 -31.18
+\i (04:31:19) trapsize 25
+\i (04:31:20) zoom in 1 
+\i (04:31:20) setwindow pcb
+\i (04:31:20) zoom in -37.70 -31.18
+\i (04:31:20) trapsize 12
+\i (04:31:20) zoom out 1 
+\i (04:31:20) setwindow pcb
+\i (04:31:20) zoom out -37.13 -31.65
+\i (04:31:20) trapsize 25
+\i (04:31:24) move 
+\t (04:31:24) Select element(s) to move.
+\i (04:31:25) pick grid -38.46 -33.52
+\t (04:31:25) last pick:  -38.40  -33.28
+\t (04:31:25) last pick:  -37.50  -33.70
+\t (04:31:25) Moving U11 / MICRO-USB_MICROUSB_B_4DIP_MICRO / MICROUSB_B_4DIP.
+\t (04:31:25) Pick new location for the element(s).
+\i (04:31:34) pick -37.5 -33.9 
+\t (04:31:34) last pick:  -37.50  -33.90
+\i (04:31:36) zoom in 1 
+\i (04:31:36) setwindow pcb
+\i (04:31:36) zoom in -38.75 -31.54
+\i (04:31:36) trapsize 12
+\i (04:31:37) zoom out 1 
+\i (04:31:37) setwindow pcb
+\i (04:31:37) zoom out -36.31 -33.24
+\i (04:31:37) trapsize 25
+\i (04:31:46) zoom out 1 
+\i (04:31:46) setwindow pcb
+\i (04:31:46) zoom out -34.48 -32.45
+\i (04:31:46) trapsize 49
+\i (04:31:48) zoom in 1 
+\i (04:31:48) setwindow pcb
+\i (04:31:48) zoom in 27.10 -37.98
+\i (04:31:48) trapsize 25
+\i (04:31:49) zoom out 1 
+\i (04:31:49) setwindow pcb
+\i (04:31:49) zoom out 25.67 -35.26
+\i (04:31:49) trapsize 49
+\i (04:31:50) zoom in 1 
+\i (04:31:50) setwindow pcb
+\i (04:31:50) zoom in -38.38 -31.71
+\i (04:31:50) trapsize 25
+\i (04:31:51) zoom out 1 
+\i (04:31:51) setwindow pcb
+\i (04:31:51) zoom out -37.54 -32.79
+\i (04:31:51) trapsize 49
+\i (04:31:54) zoom in 1 
+\i (04:31:54) setwindow pcb
+\i (04:31:54) zoom in -29.14 -10.58
+\i (04:31:54) trapsize 25
+\i (04:31:54) zoom in 1 
+\i (04:31:54) setwindow pcb
+\i (04:31:54) zoom in -29.49 -10.92
+\i (04:31:54) trapsize 12
+\i (04:31:55) zoom out 1 
+\i (04:31:55) setwindow pcb
+\i (04:31:55) zoom out -29.63 -11.24
+\i (04:31:55) trapsize 25
+\i (04:31:55) zoom out 1 
+\i (04:31:55) setwindow pcb
+\i (04:31:55) zoom out -29.63 -11.73
+\i (04:31:55) trapsize 49
+\i (04:32:10) zoom out 1 
+\i (04:32:10) setwindow pcb
+\i (04:32:10) zoom out -34.38 -21.20
+\i (04:32:10) trapsize 99
+\i (04:32:11) zoom in 1 
+\i (04:32:11) setwindow pcb
+\i (04:32:11) zoom in -25.46 -9.67
+\i (04:32:11) trapsize 49
+\i (04:32:12) zoom out 1 
+\i (04:32:12) setwindow pcb
+\i (04:32:12) zoom out -25.36 -8.78
+\i (04:32:12) trapsize 99
+\i (04:32:16) save 
+\i (04:32:17) fillin yes 
+\i (04:32:17) generaledit 
+\i (04:32:23) place manual 
+\i (04:32:27) setwindow form.plc_manual
+\i (04:32:27) FORM plc_manual tree 'MULTISEL YES' U15 'Components by refdes' 
+\w (04:32:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:32:27) Placing U15 / 5P-1_ZCZ254-1X5_5P-1 / ZCZ254-1X5 on Top.
+\i (04:32:27) FORM plc_manual tree  U15 'Components by refdes' 
+\i (04:32:29) setwindow pcb
+\i (04:32:29) prepopup 105.00 -10.46
+\i (04:32:30) oops 
+\i (04:32:31) setwindow form.plc_manual
+\i (04:32:31) FORM plc_manual tree 'MULTISEL YES' U19 'Components by refdes' 
+\w (04:32:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:32:31) Placing U19 / 2P_ZCZ254-1X2_2P / ZCZ254-1X2 on Top.
+\i (04:32:31) FORM plc_manual tree  U19 'Components by refdes' 
+\i (04:32:34) setwindow pcb
+\i (04:32:34) prepopup 12.04 23.88
+\i (04:32:36) rotate 
+\t (04:32:36) Spin the element(s).
+\i (04:32:37) zoom in 1 
+\i (04:32:37) setwindow pcb
+\i (04:32:37) zoom in 12.83 42.04
+\i (04:32:37) trapsize 49
+\i (04:32:37) zoom in 1 
+\i (04:32:37) setwindow pcb
+\i (04:32:37) zoom in 15.70 33.65
+\i (04:32:37) trapsize 25
+\i (04:32:37) zoom in 1 
+\i (04:32:37) setwindow pcb
+\i (04:32:37) zoom in 14.86 29.07
+\i (04:32:37) trapsize 12
+\i (04:32:38) zoom out 1 
+\i (04:32:38) setwindow pcb
+\i (04:32:38) zoom out 13.97 26.63
+\i (04:32:38) trapsize 25
+\i (04:32:38) zoom out 1 
+\i (04:32:38) setwindow pcb
+\i (04:32:38) zoom out 13.93 26.58
+\i (04:32:38) trapsize 49
+\i (04:32:40) prepopup 11.85 22.30
+\i (04:32:41) done 
+\i (04:32:41) generaledit 
+\i (04:32:42) zoom out 1 
+\i (04:32:42) setwindow pcb
+\i (04:32:42) zoom out -8.09 13.52
+\i (04:32:42) trapsize 99
+\i (04:32:42) zoom out 1 
+\i (04:32:42) setwindow pcb
+\i (04:32:42) zoom out -34.93 -35.13
+\i (04:32:42) trapsize 99
+\i (04:32:42) zoom out 1 
+\i (04:32:42) setwindow pcb
+\i (04:32:42) zoom out -34.93 -35.13
+\i (04:32:42) trapsize 99
+\i (04:32:42) zoom out 1 
+\i (04:32:42) setwindow pcb
+\i (04:32:42) zoom out -34.93 -35.13
+\i (04:32:42) trapsize 99
+\i (04:32:46) place manual 
+\i (04:32:50) setwindow form.plc_manual
+\i (04:32:50) FORM plc_manual tree 'MULTISEL YES' U19 'Components by refdes' 
+\w (04:32:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:32:50) Placing U19 / 2P_ZCZ254-1X2_2P / ZCZ254-1X2 on Top.
+\i (04:32:50) FORM plc_manual tree  U19 'Components by refdes' 
+\i (04:32:55) setwindow pcb
+\i (04:32:55) pick grid -41.25 -26.64
+\t (04:32:55) last pick:  -40.64  -25.40
+\i (04:32:55) zoom in 1 
+\i (04:32:55) setwindow pcb
+\i (04:32:55) zoom in -39.87 -26.25
+\i (04:32:55) trapsize 49
+\i (04:32:55) zoom in 1 
+\i (04:32:55) setwindow pcb
+\i (04:32:55) zoom in -39.86 -26.24
+\i (04:32:55) trapsize 25
+\i (04:32:55) zoom in 1 
+\i (04:32:55) setwindow pcb
+\i (04:32:55) zoom in -39.86 -26.24
+\i (04:32:55) trapsize 12
+\i (04:32:56) zoom out 1 
+\i (04:32:56) setwindow pcb
+\i (04:32:56) zoom out -39.51 -26.27
+\i (04:32:56) trapsize 25
+\i (04:32:56) zoom out 1 
+\i (04:32:56) setwindow pcb
+\i (04:32:56) zoom out -39.46 -26.26
+\i (04:32:56) trapsize 49
+\i (04:32:59) zoom in 1 
+\i (04:32:59) setwindow pcb
+\i (04:32:59) zoom in -27.61 -26.16
+\i (04:32:59) trapsize 25
+\i (04:33:00) zoom out 1 
+\i (04:33:00) setwindow pcb
+\i (04:33:00) zoom out -27.60 -26.11
+\i (04:33:00) trapsize 49
+\i (04:33:07) zoom out 1 
+\i (04:33:07) setwindow pcb
+\i (04:33:07) zoom out -5.40 -11.21
+\i (04:33:07) trapsize 99
+\i (04:33:09) zoom in 1 
+\i (04:33:09) setwindow pcb
+\i (04:33:09) zoom in 9.67 5.53
+\i (04:33:09) trapsize 49
+\i (04:33:14) save 
+\i (04:33:15) fillin yes 
+\i (04:33:15) generaledit 
+\i (04:33:16) exit 
+\t (04:33:17)     Journal end - Fri Jun 16 03:03:52 2017
