@@ -2,415 +2,397 @@
 <!DOCTYPE net_list>
 <net_list>
   <net><id>GND</id>
-    <pin><id>U22.5</id></pin>
-    <pin><id>U20.4</id></pin>
-    <pin><id>U4.1</id></pin>
-    <pin><id>U3.1</id></pin>
-    <pin><id>C3.2</id></pin>
+    <pin><id>D1.1</id></pin>
+    <pin><id>D3.1</id></pin>
+    <pin><id>D2.1</id></pin>
+    <pin><id>D5.1</id></pin>
+    <pin><id>D4.1</id></pin>
+    <pin><id>D7.1</id></pin>
+    <pin><id>D6.1</id></pin>
+    <pin><id>U19.1</id></pin>
+    <pin><id>C7.2</id></pin>
+    <pin><id>U20.5</id></pin>
+    <pin><id>U15.4</id></pin>
+    <pin><id>U21.1</id></pin>
     <pin><id>SW2.1</id></pin>
     <pin><id>SW5.1</id></pin>
     <pin><id>SW4.1</id></pin>
     <pin><id>SW3.1</id></pin>
     <pin><id>SW1.1</id></pin>
-    <pin><id>U11.8</id></pin>
-    <pin><id>U10.13</id></pin>
-    <pin><id>U10.8</id></pin>
-    <pin><id>U7.13</id></pin>
-    <pin><id>U7.8</id></pin>
-    <pin><id>D7.1</id></pin>
-    <pin><id>D6.1</id></pin>
-    <pin><id>D5.1</id></pin>
-    <pin><id>D4.1</id></pin>
-    <pin><id>D3.1</id></pin>
-    <pin><id>D2.1</id></pin>
-    <pin><id>D1.1</id></pin>
-    <pin><id>U6.5</id></pin>
-    <pin><id>U21.7</id></pin>
-    <pin><id>R18.2</id></pin>
-    <pin><id>U19.20</id></pin>
-    <pin><id>U19.12</id></pin>
-    <pin><id>U1.3</id></pin>
+    <pin><id>U12.8</id></pin>
+    <pin><id>U2.13</id></pin>
+    <pin><id>U2.8</id></pin>
+    <pin><id>U11.5</id></pin>
+    <pin><id>U16.7</id></pin>
+    <pin><id>R5.2</id></pin>
+    <pin><id>U17.20</id></pin>
+    <pin><id>U17.12</id></pin>
+    <pin><id>U18.3</id></pin>
     <pin><id>C2.2</id></pin>
     <pin><id>C1.2</id></pin>
-    <pin><id>C7.2</id></pin>
     <pin><id>C6.2</id></pin>
     <pin><id>C5.2</id></pin>
     <pin><id>C4.2</id></pin>
-    <pin><id>U5.1</id></pin>
-    <pin><id>U2.4</id></pin>
+    <pin><id>C3.2</id></pin>
+    <pin><id>U8.1</id></pin>
+    <pin><id>U1.4</id></pin>
     </net>
   <net><id>N</id>
-    <pin><id>U16.1</id></pin>
-    <pin><id>R3.2</id></pin>
-    <pin><id>R3.1</id></pin>
-    <pin><id>U2.2</id></pin>
+    <pin><id>U7.1</id></pin>
+    <pin><id>U1.2</id></pin>
     </net>
-  <net><id>N05393</id>
+  <net><id>RST</id>
+    <pin><id>C7.1</id></pin>
+    <pin><id>R1.2</id></pin>
+    <pin><id>U20.4</id></pin>
+    <pin><id>U16.4</id></pin>
+    </net>
+  <net><id>SCK</id>
+    <pin><id>U2.11</id></pin>
+    <pin><id>U16.10</id></pin>
+    </net>
+  <net><id>SI</id>
+    <pin><id>U2.14</id></pin>
+    <pin><id>U16.6</id></pin>
+    </net>
+  <net><id>RCK/DAT</id>
+    <pin><id>U20.3</id></pin>
+    <pin><id>U2.12</id></pin>
+    <pin><id>U16.8</id></pin>
+    </net>
+  <net><id>LIMIT1</id>
     <pin><id>R4.2</id></pin>
-    <pin><id>D1.2</id></pin>
+    <pin><id>U19.2</id></pin>
+    <pin><id>U16.15</id></pin>
     </net>
-  <net><id>N05397</id>
-    <pin><id>R5.2</id></pin>
-    <pin><id>D2.2</id></pin>
-    </net>
-  <net><id>N05401</id>
-    <pin><id>R6.2</id></pin>
-    <pin><id>D3.2</id></pin>
+  <net><id>LIMIT2</id>
+    <pin><id>R11.2</id></pin>
+    <pin><id>U21.2</id></pin>
+    <pin><id>U16.14</id></pin>
     </net>
   <net><id>VCC3V3</id>
-    <pin><id>U22.1</id></pin>
-    <pin><id>U20.1</id></pin>
-    <pin><id>R2.1</id></pin>
+    <pin><id>R4.1</id></pin>
     <pin><id>R1.1</id></pin>
+    <pin><id>R16.1</id></pin>
     <pin><id>R15.1</id></pin>
     <pin><id>R14.1</id></pin>
     <pin><id>R13.1</id></pin>
-    <pin><id>R12.1</id></pin>
+    <pin><id>U20.1</id></pin>
+    <pin><id>U15.1</id></pin>
     <pin><id>R11.1</id></pin>
-    <pin><id>U10.10</id></pin>
-    <pin><id>U10.16</id></pin>
-    <pin><id>U7.10</id></pin>
-    <pin><id>U7.16</id></pin>
-    <pin><id>U21.9</id></pin>
-    <pin><id>R16.1</id></pin>
-    <pin><id>R17.1</id></pin>
-    <pin><id>U19.23</id></pin>
-    <pin><id>U1.1</id></pin>
+    <pin><id>R10.1</id></pin>
+    <pin><id>R9.1</id></pin>
+    <pin><id>R8.1</id></pin>
+    <pin><id>R7.1</id></pin>
+    <pin><id>R6.1</id></pin>
+    <pin><id>U2.10</id></pin>
+    <pin><id>U2.16</id></pin>
+    <pin><id>U16.9</id></pin>
+    <pin><id>R2.1</id></pin>
+    <pin><id>R3.1</id></pin>
+    <pin><id>U17.23</id></pin>
+    <pin><id>U18.1</id></pin>
     <pin><id>C2.1</id></pin>
     <pin><id>C1.1</id></pin>
-    <pin><id>C7.1</id></pin>
     <pin><id>C6.1</id></pin>
-    <pin><id>U5.4</id></pin>
+    <pin><id>C5.1</id></pin>
+    <pin><id>U8.4</id></pin>
     </net>
-  <net><id>N05405</id>
-    <pin><id>R7.2</id></pin>
-    <pin><id>D4.2</id></pin>
-    </net>
-  <net><id>N05409</id>
-    <pin><id>R8.2</id></pin>
-    <pin><id>D5.2</id></pin>
-    </net>
-  <net><id>N05413</id>
-    <pin><id>R9.2</id></pin>
+  <net><id>N30331</id>
+    <pin><id>R21.2</id></pin>
     <pin><id>D6.2</id></pin>
     </net>
-  <net><id>N05424</id>
-    <pin><id>R10.2</id></pin>
+  <net><id>N30361</id>
+    <pin><id>R22.2</id></pin>
     <pin><id>D7.2</id></pin>
     </net>
   <net><id>L</id>
-    <pin><id>U16.2</id></pin>
-    <pin><id>U2.1</id></pin>
-    </net>
-  <net><id>LED1</id>
-    <pin><id>U7.1</id></pin>
-    <pin><id>R4.1</id></pin>
-    </net>
-  <net><id>LED2</id>
     <pin><id>U7.2</id></pin>
-    <pin><id>R5.1</id></pin>
-    </net>
-  <net><id>LED3</id>
-    <pin><id>U7.3</id></pin>
-    <pin><id>R6.1</id></pin>
+    <pin><id>U1.1</id></pin>
     </net>
   <net><id>433DATA</id>
-    <pin><id>U21.5</id></pin>
-    <pin><id>U1.2</id></pin>
+    <pin><id>U16.11</id></pin>
+    <pin><id>U18.2</id></pin>
     </net>
-  <net><id>LED4</id>
-    <pin><id>U7.4</id></pin>
-    <pin><id>R7.1</id></pin>
+  <net><id>N30591</id>
+    <pin><id>R20.2</id></pin>
+    <pin><id>D5.2</id></pin>
+    </net>
+  <net><id>N30561</id>
+    <pin><id>R19.2</id></pin>
+    <pin><id>D4.2</id></pin>
     </net>
   <net><id>CON_KEY1</id>
-    <pin><id>R11.2</id></pin>
+    <pin><id>R6.2</id></pin>
     <pin><id>SW1.2</id></pin>
-    <pin><id>U21.17</id></pin>
-    </net>
-  <net><id>433_LED</id>
-    <pin><id>U7.5</id></pin>
-    <pin><id>R8.1</id></pin>
+    <pin><id>U16.17</id></pin>
     </net>
   <net><id>CON_KEY3</id>
-    <pin><id>R13.2</id></pin>
+    <pin><id>R8.2</id></pin>
     <pin><id>SW3.2</id></pin>
-    <pin><id>U21.19</id></pin>
+    <pin><id>U16.19</id></pin>
     </net>
   <net><id>MODE_LED</id>
-    <pin><id>U7.6</id></pin>
-    <pin><id>R9.1</id></pin>
+    <pin><id>R21.1</id></pin>
+    <pin><id>U16.12</id></pin>
     </net>
   <net><id>CON_KEY4</id>
-    <pin><id>R14.2</id></pin>
+    <pin><id>R9.2</id></pin>
     <pin><id>SW4.2</id></pin>
-    <pin><id>U21.20</id></pin>
+    <pin><id>U16.20</id></pin>
     </net>
   <net><id>CON_KEY5</id>
-    <pin><id>R15.2</id></pin>
+    <pin><id>R10.2</id></pin>
     <pin><id>SW5.2</id></pin>
-    <pin><id>U21.16</id></pin>
+    <pin><id>U16.16</id></pin>
     </net>
-  <net><id>SCK0</id>
-    <pin><id>U7.11</id></pin>
-    <pin><id>U21.6</id></pin>
+  <net><id>N30836</id>
+    <pin><id>R17.2</id></pin>
+    <pin><id>D2.2</id></pin>
     </net>
-  <net><id>SI0</id>
-    <pin><id>U7.14</id></pin>
-    <pin><id>U21.10</id></pin>
+  <net><id>N30866</id>
+    <pin><id>R18.2</id></pin>
+    <pin><id>D3.2</id></pin>
     </net>
-  <net><id>LIMIT2</id>
-    <pin><id>R2.2</id></pin>
-    <pin><id>U4.2</id></pin>
-    <pin><id>U21.11</id></pin>
-    </net>
-  <net><id>LIMIT1/RST</id>
-    <pin><id>U22.4</id></pin>
-    <pin><id>C3.1</id></pin>
-    <pin><id>R1.2</id></pin>
-    <pin><id>U3.2</id></pin>
-    <pin><id>U21.4</id></pin>
-    </net>
-  <net><id>RCK0/DAT</id>
-    <pin><id>U22.3</id></pin>
-    <pin><id>U7.12</id></pin>
-    <pin><id>U21.8</id></pin>
-    </net>
-  <net><id>SCK1</id>
-    <pin><id>U10.11</id></pin>
-    <pin><id>U21.3</id></pin>
-    </net>
-  <net><id>RCK1</id>
-    <pin><id>U10.12</id></pin>
-    <pin><id>U21.2</id></pin>
+  <net><id>N31028</id>
+    <pin><id>R12.2</id></pin>
+    <pin><id>D1.2</id></pin>
     </net>
   <net><id>N03089</id>
-    <pin><id>R17.2</id></pin>
-    <pin><id>U19.3</id></pin>
+    <pin><id>R3.2</id></pin>
+    <pin><id>U17.3</id></pin>
     </net>
   <net><id>DEBUG</id>
-    <pin><id>U19.9</id></pin>
-    <pin><id>U20.5</id></pin>
-    </net>
-  <net><id>SI1</id>
-    <pin><id>U10.14</id></pin>
-    <pin><id>U21.1</id></pin>
+    <pin><id>U17.9</id></pin>
+    <pin><id>U15.5</id></pin>
     </net>
   <net><id>KEY4</id>
-    <pin><id>U10.7</id></pin>
-    <pin><id>U19.5</id></pin>
+    <pin><id>R16.2</id></pin>
+    <pin><id>U2.3</id></pin>
+    <pin><id>U17.5</id></pin>
     </net>
   <net><id>CON_RELAY1</id>
-    <pin><id>U11.1</id></pin>
-    <pin><id>U10.1</id></pin>
+    <pin><id>R17.1</id></pin>
+    <pin><id>U12.1</id></pin>
+    <pin><id>U2.7</id></pin>
     </net>
   <net><id>CON_RELAY2</id>
-    <pin><id>U11.2</id></pin>
-    <pin><id>U10.2</id></pin>
+    <pin><id>R18.1</id></pin>
+    <pin><id>U12.2</id></pin>
+    <pin><id>U2.6</id></pin>
     </net>
   <net><id>CON_RELAY3</id>
-    <pin><id>U11.3</id></pin>
-    <pin><id>U10.3</id></pin>
+    <pin><id>R19.1</id></pin>
+    <pin><id>U12.3</id></pin>
+    <pin><id>U2.5</id></pin>
     </net>
   <net><id>CON_RELAY4</id>
-    <pin><id>U11.4</id></pin>
-    <pin><id>U10.4</id></pin>
+    <pin><id>R20.1</id></pin>
+    <pin><id>U12.4</id></pin>
+    <pin><id>U2.4</id></pin>
     </net>
   <net><id>RELAY1</id>
-    <pin><id>U21.15</id></pin>
-    <pin><id>U19.6</id></pin>
+    <pin><id>U16.5</id></pin>
+    <pin><id>U17.6</id></pin>
     </net>
   <net><id>SLED</id>
-    <pin><id>R10.1</id></pin>
-    <pin><id>U19.7</id></pin>
+    <pin><id>R12.1</id></pin>
+    <pin><id>U17.7</id></pin>
     </net>
   <net><id>CON_KEY2/CLK</id>
-    <pin><id>U22.2</id></pin>
+    <pin><id>U20.2</id></pin>
     <pin><id>SW2.2</id></pin>
-    <pin><id>R12.2</id></pin>
-    <pin><id>U21.18</id></pin>
+    <pin><id>R7.2</id></pin>
+    <pin><id>U16.18</id></pin>
     </net>
   <net><id>KEY1</id>
-    <pin><id>U10.15</id></pin>
-    <pin><id>U19.10</id></pin>
+    <pin><id>R13.2</id></pin>
+    <pin><id>U2.15</id></pin>
+    <pin><id>U17.10</id></pin>
     </net>
   <net><id>KEY2</id>
-    <pin><id>U10.5</id></pin>
-    <pin><id>U19.13</id></pin>
+    <pin><id>R14.2</id></pin>
+    <pin><id>U2.1</id></pin>
+    <pin><id>U17.13</id></pin>
     </net>
   <net><id>KEY3</id>
-    <pin><id>U10.6</id></pin>
-    <pin><id>U19.14</id></pin>
+    <pin><id>R15.2</id></pin>
+    <pin><id>U2.2</id></pin>
+    <pin><id>U17.14</id></pin>
     </net>
   <net><id>RELAY4</id>
-    <pin><id>U21.12</id></pin>
-    <pin><id>R18.1</id></pin>
-    <pin><id>U19.8</id></pin>
+    <pin><id>U16.3</id></pin>
+    <pin><id>R5.1</id></pin>
+    <pin><id>U17.8</id></pin>
     </net>
   <net><id>TX</id>
-    <pin><id>U20.3</id></pin>
-    <pin><id>U19.22</id></pin>
+    <pin><id>U15.3</id></pin>
+    <pin><id>U17.22</id></pin>
     </net>
   <net><id>VCC5V</id>
-    <pin><id>U15.2</id></pin>
     <pin><id>U14.2</id></pin>
     <pin><id>U13.2</id></pin>
-    <pin><id>U12.2</id></pin>
-    <pin><id>U11.9</id></pin>
-    <pin><id>U6.1</id></pin>
-    <pin><id>C5.1</id></pin>
+    <pin><id>U4.2</id></pin>
+    <pin><id>U3.2</id></pin>
+    <pin><id>U12.9</id></pin>
+    <pin><id>U11.1</id></pin>
     <pin><id>C4.1</id></pin>
-    <pin><id>U5.3</id></pin>
-    <pin><id>U2.3</id></pin>
+    <pin><id>C3.1</id></pin>
+    <pin><id>U8.3</id></pin>
+    <pin><id>U1.3</id></pin>
     </net>
   <net><id>RX</id>
-    <pin><id>U20.2</id></pin>
-    <pin><id>U19.21</id></pin>
+    <pin><id>U15.2</id></pin>
+    <pin><id>U17.21</id></pin>
     </net>
   <net><id>R1</id>
-    <pin><id>U12.5</id></pin>
-    <pin><id>U11.16</id></pin>
+    <pin><id>U3.5</id></pin>
+    <pin><id>U12.16</id></pin>
     </net>
   <net><id>RELAY2</id>
-    <pin><id>U21.14</id></pin>
-    <pin><id>U19.19</id></pin>
+    <pin><id>U16.1</id></pin>
+    <pin><id>U17.19</id></pin>
     </net>
   <net><id>R2</id>
-    <pin><id>U13.5</id></pin>
-    <pin><id>U11.15</id></pin>
+    <pin><id>U4.5</id></pin>
+    <pin><id>U12.15</id></pin>
     </net>
   <net><id>R3</id>
-    <pin><id>U14.5</id></pin>
-    <pin><id>U11.14</id></pin>
+    <pin><id>U13.5</id></pin>
+    <pin><id>U12.14</id></pin>
     </net>
   <net><id>N03085</id>
-    <pin><id>R16.2</id></pin>
-    <pin><id>U19.24</id></pin>
+    <pin><id>R2.2</id></pin>
+    <pin><id>U17.24</id></pin>
     </net>
   <net><id>R4</id>
-    <pin><id>U15.5</id></pin>
-    <pin><id>U11.13</id></pin>
+    <pin><id>U14.5</id></pin>
+    <pin><id>U12.13</id></pin>
     </net>
   <net><id>RELAY3</id>
-    <pin><id>U21.13</id></pin>
-    <pin><id>U19.11</id></pin>
+    <pin><id>U16.2</id></pin>
+    <pin><id>U17.11</id></pin>
     </net>
   <net><id>COM1</id>
-    <pin><id>U8.2</id></pin>
-    <pin><id>U12.1</id></pin>
+    <pin><id>U5.2</id></pin>
+    <pin><id>U3.1</id></pin>
     </net>
   <net><id>COM2</id>
+    <pin><id>U6.2</id></pin>
+    <pin><id>U4.1</id></pin>
+    </net>
+  <net><id>COM3</id>
     <pin><id>U9.2</id></pin>
     <pin><id>U13.1</id></pin>
     </net>
-  <net><id>COM3</id>
-    <pin><id>U17.2</id></pin>
+  <net><id>COM4</id>
+    <pin><id>U10.2</id></pin>
     <pin><id>U14.1</id></pin>
     </net>
-  <net><id>COM4</id>
-    <pin><id>U18.2</id></pin>
-    <pin><id>U15.1</id></pin>
-    </net>
   <net><id>NO1</id>
-    <pin><id>U8.3</id></pin>
-    <pin><id>U12.3</id></pin>
+    <pin><id>U5.3</id></pin>
+    <pin><id>U3.3</id></pin>
     </net>
   <net><id>NO2</id>
+    <pin><id>U6.3</id></pin>
+    <pin><id>U4.3</id></pin>
+    </net>
+  <net><id>NO3</id>
     <pin><id>U9.3</id></pin>
     <pin><id>U13.3</id></pin>
     </net>
-  <net><id>NO3</id>
-    <pin><id>U17.3</id></pin>
+  <net><id>NO4</id>
+    <pin><id>U10.3</id></pin>
     <pin><id>U14.3</id></pin>
     </net>
-  <net><id>NO4</id>
-    <pin><id>U18.3</id></pin>
-    <pin><id>U15.3</id></pin>
-    </net>
   <net><id>NC1</id>
-    <pin><id>U8.1</id></pin>
-    <pin><id>U12.4</id></pin>
+    <pin><id>U5.1</id></pin>
+    <pin><id>U3.4</id></pin>
     </net>
   <net><id>NC2</id>
+    <pin><id>U6.1</id></pin>
+    <pin><id>U4.4</id></pin>
+    </net>
+  <net><id>NC3</id>
     <pin><id>U9.1</id></pin>
     <pin><id>U13.4</id></pin>
     </net>
-  <net><id>NC3</id>
-    <pin><id>U17.1</id></pin>
+  <net><id>NC4</id>
+    <pin><id>U10.1</id></pin>
     <pin><id>U14.4</id></pin>
     </net>
-  <net><id>NC4</id>
-    <pin><id>U18.1</id></pin>
-    <pin><id>U15.4</id></pin>
+  <net><id>433LED</id>
+    <pin><id>R22.1</id></pin>
+    <pin><id>U16.13</id></pin>
     </net>
-  <package><id>MICROUSB_B_4DIP</id>
-    <device><id>MICRO-USB_MICROUSB_B_4DIP_MICRO</id>
-      <instance><id>U6</id></instance>
-      </device>
-    </package>
   <package><id>SOT89_AM1117</id>
     <device><id>AMS1117_SOT89_AM1117_AMS1117</id>
-      <instance><id>U5</id></instance>
+      <instance><id>U8</id></instance>
+      </device>
+    </package>
+  <package><id>TERMINAL-2P-5MM</id>
+    <device><id>2P_TERMINAL-2P-5MM_2P</id>
+      <instance><id>U7</id></instance>
+      </device>
+    </package>
+  <package><id>SOIC127P600X175-16</id>
+    <device><id>74HC595_SOIC127P600X175-16_74HC</id>
+      <instance><id>U2</id></instance>
+      </device>
+    <device><id>ULN2003_SOIC127P600X175-16_ULN2</id>
+      <instance><id>U12</id></instance>
       </device>
     </package>
   <package><id>ZCZ254-1X2</id>
     <device><id>2P_ZCZ254-1X2_2P</id>
-      <instance><id>U4</id></instance>
-      <instance><id>U3</id></instance>
-      </device>
-    </package>
-  <package><id>TSOP65P640X120-20N</id>
-    <device><id>N76E003_TSOP65P640X120-20N_N76E</id>
       <instance><id>U21</id></instance>
+      <instance><id>U19</id></instance>
       </device>
     </package>
-  <package><id>ZCZ254-1X5</id>
-    <device><id>5P-1_ZCZ254-1X5_5P-1</id>
-      <instance><id>U22</id></instance>
-      <instance><id>U20</id></instance>
-      </device>
-    </package>
-  <package><id>AC_DC5V_RPD</id>
-    <device><id>AC-DC5V_AC_DC5V_RPD_AC-DC5V</id>
-      <instance><id>U2</id></instance>
+  <package><id>433MODULE_SYN480</id>
+    <device><id>433MODULE_433MODULE_SYN480_433M</id>
+      <instance><id>U18</id></instance>
       </device>
     </package>
   <package><id>PSF</id>
     <device><id>PSFB04_PSF_PSFB04</id>
-      <instance><id>U19</id></instance>
+      <instance><id>U17</id></instance>
+      </device>
+    </package>
+  <package><id>TSOP65P640X120-20N</id>
+    <device><id>N76E003_TSOP65P640X120-20N_N76E</id>
+      <instance><id>U16</id></instance>
+      </device>
+    </package>
+  <package><id>ZCZ254-1X5</id>
+    <device><id>5P-1_ZCZ254-1X5_5P-1</id>
+      <instance><id>U20</id></instance>
+      <instance><id>U15</id></instance>
+      </device>
+    </package>
+  <package><id>HK3FF</id>
+    <device><id>SL-5V-RELAY_HK3FF_SL-5V-RELAY</id>
+      <instance><id>U4</id></instance>
+      <instance><id>U3</id></instance>
+      <instance><id>U14</id></instance>
+      <instance><id>U13</id></instance>
+      </device>
+    </package>
+  <package><id>MICROUSB_B_4DIP</id>
+    <device><id>MICRO-USB_MICROUSB_B_4DIP_MICRO</id>
+      <instance><id>U11</id></instance>
       </device>
     </package>
   <package><id>TERMINAL-3P-5MM</id>
     <device><id>3P_TERMINAL-3P-5MM_3P</id>
       <instance><id>U9</id></instance>
-      <instance><id>U8</id></instance>
-      <instance><id>U18</id></instance>
-      <instance><id>U17</id></instance>
-      </device>
-    </package>
-  <package><id>TERMINAL-2P-5MM</id>
-    <device><id>2P_TERMINAL-2P-5MM_2P</id>
-      <instance><id>U16</id></instance>
-      </device>
-    </package>
-  <package><id>HK3FF</id>
-    <device><id>SL-5V-RELAY_HK3FF_SL-5V-RELAY</id>
-      <instance><id>U15</id></instance>
-      <instance><id>U14</id></instance>
-      <instance><id>U13</id></instance>
-      <instance><id>U12</id></instance>
-      </device>
-    </package>
-  <package><id>SOIC127P600X175-16</id>
-    <device><id>ULN2003_SOIC127P600X175-16_ULN2</id>
-      <instance><id>U11</id></instance>
-      </device>
-    <device><id>74HC595_SOIC127P600X175-16_74HC</id>
-      <instance><id>U7</id></instance>
+      <instance><id>U6</id></instance>
+      <instance><id>U5</id></instance>
       <instance><id>U10</id></instance>
       </device>
     </package>
-  <package><id>433MODULE_SYN480</id>
-    <device><id>433MODULE_433MODULE_SYN480_433M</id>
+  <package><id>AC_DC5V_RPD</id>
+    <device><id>AC-DC5V_AC_DC5V_RPD_AC-DC5V</id>
       <instance><id>U1</id></instance>
       </device>
     </package>
@@ -424,22 +406,24 @@
       </device>
     </package>
   <package><id>STD0603</id>
-    <device><id>R_STD0603_R</id>
-      <instance><id>R3</id></instance>
-      </device>
     <device><id>R_STD0603_10K/J/0603</id>
-      <instance><id>R18</id></instance>
-      <instance><id>R17</id></instance>
-      <instance><id>R16</id></instance>
+      <instance><id>R5</id></instance>
+      <instance><id>R3</id></instance>
+      <instance><id>R2</id></instance>
       </device>
     <device><id>R_STD0603_1K/J/0603</id>
       <instance><id>R9</id></instance>
       <instance><id>R8</id></instance>
       <instance><id>R7</id></instance>
       <instance><id>R6</id></instance>
-      <instance><id>R5</id></instance>
       <instance><id>R4</id></instance>
-      <instance><id>R2</id></instance>
+      <instance><id>R22</id></instance>
+      <instance><id>R21</id></instance>
+      <instance><id>R20</id></instance>
+      <instance><id>R19</id></instance>
+      <instance><id>R18</id></instance>
+      <instance><id>R17</id></instance>
+      <instance><id>R16</id></instance>
       <instance><id>R15</id></instance>
       <instance><id>R14</id></instance>
       <instance><id>R13</id></instance>
@@ -448,14 +432,16 @@
       <instance><id>R10</id></instance>
       <instance><id>R1</id></instance>
       </device>
-    <device><id>CAP NP_STD0603_100NF/50V/0603</id>
-      <instance><id>C7</id></instance>
-      <instance><id>C5</id></instance>
-      <instance><id>C2</id></instance>
-      </device>
     <device><id>CAP NP_STD0603_10UF/250V/0603</id>
+      <instance><id>C7</id></instance>
+      </device>
+    <device><id>CAP NP_STD0603_100NF/50V/0603</id>
       <instance><id>C6</id></instance>
       <instance><id>C4</id></instance>
+      <instance><id>C2</id></instance>
+      </device>
+    <device><id>CAP NP_STD0603_10UF/25V/0603</id>
+      <instance><id>C5</id></instance>
       <instance><id>C3</id></instance>
       <instance><id>C1</id></instance>
       </device>
