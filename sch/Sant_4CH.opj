@@ -136,10 +136,7 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\sant_4ch.dsn")
-      (Path "Design Resources" ".\sant_4ch.dsn" "SCHEMATIC1")
-      (Path "Outputs")
-      (Select "Design Resources"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -150,8 +147,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 222 1146 0 463")
-        (Scroll "776 20")
-        (Zoom "200")
+        (Scroll "3632 2180")
+        (Zoom "400")
         (Occurrence "/"))
       (Path "E:\SANT_4CH\SCH\SANT_4CH.DSN")
       (Schematic "SCHEMATIC1")

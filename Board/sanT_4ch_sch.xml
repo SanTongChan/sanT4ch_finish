@@ -134,7 +134,7 @@
     </net>
   <net><id>MODE_LED</id>
     <pin><id>R21.1</id></pin>
-    <pin><id>U16.12</id></pin>
+    <pin><id>U16.13</id></pin>
     </net>
   <net><id>CON_KEY4</id>
     <pin><id>R9.2</id></pin>
@@ -323,7 +323,7 @@
     </net>
   <net><id>433LED</id>
     <pin><id>R22.1</id></pin>
-    <pin><id>U16.13</id></pin>
+    <pin><id>U16.12</id></pin>
     </net>
   <package><id>SOT89_AM1117</id>
     <device><id>AMS1117_SOT89_AM1117_AMS1117</id>
