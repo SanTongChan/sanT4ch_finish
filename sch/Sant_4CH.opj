@@ -138,17 +138,18 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\sant_4ch.dsn")
       (Path "Design Resources" ".\sant_4ch.dsn" "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 225 0 463"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 225 0 463"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 222 1146 0 463")
+        (Placement "44 0 1 -1 -1 -8 -30 222 1146 0 463")
         (Scroll "776 20")
         (Zoom "200")
         (Occurrence "/"))
