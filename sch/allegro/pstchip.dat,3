@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Jun-16-2017 at 01:16:22}
+{ Using PSTWRITER 16.5.0 p001Jun-17-2017 at 14:04:56}
 primitive 'CAP NP_STD0603_10UF/25V/0603';
   pin
     '1':
@@ -249,30 +249,6 @@ primitive 'SL-5V-RELAY_HK3FF_SL-5V-RELAY';
     VALUE='SL-5V-RELAY';
   end_body;
 end_primitive;
-primitive '5P-1_ZCZ254-1X5_5P-1';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='5P-1';
-    JEDEC_TYPE='ZCZ254-1X5';
-    VALUE='5P-1';
-  end_body;
-end_primitive;
 primitive 'N76E003_TSOP65P640X120-20N_N76E';
   pin
     'P0.5':
@@ -511,6 +487,51 @@ primitive '74HC595_SOIC127P600X175-16_74HC';
     PART_NAME='74hc595';
     JEDEC_TYPE='SOIC127P600X175-16';
     VALUE='74hc595';
+  end_body;
+end_primitive;
+primitive '5P-1_ZCZ254-1X5_5P-1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='5P-1';
+    JEDEC_TYPE='ZCZ254-1X5';
+    VALUE='5P-1';
+  end_body;
+end_primitive;
+primitive '4P-1_ZCZ254-1X4_4P';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='4P-1';
+    JEDEC_TYPE='ZCZ254-1X4';
+    VALUE='4P';
   end_body;
 end_primitive;
 primitive '2P_TERMINAL-2P-5MM_2P';

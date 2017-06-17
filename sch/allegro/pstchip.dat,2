@@ -1,6 +1,6 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Jun-14-2017 at 03:25:43}
-primitive 'CAP NP_STD0603_10UF/250V/0603';
+{ Using PSTWRITER 16.5.0 p001Jun-17-2017 at 14:01:39}
+primitive 'CAP NP_STD0603_10UF/25V/0603';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -12,7 +12,7 @@ primitive 'CAP NP_STD0603_10UF/250V/0603';
   body
     PART_NAME='CAP NP';
     JEDEC_TYPE='STD0603';
-    VALUE='10UF/250V/0603';
+    VALUE='10UF/25V/0603';
   end_body;
 end_primitive;
 primitive 'CAP NP_STD0603_100NF/50V/0603';
@@ -28,6 +28,21 @@ primitive 'CAP NP_STD0603_100NF/50V/0603';
     PART_NAME='CAP NP';
     JEDEC_TYPE='STD0603';
     VALUE='100NF/50V/0603';
+  end_body;
+end_primitive;
+primitive 'CAP NP_STD0603_10UF/250V/0603';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='STD0603';
+    VALUE='10UF/250V/0603';
   end_body;
 end_primitive;
 primitive 'LED_LED_3MM_LED';
@@ -75,21 +90,6 @@ primitive 'R_STD0603_10K/J/0603';
     VALUE='10k/J/0603';
   end_body;
 end_primitive;
-primitive 'R_STD0603_R';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='STD0603';
-    VALUE='R';
-  end_body;
-end_primitive;
 primitive 'SW PUSHBUTTON_TS-039_SW PUSHBUT';
   pin
     '1':
@@ -105,79 +105,67 @@ primitive 'SW PUSHBUTTON_TS-039_SW PUSHBUT';
     VALUE='SW PUSHBUTTON';
   end_body;
 end_primitive;
-primitive '433MODULE_433MODULE_SYN480_433M';
+primitive 'AC-DC5V_AC_DC5V_RPD_AC-DC5V';
   pin
-    'VCC':
+    'L':
       PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'DATA':
+      PINUSE='POWER';
+    'N':
       PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'GND':
+      PINUSE='POWER';
+    '5V':
       PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
   end_pin;
   body
-    PART_NAME='433MODULE';
-    JEDEC_TYPE='433MODULE_SYN480';
-    VALUE='433MODULE';
+    PART_NAME='AC-DC5V';
+    JEDEC_TYPE='AC_DC5V_RPD';
+    VALUE='AC-DC5V';
   end_body;
 end_primitive;
-primitive '74HC595_SOIC127P600X175-16_74HC';
+primitive '3P_TERMINAL-3P-5MM_3P';
   pin
-    'QB':
+    '1':
       PIN_NUMBER='(1)';
-      OUTPUT_LOAD='(*)';
-    'QC':
+      PINUSE='UNSPEC';
+    '2':
       PIN_NUMBER='(2)';
-      OUTPUT_LOAD='(*)';
-    'QD':
+      PINUSE='UNSPEC';
+    '3':
       PIN_NUMBER='(3)';
-      OUTPUT_LOAD='(*)';
-    'QE':
-      PIN_NUMBER='(4)';
-      OUTPUT_LOAD='(*)';
-    'QF':
-      PIN_NUMBER='(5)';
-      OUTPUT_LOAD='(*)';
-    'QG':
-      PIN_NUMBER='(6)';
-      OUTPUT_LOAD='(*)';
-    'QH':
-      PIN_NUMBER='(7)';
-      OUTPUT_LOAD='(*)';
-    'QA':
-      PIN_NUMBER='(15)';
-      OUTPUT_LOAD='(*)';
-    'SQH':
-      PIN_NUMBER='(9)';
-      OUTPUT_LOAD='(*)';
-    'GND':
-      PIN_NUMBER='(8)';
-      PINUSE='POWER';
-    'VCC':
-      PIN_NUMBER='(16)';
-      PINUSE='POWER';
-    'SCLR':
-      PIN_NUMBER='(10)';
-      INPUT_LOAD='(*)';
-    'SCK':
-      PIN_NUMBER='(11)';
-      INPUT_LOAD='(*)';
-    'RCK':
-      PIN_NUMBER='(12)';
-      INPUT_LOAD='(*)';
-    'OE':
-      PIN_NUMBER='(13)';
-      INPUT_LOAD='(*)';
-    'SI':
-      PIN_NUMBER='(14)';
-      INPUT_LOAD='(*)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='74hc595';
-    JEDEC_TYPE='SOIC127P600X175-16';
-    VALUE='74hc595';
+    PART_NAME='3P';
+    JEDEC_TYPE='TERMINAL-3P-5MM';
+    VALUE='3P';
+  end_body;
+end_primitive;
+primitive 'MICRO-USB_MICROUSB_B_4DIP_MICRO';
+  pin
+    'VBUS':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'D-':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'D+':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'ID':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='MICRO-USB';
+    JEDEC_TYPE='MICROUSB_B_4DIP';
+    VALUE='MICRO';
   end_body;
 end_primitive;
 primitive 'ULN2003_SOIC127P600X175-16_ULN2';
@@ -261,37 +249,73 @@ primitive 'SL-5V-RELAY_HK3FF_SL-5V-RELAY';
     VALUE='SL-5V-RELAY';
   end_body;
 end_primitive;
-primitive '2P_TERMINAL-2P-5MM_2P';
+primitive 'N76E003_TSOP65P640X120-20N_N76E';
   pin
-    'COM':
+    'P0.5':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'OPEN':
+    'P0.6/TXD':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='2P';
-    JEDEC_TYPE='TERMINAL-2P-5MM';
-    VALUE='2P';
-  end_body;
-end_primitive;
-primitive '3P_TERMINAL-3P-5MM_3P';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
+    'P0.7/RXD':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
+    'P2.0/RST':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'P3.0/INTO':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'P1.7/INT1':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    'P1.6/ICPDA/TXD-1':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'VDD':
+      PIN_NUMBER='(9)';
+      PINUSE='POWER';
+    'P1.5':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    'P0.4':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+    'P0.3':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    'ICPCK/P0.2':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    'P0.1':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    'P0.0':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    'SPCLK/P1.0':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    'P1.1':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    'P1.2':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    'P1.3':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    'P1.4':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='3P';
-    JEDEC_TYPE='TERMINAL-3P-5MM';
-    VALUE='3P';
+    PART_NAME='N76E003';
+    JEDEC_TYPE='TSOP65P640X120-20N';
+    VALUE='N76E003';
   end_body;
 end_primitive;
 primitive 'PSFB04_PSF_PSFB04';
@@ -375,25 +399,94 @@ primitive 'PSFB04_PSF_PSFB04';
     VALUE='PSFB04';
   end_body;
 end_primitive;
-primitive 'AC-DC5V_AC_DC5V_RPD_AC-DC5V';
+primitive '433MODULE_433MODULE_SYN480_433M';
   pin
-    'L':
+    'VCC':
       PIN_NUMBER='(1)';
-      PINUSE='POWER';
-    'N':
+      PINUSE='UNSPEC';
+    'DATA':
       PIN_NUMBER='(2)';
-      PINUSE='POWER';
-    '5V':
-      PIN_NUMBER='(3)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'GND':
-      PIN_NUMBER='(4)';
-      PINUSE='POWER';
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='AC-DC5V';
-    JEDEC_TYPE='AC_DC5V_RPD';
-    VALUE='AC-DC5V';
+    PART_NAME='433MODULE';
+    JEDEC_TYPE='433MODULE_SYN480';
+    VALUE='433MODULE';
+  end_body;
+end_primitive;
+primitive '2P_ZCZ254-1X2_2P';
+  pin
+    'COM':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'OPEN':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='2P';
+    JEDEC_TYPE='ZCZ254-1X2';
+    VALUE='2P';
+  end_body;
+end_primitive;
+primitive '74HC595_SOIC127P600X175-16_74HC';
+  pin
+    'QB':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(*)';
+    'QC':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(*)';
+    'QD':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(*)';
+    'QE':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(*)';
+    'QF':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(*)';
+    'QG':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(*)';
+    'QH':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(*)';
+    'QA':
+      PIN_NUMBER='(15)';
+      OUTPUT_LOAD='(*)';
+    'SQH':
+      PIN_NUMBER='(9)';
+      OUTPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+    'VCC':
+      PIN_NUMBER='(16)';
+      PINUSE='POWER';
+    'SCLR':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(*)';
+    'SCK':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(*)';
+    'RCK':
+      PIN_NUMBER='(12)';
+      INPUT_LOAD='(*)';
+    'OE':
+      PIN_NUMBER='(13)';
+      INPUT_LOAD='(*)';
+    'SI':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='74hc595';
+    JEDEC_TYPE='SOIC127P600X175-16';
+    VALUE='74hc595';
   end_body;
 end_primitive;
 primitive '5P-1_ZCZ254-1X5_5P-1';
@@ -420,76 +513,28 @@ primitive '5P-1_ZCZ254-1X5_5P-1';
     VALUE='5P-1';
   end_body;
 end_primitive;
-primitive 'N76E003_TSOP65P640X120-20N_N76E';
+primitive '4P-1_ZCZ254-1X4_4P';
   pin
-    'P0.5':
+    '1':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'P0.6/TXD':
+    '2':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
-    'P0.7/RXD':
+    '3':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
-    'P2.0/RST':
+    '4':
       PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'P3.0/INTO':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'P1.7/INT1':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(7)';
-      PINUSE='POWER';
-    'P1.6/ICPDA/TXD-1':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    'VDD':
-      PIN_NUMBER='(9)';
-      PINUSE='POWER';
-    'P1.5':
-      PIN_NUMBER='(10)';
-      PINUSE='UNSPEC';
-    'P0.4':
-      PIN_NUMBER='(20)';
-      PINUSE='UNSPEC';
-    'P0.3':
-      PIN_NUMBER='(19)';
-      PINUSE='UNSPEC';
-    'ICPCK/P0.2':
-      PIN_NUMBER='(18)';
-      PINUSE='UNSPEC';
-    'P0.1':
-      PIN_NUMBER='(17)';
-      PINUSE='UNSPEC';
-    'P0.0':
-      PIN_NUMBER='(16)';
-      PINUSE='UNSPEC';
-    'SPCLK/P1.0':
-      PIN_NUMBER='(15)';
-      PINUSE='UNSPEC';
-    'P1.1':
-      PIN_NUMBER='(14)';
-      PINUSE='UNSPEC';
-    'P1.2':
-      PIN_NUMBER='(13)';
-      PINUSE='UNSPEC';
-    'P1.3':
-      PIN_NUMBER='(12)';
-      PINUSE='UNSPEC';
-    'P1.4':
-      PIN_NUMBER='(11)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='N76E003';
-    JEDEC_TYPE='TSOP65P640X120-20N';
-    VALUE='N76E003';
+    PART_NAME='4P-1';
+    JEDEC_TYPE='ZCZ254-1X4';
+    VALUE='4P';
   end_body;
 end_primitive;
-primitive '2P_ZCZ254-1X2_2P';
+primitive '2P_TERMINAL-2P-5MM_2P';
   pin
     'COM':
       PIN_NUMBER='(1)';
@@ -500,7 +545,7 @@ primitive '2P_ZCZ254-1X2_2P';
   end_pin;
   body
     PART_NAME='2P';
-    JEDEC_TYPE='ZCZ254-1X2';
+    JEDEC_TYPE='TERMINAL-2P-5MM';
     VALUE='2P';
   end_body;
 end_primitive;
@@ -523,30 +568,6 @@ primitive 'AMS1117_SOT89_AM1117_AMS1117';
     PART_NAME='AMS1117';
     JEDEC_TYPE='SOT89_AM1117';
     VALUE='AMS1117';
-  end_body;
-end_primitive;
-primitive 'MICRO-USB_MICROUSB_B_4DIP_MICRO';
-  pin
-    'VBUS':
-      PIN_NUMBER='(1)';
-      PINUSE='POWER';
-    'D-':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'D+':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'ID':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(5)';
-      PINUSE='POWER';
-  end_pin;
-  body
-    PART_NAME='MICRO-USB';
-    JEDEC_TYPE='MICROUSB_B_4DIP';
-    VALUE='MICRO';
   end_body;
 end_primitive;
 END.

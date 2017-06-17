@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.5.0 p001Jun-16-2017 at 01:16:22 }
+{ Using PSTWRITER 16.5.0 p001Jun-17-2017 at 14:04:56 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SANT_4CH';
@@ -478,16 +478,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U15 '5P-1_ZCZ254-1X5_5P-1':;
-
-SECTION_NUMBER 1
- '@SANT_4CH.SCHEMATIC1(SCH_1):INS16197@MODULE.5P-1.NORMAL(CHIPS)':
- C_PATH='@sant_4ch.schematic1(sch_1):ins16197@module.\5p-1.normal\(chips)',
- P_PATH='@sant_4ch.schematic1(sch_1):page1_ins16197@module.\5p-1.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  U16 'N76E003_TSOP65P640X120-20N_N76E':;
 
 SECTION_NUMBER 1
@@ -554,6 +544,16 @@ SECTION_NUMBER 1
  '@SANT_4CH.SCHEMATIC1(SCH_1):INS15471@MODULE.2P.NORMAL(CHIPS)':
  C_PATH='@sant_4ch.schematic1(sch_1):ins15471@module.\2p.normal\(chips)',
  P_PATH='@sant_4ch.schematic1(sch_1):page1_ins15471@module.\2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 '4P-1_ZCZ254-1X4_4P':;
+
+SECTION_NUMBER 1
+ '@SANT_4CH.SCHEMATIC1(SCH_1):INS40941@MODULE.4P-1.NORMAL(CHIPS)':
+ C_PATH='@sant_4ch.schematic1(sch_1):ins40941@module.\4p-1.normal\(chips)',
+ P_PATH='@sant_4ch.schematic1(sch_1):page1_ins40941@module.\4p-1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

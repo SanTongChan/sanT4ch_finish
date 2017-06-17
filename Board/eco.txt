@@ -3,19 +3,14 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  E:/sanT_4ch/Board/sanT_4ch.brd                                              |
-|                                                    Sat Jun 17 00:51:40 2017  |
+|                                                    Sat Jun 17 15:14:52 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  433LED       pins MOVED FROM this net (to net name listed on right)
-                                 U16.13           -222.9   786.4
-                                                                       MODE_LED
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  MODE_LED     pins MOVED FROM this net (to net name listed on right)
-                                 U16.12           -197.3   786.4
-                                                                         433LED
+  VCC3V3       pins ADDED TO this existing net (pins not previously on any net)
+                                 U8.2             -308.0   224.0
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  2                                              |
+|   total ECO changes reported  1                                              |
 |------------------------------------------------------------------------------|

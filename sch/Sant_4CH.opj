@@ -10,7 +10,7 @@
     (CompileFileAddedOrDeleted "x")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "1")
+    (ANNOTATE_Action "0")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
@@ -68,6 +68,14 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (2P
+      (FullPartName "2P.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0"))
+    (4P-1
+      (FullPartName "4P-1.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName
@@ -75,10 +83,6 @@
       (DeviceIndex "0"))
     (5P-1
       (FullPartName "5P-1.Normal")
-      (LibraryName "E:\PARTLIB\MODULE.OLB")
-      (DeviceIndex "0"))
-    (2P
-      (FullPartName "2P.Normal")
       (LibraryName "E:\PARTLIB\MODULE.OLB")
       (DeviceIndex "0"))
     ("SW PUSHBUTTON"
@@ -136,7 +140,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -147,8 +152,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 222 1146 0 463")
-        (Scroll "3632 2180")
-        (Zoom "400")
+        (Scroll "-121 0")
+        (Zoom "39")
         (Occurrence "/"))
       (Path "E:\SANT_4CH\SCH\SANT_4CH.DSN")
       (Schematic "SCHEMATIC1")
