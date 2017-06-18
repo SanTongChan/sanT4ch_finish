@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sun Jun 18 19:01:50 2017                      )
+(    Date/Time        : Sun Jun 18 19:09:27 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,23 +13,17 @@
 
 
 
-
- Can't open parameter file ... using default values:
-     DEVICE-TYPE        GERBER6X00
-     G-CODES            NO
-     STATIONS-PER-WHEEL 24
-     FILM-SIZE          24000 16000
-     COORDINATES        ABSOLUTE
-     OUTPUT-UNITS       INCHES
-     FORMAT             5.3
-     ABORT-ON-ERROR     abort film & continue
-     SUPPRESS-LEAD-ZEROES     YES
-     SUPPRESS-TRAIL-ZEROES    NO
-     OPTIMIZE           YES
-     SUPPRESS-EQUAL     YES
-     SCALE              1.0
-
-
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
 
 
 ================================================================
@@ -99,7 +93,7 @@
   ---------------------------------------------------------
   CIRCLE     0.00100                                  DARK 
 
-     outline created with warnings
+     outline created.
 
 
 ================================================================
@@ -125,7 +119,7 @@
   ---------------------------------------------------------
   CIRCLE     0.00600                                  DARK 
 
-     pmb created with warnings
+     pmb created.
 
 
 ================================================================
@@ -160,7 +154,7 @@
   PAD SHAPE  SRX1_93Y1_90R0_10           0.000 NO     DARK 
   PAD SHAPE  SRX0_63Y1_90R0_10           0.000 NO     DARK 
 
-     pmt created with warnings
+     pmt created.
 
 
 ================================================================
@@ -196,7 +190,7 @@
   SQUARE     0.08270                     0.000 NO     DARK 
   OBLONG     0.04330     x 0.05910       0.000 NO     DARK 
 
-     smb created with warnings
+     smb created.
 
 
 ================================================================
@@ -241,7 +235,7 @@
   PAD SHAPE  SRX2_03Y2_00R0_10           0.000 NO     DARK 
   PAD SHAPE  SRX0_73Y2_00R0_10           0.000 NO     DARK 
 
-     smt created with warnings
+     smt created.
 
 
 ================================================================
@@ -343,7 +337,7 @@
   PAD SHAPE  SRX1_93Y1_90R0_10           0.000 NO     DARK 
   PAD SHAPE  SRX0_63Y1_90R0_10           0.000 NO     DARK 
 
-     TOP created with warnings
+     TOP created.
 
 
 ================================================================
@@ -364,19 +358,19 @@
 
 
   APERTURES USED:  NONE
-     asssemblyBottom created with warnings
+     asssemblyBottom created.
 
 
 ------------------------------------------------------
  SUMMARY:
         assemblyTop created with warnings
-        outline created with warnings
-        pmb created with warnings
-        pmt created with warnings
-        smb created with warnings
-        smt created with warnings
+        outline created.
+        pmb created.
+        pmt created.
+        smb created.
+        smt created.
         BOTTOM created with warnings
-        TOP created with warnings
-        asssemblyBottom created with warnings
+        TOP created.
+        asssemblyBottom created.
 
- ARTWORK had warnings
+ ARTWORK finished

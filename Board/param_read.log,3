@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sun Jun 18 21:43:11 2017                      )
+(    Date/Time        : Sun Jun 18 18:32:01 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -24,6 +24,7 @@ Reading...artwork_film:
 	Reading...art_film_block_type:
 	Reading...art_class_type:
 	Reading...art_class_type:
+	WARNING: Unmatched Data - Field Name: subclass , Value: "NCLEGEND-1-2"
 	Reading...art_class_type:
 Reading...artwork_film:
 	Reading...art_film_type:
@@ -94,6 +95,7 @@ Reading...artwork_film:
 	Reading...art_class_type:
 	Reading...art_class_type:
 	Reading...art_class_type:
+	WARNING: Unmatched Data - Field Name: subclass , Value: "NCLEGEND-1-2"
 	Reading...art_class_type:
 	Reading...art_class_type:
 Reading...artwork_film:
@@ -108,4 +110,4 @@ Reading...artwork_film:
 
 
 ..... Total number of errors: 0.
-..... Total number of warnings: 2.
+..... Total number of warnings: 4.
