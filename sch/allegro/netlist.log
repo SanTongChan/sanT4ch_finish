@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.5.0 p001Jun-17-2017 at 15:14:45 }
+{ Using PSTWRITER 16.5.0 p001Jun-18-2017 at 10:33:42 }
 
 #1 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON_TS-039_SW PUSHBUTTON" is renamed to "SW PUSHBUTTON_TS-039_SW PUSHBUT".
 #2 WARNING(ORCAP-36006): Part Name "ULN2003_SOIC127P600X175-16_ULN2003" is renamed to "ULN2003_SOIC127P600X175-16_ULN2".
@@ -9,11 +9,11 @@
 #7 WARNING(ORCAP-36006): Part Name "74HC595_SOIC127P600X175-16_74HC595" is renamed to "74HC595_SOIC127P600X175-16_74HC".
 Scanning netlist files ...
 
-Loading... E:\sanT_4ch\sch\allegro/pstchip.dat
+Loading... e:\san4ch\sant4ch\sch\allegro/pstchip.dat
 
-Loading... E:\sanT_4ch\sch\allegro/pstchip.dat
+Loading... e:\san4ch\sant4ch\sch\allegro/pstchip.dat
 
-Loading... E:\sanT_4ch\sch\allegro/pstxprt.dat
+Loading... e:\san4ch\sant4ch\sch\allegro/pstxprt.dat
 
-Loading... E:\sanT_4ch\sch\allegro/pstxnet.dat
+Loading... e:\san4ch\sant4ch\sch\allegro/pstxnet.dat
 packaging the design view...

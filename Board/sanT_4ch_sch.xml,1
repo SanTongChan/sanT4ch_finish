@@ -62,6 +62,7 @@
     <pin><id>U16.1</id></pin>
     </net>
   <net><id>VCC3V3</id>
+    <pin><id>U8.2</id></pin>
     <pin><id>U22.1</id></pin>
     <pin><id>R4.1</id></pin>
     <pin><id>R1.1</id></pin>

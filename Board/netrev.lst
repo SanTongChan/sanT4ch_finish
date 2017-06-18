@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sat Jun 17 15:14:52 2017                      )
+(    Date/Time        : Sun Jun 18 10:34:06 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -16,21 +16,21 @@ RIPUP_DELETE_FIRST_SEGMENT FALSE;
 RIPUP_RETAIN_BONDWIRE FALSE;
 RIPUP_SYMBOLS ALWAYS;
 Missing symbol has error FALSE;
-SCHEMATIC_DIRECTORY 'E:/sanT_4ch/sch/allegro';
+SCHEMATIC_DIRECTORY 'E:/san4ch/Sant4ch/sch/allegro';
 BOARD_DIRECTORY '';
-OLD_BOARD_NAME 'E:/sanT_4ch/Board/sanT_4ch.brd';
-NEW_BOARD_NAME 'E:/sanT_4ch/Board/sanT_4ch.brd';
+OLD_BOARD_NAME 'E:/san4ch/Sant4ch/Board/sanT_4ch.brd';
+NEW_BOARD_NAME 'E:/san4ch/Sant4ch/Board/sanT_4ch.brd';
 
-CmdLine: netrev -$ -i E:/sanT_4ch/sch/allegro -x -u -t -y 1 -z E:/sanT_4ch/Board/#Taaaaaa04036.tmp
+CmdLine: netrev -$ -i E:/san4ch/Sant4ch/sch/allegro -x -u -t -y 1 -z E:/san4ch/Sant4ch/Board/#Taaaaaa07124.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read E:/sanT_4ch/sch/allegro/pstchip.dat 
-   Finished reading E:/sanT_4ch/sch/allegro/pstchip.dat (00:00:00.06)
-Starting to read E:/sanT_4ch/sch/allegro/pstxprt.dat 
-   Finished reading E:/sanT_4ch/sch/allegro/pstxprt.dat (00:00:00.01)
-Starting to read E:/sanT_4ch/sch/allegro/pstxnet.dat 
-   Finished reading E:/sanT_4ch/sch/allegro/pstxnet.dat (00:00:00.00)
+Starting to read E:/san4ch/Sant4ch/sch/allegro/pstchip.dat 
+   Finished reading E:/san4ch/Sant4ch/sch/allegro/pstchip.dat (00:00:00.07)
+Starting to read E:/san4ch/Sant4ch/sch/allegro/pstxprt.dat 
+   Finished reading E:/san4ch/Sant4ch/sch/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/san4ch/Sant4ch/sch/allegro/pstxnet.dat 
+   Finished reading E:/san4ch/Sant4ch/sch/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -61,7 +61,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Jun 17 15:14:52 2017
+netrev run on Jun 18 10:34:06 2017
    DESIGN NAME : 'SANT_4CH'
    PACKAGING ON Apr 21 2011 10:02:30
 
@@ -86,6 +86,6 @@ netrev run on Jun 17 15:14:52 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:51
-elapsed time  0:00:00
+cpu time      0:00:40
+elapsed time  0:00:01
 
