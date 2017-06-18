@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : #Taaaaaa11764.tmp                             )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sun Jun 18 19:09:01 2017                      )
+(    Date/Time        : Sun Jun 18 18:54:28 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,7 +19,7 @@
  MACHINE-OFFSET		x:0.000000	y:0.000000
  FEEDRATE		1
  COORDINATES		ABSOLUTE
- OUTPUT-UNITS		ENGLISH
+ OUTPUT-UNITS		METRIC
  TOOL-ORDER		INCREASING
  REPEAT-CODES		YES
  SUPPRESS-LEAD-ZEROES	YES

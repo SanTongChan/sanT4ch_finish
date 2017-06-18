@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : #Taaaaaa11764.tmp                             )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sun Jun 18 19:08:53 2017                      )
+(    Date/Time        : Sun Jun 18 18:54:20 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,7 +19,7 @@
  MACHINE-OFFSET		x:0.000000	y:0.000000
  FEEDRATE		1
  COORDINATES		ABSOLUTE
- OUTPUT-UNITS		ENGLISH
+ OUTPUT-UNITS		METRIC
  TOOL-ORDER		INCREASING
  REPEAT-CODES		YES
  SUPPRESS-LEAD-ZEROES	YES
@@ -34,6 +34,7 @@
  ENHANCED_EXCELLON	YES
  SCALE			1.000000
 
+ WARNING: Switching units system when generating drill output file data.
  WARNING: This design contains 4 slot holes that can NOT be drilled.
           They can be processed by NC routing instead.
 
@@ -48,16 +49,16 @@
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.  13.8000    0.0000/  0.0000      PLATED         39
-            2.  27.6000    0.0000/  0.0000      PLATED         14
-            3.  35.4000    0.0000/  0.0000      PLATED         20
-            4.  39.4000    0.0000/  0.0000      PLATED         10
-            5.  47.2000    0.0000/  0.0000      PLATED         14
-            6.  51.2000    0.0000/  0.0000      PLATED         20
-            7.  59.1000    0.0000/  0.0000      PLATED         10
-            8.  27.6000    0.0000/  0.0000  NON_PLATED          2
-            9. 123.6000    0.0000/  0.0000  NON_PLATED          2
-           10. 196.9000    0.0000/  0.0000  NON_PLATED          2
+            1.   0.3505    0.0000/  0.0000      PLATED         39
+            2.   0.7010    0.0000/  0.0000      PLATED         14
+            3.   0.8992    0.0000/  0.0000      PLATED         20
+            4.   1.0008    0.0000/  0.0000      PLATED         10
+            5.   1.1989    0.0000/  0.0000      PLATED         14
+            6.   1.3005    0.0000/  0.0000      PLATED         20
+            7.   1.5011    0.0000/  0.0000      PLATED         10
+            8.   0.7010    0.0000/  0.0000  NON_PLATED          2
+            9.   3.1394    0.0000/  0.0000  NON_PLATED          2
+           10.   5.0013    0.0000/  0.0000  NON_PLATED          2
 
      ---- Total holes:                                        133
 
