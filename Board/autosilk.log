@@ -1,0 +1,64 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : sanT_4ch.brd                                  )
+(    Software Version : 16.5P003                                      )
+(    Date/Time        : Sun Jun 18 11:29:16 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0
+Max Text displacement is 100.0
+Min Line Length is 0.0
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '5P-1' is not at a suitable location
+(location: -124.0, 1224.1)
+Text string 'R15' is not at a suitable location
+(location: -525.4, 535.6)
+Text string 'R11' is not at a suitable location
+(location: -362.4, 510.4)
+Text string 'R5' is not at a suitable location
+(location: -577.6, 260.4)
+Text string 'R4' is not at a suitable location
+(location: -447.4, 511.4)
+Text string 'C1' is not at a suitable location
+(location: -113.4, 509.4)
+Text string 'C5' is not at a suitable location
+(location: -277.4, 510.4)
+Text string 'R17' is not at a suitable location
+(location: 860.6, 848.4)
+Text string 'U19' is not at a suitable location
+(location: -1517.0, -1124.9)
+Text string '2P' is not at a suitable location
+(location: -1517.0, -1124.9)
+Text string 'U21' is not at a suitable location
+(location: -1517.0, -1226.9)
+Text string '2P' is not at a suitable location
+(location: -1517.0, -1226.9)
+Text string '74hc595' is not at a suitable location
+(location: 340.0, 372.3)
+Text string 'U12' is not at a suitable location
+(location: 290.0, 411.6)
+Text string 'ULN2003' is not at a suitable location
+(location: 290.0, 411.6)
+
+Total Failures: 15
+
+Log End
+

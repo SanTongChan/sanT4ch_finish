@@ -1,0 +1,73 @@
+Sun Jun 18 10:53:39 2017				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Jun 18 10:53:39 2017
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : sanT_4ch.brd                                  )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Sun Jun 18 10:53:39 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Jun 18 10:53:39 2017				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design = 'E:/san4ch/Sant4ch/Board/sanT_4ch.brd'
+Output design = ''
+Update mechanical symbols = 'NO'
+Update format symbols = 'NO'
+Update package symbols = 'NO'
+Update shape/flash symbols = 'NO'
+Update symbol padstacks = 'NO'
+Reset symbol text and size locations = 'NO'
+Reset Pin Escapes (fanouts) = 'NO'
+Ripup Etch = 'NO'
+Reset custom drill data = 'NO'
+Symbol list file = 'C:/Users/ADMINI~1/AppData/Local/Temp/#Taaaaac04904.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/candence/soft/SPB_16.5/share/local/pcb/symbols 
+           E:/candence/soft/SPB_16.5/share/pcb/pcb_lib/symbols 
+           E:/candence/soft/SPB_16.5/share/pcb/allegrolib/symbols 
+           E:\PCBSymbol 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/candence/soft/SPB_16.5/share/local/pcb/padstacks 
+           E:/candence/soft/SPB_16.5/share/pcb/pcb_lib/symbols 
+           E:/candence/soft/SPB_16.5/share/pcb/allegrolib/symbols 
+           E:\PCBSymbol 
+
+
+------ Symbol Refresh Messages ------
+
+'LED_3MM'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.

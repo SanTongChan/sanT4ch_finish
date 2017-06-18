@@ -65,7 +65,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File "e:\sant_4ch\sch\sant_4ch.drc"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (2P
@@ -144,7 +146,7 @@
       (Path "Design Resources" ".\sant_4ch.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\sant_4ch.dsn" "Design Cache")
       (Path "Outputs")
-      (Select "Design Resources" ".\sant_4ch.dsn" "SCHEMATIC1" "sanT4ch"))
+      (Select "Design Resources" ".\sant_4ch.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -155,8 +157,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 100 1089 100 524")
-        (Scroll "-62 0")
-        (Zoom "50")
+        (Scroll "1206 1736")
+        (Zoom "200")
         (Occurrence "/"))
       (Path "E:\SAN4CH\SANT4CH\SCH\SANT_4CH.DSN")
       (Schematic "SCHEMATIC1")

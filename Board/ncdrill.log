@@ -1,0 +1,67 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaa04904.tmp                             )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Sun Jun 18 12:00:51 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.3
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING: Design precision is greater than that of the drill output file data.
+          Data rounding errors are very possible.
+ WARNING: This design contains 4 slot holes that can NOT be drilled.
+          They can be processed by NC routing instead.
+
+
+
+ Drill files being output to directory 'E:/san4ch/Sant4ch/Board' ...
+
+
+
+     'sanT_4ch-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  13.8000    0.0000/  0.0000      PLATED         39
+            2.  27.6000    0.0000/  0.0000      PLATED         14
+            3.  35.4000    0.0000/  0.0000      PLATED         20
+            4.  39.4000    0.0000/  0.0000      PLATED         10
+            5.  47.2000    0.0000/  0.0000      PLATED         14
+            6.  51.2000    0.0000/  0.0000      PLATED         20
+            7.  59.1000    0.0000/  0.0000      PLATED         10
+            8.  27.6000    0.0000/  0.0000  NON_PLATED          2
+            9. 123.6000    0.0000/  0.0000  NON_PLATED          2
+           10. 196.9000    0.0000/  0.0000  NON_PLATED          2
+
+     ---- Total holes:                                        133
+
+     ---- Total head travel:              7.93 feet (2.42 meters)
+
