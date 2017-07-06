@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P003                                      )
-(    Date/Time        : Sun Jun 18 22:16:13 2017                      )
+(    Date/Time        : Fri Jul 07 03:15:59 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -39,14 +39,12 @@ Text string 'C1' is not at a suitable location
 (location: -113.4, 509.4)
 Text string 'C5' is not at a suitable location
 (location: -277.4, 510.4)
-Text string 'R17' is not at a suitable location
-(location: 860.6, 848.4)
 Text string 'U19' is not at a suitable location
 (location: -1517.0, -1124.9)
 Text string 'U21' is not at a suitable location
 (location: -1517.0, -1226.9)
 
-Total Failures: 9
+Total Failures: 8
 
 Log End
 

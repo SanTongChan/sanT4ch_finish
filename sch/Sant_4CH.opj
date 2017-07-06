@@ -70,6 +70,10 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (4P-1
+      (FullPartName "4P-1.Normal")
+      (LibraryName "E:\PARTLIB\MODULE.OLB")
+      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName
@@ -77,10 +81,6 @@
       (DeviceIndex "0"))
     (2P
       (FullPartName "2P.Normal")
-      (LibraryName "E:\PARTLIB\MODULE.OLB")
-      (DeviceIndex "0"))
-    (4P-1
-      (FullPartName "4P-1.Normal")
       (LibraryName "E:\PARTLIB\MODULE.OLB")
       (DeviceIndex "0"))
     (5P-1
@@ -145,20 +145,19 @@
       (Path "Design Resources" ".\sant_4ch.dsn")
       (Path "Design Resources" ".\sant_4ch.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\sant_4ch.dsn" "Design Cache")
-      (Path "Outputs")
-      (Select "Design Resources" ".\sant_4ch.dsn"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 225 0 463"))
+        (Placement "44 0 1 -1 -1 -8 -30 0 225 0 463"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 797 50 389")
-        (Scroll "6028 3151")
-        (Zoom "624")
+        (Placement "44 0 1 -1 -1 -8 -30 100 1143 100 461")
+        (Scroll "180 0")
+        (Zoom "82")
         (Occurrence "/"))
       (Path "E:\SAN4CHV2\SANT4CH_FINISH\SCH\SANT_4CH.DSN")
       (Schematic "SCHEMATIC1")

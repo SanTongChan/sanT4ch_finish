@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : #Taaaaaa11764.tmp                             )
+(    Drawing          : #Taaaaaa20152.tmp                             )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sun Jun 18 19:08:53 2017                      )
+(    Date/Time        : Fri Jul 07 03:33:51 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -39,7 +39,7 @@
 
 
 
- Drill files being output to directory 'E:/san4ch/Sant4ch/Board/gerber' ...
+ Drill files being output to directory 'E:/san4chV2/sanT4ch_finish/Board/gerber' ...
 
 
 
@@ -50,7 +50,7 @@
 
             1.  13.8000    0.0000/  0.0000      PLATED         39
             2.  27.6000    0.0000/  0.0000      PLATED         14
-            3.  35.4000    0.0000/  0.0000      PLATED         20
+            3.  35.4000    0.0000/  0.0000      PLATED         21
             4.  39.4000    0.0000/  0.0000      PLATED         10
             5.  47.2000    0.0000/  0.0000      PLATED         14
             6.  51.2000    0.0000/  0.0000      PLATED         20
@@ -59,7 +59,7 @@
             9. 123.6000    0.0000/  0.0000  NON_PLATED          2
            10. 196.9000    0.0000/  0.0000  NON_PLATED          2
 
-     ---- Total holes:                                        133
+     ---- Total holes:                                        134
 
-     ---- Total head travel:              7.93 feet (2.42 meters)
+     ---- Total head travel:              7.61 feet (2.32 meters)
 

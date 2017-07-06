@@ -2,8 +2,8 @@
 <!DOCTYPE net_list>
 <net_list>
   <net><id>GND</id>
+    <pin><id>U23.3</id></pin>
     <pin><id>U22.4</id></pin>
-    <pin><id>D1.1</id></pin>
     <pin><id>D3.1</id></pin>
     <pin><id>D2.1</id></pin>
     <pin><id>D5.1</id></pin>
@@ -20,14 +20,12 @@
     <pin><id>SW3.1</id></pin>
     <pin><id>SW1.1</id></pin>
     <pin><id>U12.8</id></pin>
-    <pin><id>U2.13</id></pin>
     <pin><id>U2.8</id></pin>
     <pin><id>U11.5</id></pin>
     <pin><id>U16.7</id></pin>
     <pin><id>R5.2</id></pin>
     <pin><id>U17.20</id></pin>
     <pin><id>U17.12</id></pin>
-    <pin><id>U18.3</id></pin>
     <pin><id>C2.2</id></pin>
     <pin><id>C1.2</id></pin>
     <pin><id>C6.2</id></pin>
@@ -48,13 +46,10 @@
     <pin><id>U16.4</id></pin>
     </net>
   <net><id>SI</id>
+    <pin><id>R23.2</id></pin>
     <pin><id>U2.14</id></pin>
+    <pin><id>U2.13</id></pin>
     <pin><id>U16.5</id></pin>
-    </net>
-  <net><id>LIMIT1</id>
-    <pin><id>R4.2</id></pin>
-    <pin><id>U19.2</id></pin>
-    <pin><id>U16.20</id></pin>
     </net>
   <net><id>LIMIT2</id>
     <pin><id>R11.2</id></pin>
@@ -62,8 +57,11 @@
     <pin><id>U16.1</id></pin>
     </net>
   <net><id>VCC3V3</id>
+    <pin><id>U23.1</id></pin>
+    <pin><id>R23.1</id></pin>
     <pin><id>U8.2</id></pin>
     <pin><id>U22.1</id></pin>
+    <pin><id>D1.2</id></pin>
     <pin><id>R4.1</id></pin>
     <pin><id>R1.1</id></pin>
     <pin><id>R16.1</id></pin>
@@ -83,7 +81,6 @@
     <pin><id>R2.1</id></pin>
     <pin><id>R3.1</id></pin>
     <pin><id>U17.23</id></pin>
-    <pin><id>U18.1</id></pin>
     <pin><id>C2.1</id></pin>
     <pin><id>C1.1</id></pin>
     <pin><id>C6.1</id></pin>
@@ -103,8 +100,8 @@
     <pin><id>U1.1</id></pin>
     </net>
   <net><id>433DATA</id>
+    <pin><id>U23.2</id></pin>
     <pin><id>U16.10</id></pin>
-    <pin><id>U18.2</id></pin>
     </net>
   <net><id>N30591</id>
     <pin><id>R20.2</id></pin>
@@ -148,7 +145,7 @@
     </net>
   <net><id>N31028</id>
     <pin><id>R12.2</id></pin>
-    <pin><id>D1.2</id></pin>
+    <pin><id>D1.1</id></pin>
     </net>
   <net><id>RCK</id>
     <pin><id>U2.12</id></pin>
@@ -159,16 +156,21 @@
     <pin><id>U2.11</id></pin>
     <pin><id>U16.8</id></pin>
     </net>
-  <net><id>RELAY4/CLK</id>
-    <pin><id>U20.2</id></pin>
-    <pin><id>U16.18</id></pin>
-    <pin><id>R5.1</id></pin>
-    <pin><id>U17.8</id></pin>
-    </net>
   <net><id>CON_KEY2</id>
     <pin><id>SW2.2</id></pin>
     <pin><id>R7.2</id></pin>
     <pin><id>U16.13</id></pin>
+    </net>
+  <net><id>RELAY4</id>
+    <pin><id>U16.19</id></pin>
+    <pin><id>R5.1</id></pin>
+    <pin><id>U17.8</id></pin>
+    </net>
+  <net><id>LIMIT1/CLK</id>
+    <pin><id>R4.2</id></pin>
+    <pin><id>U19.2</id></pin>
+    <pin><id>U20.2</id></pin>
+    <pin><id>U16.18</id></pin>
     </net>
   <net><id>N03089</id>
     <pin><id>R3.2</id></pin>
@@ -267,7 +269,7 @@
     <pin><id>U12.13</id></pin>
     </net>
   <net><id>RELAY3</id>
-    <pin><id>U16.19</id></pin>
+    <pin><id>U16.20</id></pin>
     <pin><id>U17.11</id></pin>
     </net>
   <net><id>COM1</id>
@@ -332,6 +334,11 @@
       <instance><id>U7</id></instance>
       </device>
     </package>
+  <package><id>433MODULE_SYN480</id>
+    <device><id>4P-1_433MODULE_SYN480_433MODULE</id>
+      <instance><id>U23</id></instance>
+      </device>
+    </package>
   <package><id>ZCZ254-1X4</id>
     <device><id>4P-1_ZCZ254-1X4_4P</id>
       <instance><id>U22</id></instance>
@@ -354,11 +361,6 @@
     <device><id>2P_ZCZ254-1X2_2P</id>
       <instance><id>U21</id></instance>
       <instance><id>U19</id></instance>
-      </device>
-    </package>
-  <package><id>433MODULE_SYN480</id>
-    <device><id>433MODULE_433MODULE_SYN480_433M</id>
-      <instance><id>U18</id></instance>
       </device>
     </package>
   <package><id>PSF</id>
@@ -418,6 +420,7 @@
       <instance><id>R7</id></instance>
       <instance><id>R6</id></instance>
       <instance><id>R4</id></instance>
+      <instance><id>R23</id></instance>
       <instance><id>R22</id></instance>
       <instance><id>R21</id></instance>
       <instance><id>R20</id></instance>

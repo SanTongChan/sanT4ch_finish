@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.5.0 p001Jul-06-2017 at 15:28:13 }
+{ Using PSTWRITER 16.5.0 p001Jul-07-2017 at 02:43:10 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SANT_4CH';
@@ -508,16 +508,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U18 '433MODULE_433MODULE_SYN480_433M':;
-
-SECTION_NUMBER 1
- '@SANT_4CH.SCHEMATIC1(SCH_1):INS2329@MODULE.433MODULE.NORMAL(CHIPS)':
- C_PATH='@sant_4ch.schematic1(sch_1):ins2329@module.\433module.normal\(chips)',
- P_PATH='@sant_4ch.schematic1(sch_1):page1_ins2329@module.\433module.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  U19 '2P_ZCZ254-1X2_2P':;
 
 SECTION_NUMBER 1
@@ -564,6 +554,16 @@ SECTION_NUMBER 1
  '@SANT_4CH.SCHEMATIC1(SCH_1):INS40941@MODULE.4P-1.NORMAL(CHIPS)':
  C_PATH='@sant_4ch.schematic1(sch_1):ins40941@module.\4p-1.normal\(chips)',
  P_PATH='@sant_4ch.schematic1(sch_1):page1_ins40941@module.\4p-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 '4P-1_433MODULE_SYN480_433MODULE':;
+
+SECTION_NUMBER 1
+ '@SANT_4CH.SCHEMATIC1(SCH_1):INS48645@MODULE.4P-1.NORMAL(CHIPS)':
+ C_PATH='@sant_4ch.schematic1(sch_1):ins48645@module.\4p-1.normal\(chips)',
+ P_PATH='@sant_4ch.schematic1(sch_1):page1_ins48645@module.\4p-1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

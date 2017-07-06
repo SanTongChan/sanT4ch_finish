@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.5.0 p001Jun-18-2017 at 10:50:10 }
+{ Using PSTWRITER 16.5.0 p001Jul-06-2017 at 15:10:14 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SANT_4CH';
@@ -294,6 +294,16 @@ SECTION_NUMBER 1
  '@SANT_4CH.SCHEMATIC1(SCH_1):INS30373@DISCRETE.R.NORMAL(CHIPS)':
  C_PATH='@sant_4ch.schematic1(sch_1):ins30373@discrete.\r.normal\(chips)',
  P_PATH='@sant_4ch.schematic1(sch_1):page1_ins30373@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_STD0603_1K/J/0603':;
+
+SECTION_NUMBER 1
+ '@SANT_4CH.SCHEMATIC1(SCH_1):INS45145@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sant_4ch.schematic1(sch_1):ins45145@discrete.\r.normal\(chips)',
+ P_PATH='@sant_4ch.schematic1(sch_1):page1_ins45145@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

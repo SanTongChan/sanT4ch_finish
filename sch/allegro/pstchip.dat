@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Jul-06-2017 at 15:28:13}
+{ Using PSTWRITER 16.5.0 p001Jul-07-2017 at 02:43:10}
 primitive 'CAP NP_STD0603_10UF/25V/0603';
   pin
     '1':
@@ -399,24 +399,6 @@ primitive 'PSFB04_PSF_PSFB04';
     VALUE='PSFB04';
   end_body;
 end_primitive;
-primitive '433MODULE_433MODULE_SYN480_433M';
-  pin
-    'VCC':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'DATA':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='433MODULE';
-    JEDEC_TYPE='433MODULE_SYN480';
-    VALUE='433MODULE';
-  end_body;
-end_primitive;
 primitive '2P_ZCZ254-1X2_2P';
   pin
     'COM':
@@ -532,6 +514,27 @@ primitive '4P-1_ZCZ254-1X4_4P';
     PART_NAME='4P-1';
     JEDEC_TYPE='ZCZ254-1X4';
     VALUE='4P';
+  end_body;
+end_primitive;
+primitive '4P-1_433MODULE_SYN480_433MODULE';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='4P-1';
+    JEDEC_TYPE='433MODULE_SYN480';
+    VALUE='433MODULE';
   end_body;
 end_primitive;
 primitive '2P_TERMINAL-2P-5MM_2P';

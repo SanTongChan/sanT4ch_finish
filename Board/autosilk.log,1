@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P003                                      )
-(    Date/Time        : Sun Jun 18 11:29:16 2017                      )
+(    Date/Time        : Sun Jun 18 22:09:45 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,13 +19,13 @@ Min Line Length is 0.0
 Allowing 0, 90, 180 and 270 degree text rotations.
 Text Allowed Under Components.
 Subclass Selections:
- Board Geometry       : Silkscreen
+ Board Geometry       : None
  Component Value      : Silkscreen
- Device Type          : Silkscreen
+ Device Type          : None
  Package Geometry     : Silkscreen
  Reference Designator : Silkscreen
- Tolerance            : Silkscreen
- User Part Number     : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
 
 Text string '5P-1' is not at a suitable location
 (location: -124.0, 1224.1)
