@@ -1,9 +1,9 @@
 G04 ================== begin FILE IDENTIFICATION RECORD ==================*
-G04 Layout Name:  E:/san4ch/Sant4ch/Board/sanT_4ch.brd*
+G04 Layout Name:  E:/san4chV2/sanT4ch_finish/Board/sanT_4ch.brd*
 G04 Film Name:    pmb*
 G04 File Format:  Gerber RS274X*
 G04 File Origin:  Cadence Allegro 16.5-P002*
-G04 Origin Date:  Sun Jun 18 22:30:02 2017*
+G04 Origin Date:  Thu Jul 06 18:54:33 2017*
 G04 *
 G04 Layer:  VIA CLASS/PASTEMASK_BOTTOM*
 G04 Layer:  PIN/PASTEMASK_BOTTOM*
@@ -45,6 +45,11 @@ Y-81730D01*
 X-136650Y-81020D01*
 X-132640D01*
 X-132280Y-81380D01*
+G01X-125100Y13900D02*
+Y48500D01*
+X-111000D01*
+Y13900D01*
+X-125100D01*
 G01X-120080Y-35430D02*
 X-110240D01*
 Y-21650D01*

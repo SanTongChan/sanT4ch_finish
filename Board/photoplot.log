@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sun Jun 18 22:30:02 2017                      )
+(    Date/Time        : Thu Jul 06 18:54:33 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -28,7 +28,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < assemblyTop >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/assemblyTop.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/assemblyTop.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -72,7 +72,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < drillmap >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/drillmap.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/drillmap.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -98,7 +98,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < outline >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/outline.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/outline.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -124,7 +124,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < pmb >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/pmb.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/pmb.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -150,7 +150,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < pmt >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/pmt.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/pmt.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -185,7 +185,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < smb >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/smb.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/smb.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -208,6 +208,7 @@ Results from parameter file ...
   CIRCLE     0.02360                                  DARK 
   CIRCLE     0.06300                                  DARK 
   CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.08000                                  DARK 
   CIRCLE     0.08270                                  DARK 
   CIRCLE     0.08860                                  DARK 
   CIRCLE     0.10240                                  DARK 
@@ -221,7 +222,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < smt >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/smt.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/smt.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -266,7 +267,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/BOTTOM.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -279,7 +280,7 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
 
-    WARNING: rectangle or unfilled shape composed 0 width line found at (-1092.5 -1280.3)
+    WARNING: rectangle or unfilled shape composed 0 width line found at (-1251.0 139.0)
            ... ignored!
 
     WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
@@ -317,7 +318,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/TOP.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -368,7 +369,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < asssemblyBottom >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/asssemblyBottom.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/asssemblyBottom.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -389,7 +390,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < FAB >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/FAB.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/FAB.art > ...
 ================================================================
 
   FILM PARAMETERS :

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P003                                      )
-(    Date/Time        : Sun Jun 18 21:41:31 2017                      )
+(    Date/Time        : Sun Jun 18 22:28:39 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -12,7 +12,4 @@
 Begin processing of drill legend template file 'E:/candence/soft/SPB_16.5/share/pcb/text/nclegend/default-mil.dlt' ...
 WARNING(SPMHSK-50): Title box height specified is too small such that title text may overwrite the table ... specify at least 250.400000 (design units). [help]
 End of drill legend template file processing.
-
-Begin processing drill holes.
-No errors detected in processing holes.
-End processing drill holes.
+Drill Legend command cancelled.

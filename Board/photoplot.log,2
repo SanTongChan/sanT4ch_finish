@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sanT_4ch.brd                                  )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sun Jun 18 21:43:55 2017                      )
+(    Date/Time        : Thu Jul 06 18:47:58 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,22 +13,28 @@
 
 
 
-Results from parameter file ...
-    DEVICE-TYPE           GERBER_RS274X
-    OUTPUT-UNITS          INCHES
-    FILM-SIZE             2400000 1600000
-    FORMAT                3.5
-    ABORT-ON-ERROR        NO
-    SCALE                 1
-    SUPPRESS-LEAD-ZEROES  YES
-    SUPPRESS-TRAIL-ZEROES NO
-    SUPPRESS-EQUAL        YES
-    UNDEF-APT-CONT        NO
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
 
 
 ================================================================
      PROCESSING FILM < assemblyTop >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/assemblyTop.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/assemblyTop.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -72,7 +78,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < drillmap >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/drillmap.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/drillmap.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -93,12 +99,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00100                                  DARK 
 
-     drillmap created.
+     drillmap created with warnings
 
 
 ================================================================
      PROCESSING FILM < outline >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/outline.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/outline.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -119,12 +125,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00100                                  DARK 
 
-     outline created.
+     outline created with warnings
 
 
 ================================================================
      PROCESSING FILM < pmb >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/pmb.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/pmb.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -145,12 +151,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00600                                  DARK 
 
-     pmb created.
+     pmb created with warnings
 
 
 ================================================================
      PROCESSING FILM < pmt >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/pmt.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/pmt.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -180,12 +186,12 @@ Results from parameter file ...
   PAD SHAPE  SRX1_93Y1_90R0_10           0.000 NO     DARK 
   PAD SHAPE  SRX0_63Y1_90R0_10           0.000 NO     DARK 
 
-     pmt created.
+     pmt created with warnings
 
 
 ================================================================
      PROCESSING FILM < smb >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/smb.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/smb.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -208,6 +214,7 @@ Results from parameter file ...
   CIRCLE     0.02360                                  DARK 
   CIRCLE     0.06300                                  DARK 
   CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.08000                                  DARK 
   CIRCLE     0.08270                                  DARK 
   CIRCLE     0.08860                                  DARK 
   CIRCLE     0.10240                                  DARK 
@@ -216,12 +223,12 @@ Results from parameter file ...
   SQUARE     0.08270                     0.000 NO     DARK 
   OBLONG     0.04330     x 0.05910       0.000 NO     DARK 
 
-     smb created.
+     smb created with warnings
 
 
 ================================================================
      PROCESSING FILM < smt >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/smt.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/smt.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -261,12 +268,12 @@ Results from parameter file ...
   PAD SHAPE  SRX2_03Y2_00R0_10           0.000 NO     DARK 
   PAD SHAPE  SRX0_73Y2_00R0_10           0.000 NO     DARK 
 
-     smt created.
+     smt created with warnings
 
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/BOTTOM.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -279,7 +286,7 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
 
-    WARNING: rectangle or unfilled shape composed 0 width line found at (-1092.5 -1280.3)
+    WARNING: rectangle or unfilled shape composed 0 width line found at (-1251.0 139.0)
            ... ignored!
 
     WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
@@ -317,7 +324,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/TOP.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -363,12 +370,12 @@ Results from parameter file ...
   PAD SHAPE  SRX1_93Y1_90R0_10           0.000 NO     DARK 
   PAD SHAPE  SRX0_63Y1_90R0_10           0.000 NO     DARK 
 
-     TOP created.
+     TOP created with warnings
 
 
 ================================================================
      PROCESSING FILM < asssemblyBottom >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/asssemblyBottom.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/asssemblyBottom.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -384,12 +391,12 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     asssemblyBottom created.
+     asssemblyBottom created with warnings
 
 
 ================================================================
      PROCESSING FILM < FAB >
-     TO FILE < E:/san4ch/Sant4ch/Board/gerber/FAB.art > ...
+     TO FILE < E:/san4chV2/sanT4ch_finish/Board/gerber/FAB.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -430,21 +437,21 @@ Results from parameter file ...
   PAD SHAPE  SRX1_93Y1_90R0_10           0.000 NO     DARK 
   PAD SHAPE  SRX0_63Y1_90R0_10           0.000 NO     DARK 
 
-     FAB created.
+     FAB created with warnings
 
 
 ------------------------------------------------------
  SUMMARY:
         assemblyTop created with warnings
-        drillmap created.
-        outline created.
-        pmb created.
-        pmt created.
-        smb created.
-        smt created.
+        drillmap created with warnings
+        outline created with warnings
+        pmb created with warnings
+        pmt created with warnings
+        smb created with warnings
+        smt created with warnings
         BOTTOM created with warnings
-        TOP created.
-        asssemblyBottom created.
-        FAB created.
+        TOP created with warnings
+        asssemblyBottom created with warnings
+        FAB created with warnings
 
- ARTWORK finished
+ ARTWORK had warnings
