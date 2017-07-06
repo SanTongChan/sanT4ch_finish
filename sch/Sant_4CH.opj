@@ -70,6 +70,11 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "E:\CANDENCE\SOFT\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (2P
       (FullPartName "2P.Normal")
       (LibraryName "E:\PARTLIB\MODULE.OLB")
@@ -77,11 +82,6 @@
     (4P-1
       (FullPartName "4P-1.Normal")
       (LibraryName "E:\PARTLIB\MODULE.OLB")
-      (DeviceIndex "0"))
-    (R
-      (FullPartName "R.Normal")
-      (LibraryName
-         "E:\CANDENCE\SOFT\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     (5P-1
       (FullPartName "5P-1.Normal")
@@ -156,11 +156,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1089 100 524")
-        (Scroll "1206 1736")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -30 50 797 50 389")
+        (Scroll "6028 3151")
+        (Zoom "624")
         (Occurrence "/"))
-      (Path "E:\SAN4CH\SANT4CH\SCH\SANT_4CH.DSN")
+      (Path "E:\SAN4CHV2\SANT4CH_FINISH\SCH\SANT_4CH.DSN")
       (Schematic "SCHEMATIC1")
       (Page "sanT4ch")))
   (ISPCBBASICLICENSE "false"))
