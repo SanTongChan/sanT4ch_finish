@@ -1,0 +1,31 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : sanT_4ch.brd                                  )
+(    Software Version : 16.5P003                                      )
+(    Date/Time        : Fri Jul 07 14:58:24 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	E:/candence/soft/SPB_16.5/share/local/pcb/symbols
+	E:/candence/soft/SPB_16.5/share/pcb/pcb_lib/symbols
+	E:/candence/soft/SPB_16.5/share/pcb/allegrolib/symbols
+	E:\PCBSymbol
+	E:\PCBSymbol
+	E:\PCBSymbol
+	E:\PCBSymbol
+	E:\PCBSymbol
+
+
+All Symbols Found
+
+Total symbols placed:      63 out of 63
+
+

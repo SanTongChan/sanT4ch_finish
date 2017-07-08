@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : sanT_4ch.brd                                  )
+(    Software Version : 16.5P003                                      )
+(    Date/Time        : Fri Jul 07 14:55:27 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 8
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (164.6 318.8)  Net: GND
+	Point on shape: (-935.0 788.8)  Net: GND
+	Point on shape: (-125.3 895.8)  Net: GND
+	Point on shape: (-1222.2 1152.1)  Net: GND
+	Point on shape: (-177.8 1356.4)  Net: GND
+	Point on shape: (-275.3 1364.1)  Net: GND
+	Point on shape: (-77.8 1356.4)  Net: GND
+	Point on shape: (22.2 1356.4)  Net: GND
